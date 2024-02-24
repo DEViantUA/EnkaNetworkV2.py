@@ -5,7 +5,7 @@
 
 # 💾 วิธีการติดตั้ง
 ```
-pip install enkanetworkV2.py
+pip install enkanetworkv2.py
 ```
 
 # ✨ วิธีใช้
