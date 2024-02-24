@@ -42,7 +42,7 @@ Library for API wrapper data from site https://enka.network/
 # Installation
 
 ```
-pip install enkanetwork.py
+pip install enkanetworkv2.py
 ```
 
 # Usage
