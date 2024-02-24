@@ -1,5 +1,8 @@
 # Enka Network Python
 
+> [!NOTE]  
+> This module is a complete copy of the module: [enkanetwork.py](https://github.com/mrwan200/EnkaNetwork.py) but with fixing problems with pydantic V2 > compatibility and updating assets.
+
 EN | [TH](https://github.com/DEViantUA/EnkaNetworkV2.py/blob/master/README_TH.md) | [JA](https://github.com/DEViantUA/EnkaNetworkV2.py/blob/master/README_JA.md)
 
 Library for API wrapper data from site https://enka.network/
