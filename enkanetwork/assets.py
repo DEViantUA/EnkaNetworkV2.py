@@ -73,6 +73,18 @@ class Assets:
         })
 
     @classmethod
+    def character_avatar(cls, id: int) -> Optional[assets.CharacterCostume]:
+        LOGGER.debug(f"Getting costume assets with id: {id}")
+        data = cls.DATA["pfps"].get(str(id))
+        if not data:
+            LOGGER.error(f"Costume not found with id: {id}")
+            return        
+        return assets.CharacterAvatar.parse_obj({
+            "id": id,
+            "images": cls.create_character_icon(data["iconPath"])
+        })
+    
+    @classmethod
     def character_costume(cls, id: int) -> Optional[assets.CharacterCostume]:
         LOGGER.debug(f"Getting costume assets with id: {id}")
         data = cls.DATA["costumes"].get(str(id))
@@ -165,6 +177,14 @@ class Assets:
             return
 
         return data.images
+    
+    @classmethod
+    def character_icon_pfps(cls, id: int) -> Optional[assets.CharacterIconAsset]:
+        data = cls.character(id)
+        if not data:
+            return
+
+        return data.images
 
     @staticmethod
     def create_character_icon(path: str) -> assets.CharacterIconAsset:
@@ -174,6 +194,8 @@ class Assets:
             banner=utils.IconAsset(filename=path.replace("AvatarIcon_Side", "Gacha_AvatarImg")),  # noqa: E501
             card=utils.IconAsset(filename=path.replace("_Side", "") + "_Card")
         )
+        
+         
 
     @classmethod
     def create_chractar_costume_icon(cls, path: str) -> assets.CharacterIconAsset:  # noqa: E501

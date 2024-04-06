@@ -29,6 +29,9 @@ from __future__ import annotations
 import re
 import logging
 import sys
+import os
+import aiohttp
+import json
 
 from typing import Any, Dict, TYPE_CHECKING
 
@@ -121,3 +124,12 @@ async def to_data(response: ClientResponse) -> Dict[str, Any]:
         "content": data
     }
     return content
+
+
+async def update_pfps(path):
+    async with aiohttp.ClientSession() as session:
+        async with session.get("https://raw.githubusercontent.com/EnkaNetwork/API-docs/master/store/pfps.json") as response:
+            data = await response.json()
+    
+    with open(os.path.join(path, "pfps.json"), 'w',  encoding='utf-8') as file:
+        json.dump(data, file, indent=4)

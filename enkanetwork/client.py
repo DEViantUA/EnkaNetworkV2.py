@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import os
 import json
 import logging
 
@@ -15,6 +14,7 @@ from .model.base import (
 from .model.hoyos import PlayerHoyos
 from .model.build import Builds
 
+from .utils import update_pfps
 from .assets import Assets
 from .enum import Language
 from .cache import Cache, StaticCache
@@ -202,7 +202,6 @@ class EnkaNetworkAPI:
                     metaname=data["owner"]["hash"]
                 )
             }
-
         return EnkaNetworkResponse.parse_obj(data)
 
     async def fetch_user_by_username(
@@ -389,9 +388,10 @@ class EnkaNetworkAPI:
     async def update_assets(self) -> None:
         path = Assets._get_path_assets()
         tools = enkatools.Tools()
-        path =  path["data"].replace("\data",'').replace("\\data",'')
-        await tools.update_assets(path = path)
+        path = path["data"].replace("\\data", '')
         
+        await update_pfps(papath = path)
+        await tools.update_assets(path = path)
         
         self.assets.reload_assets()
         

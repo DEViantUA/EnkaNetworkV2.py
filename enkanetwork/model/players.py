@@ -41,11 +41,16 @@ class ProfilePicture(BaseModel):
                 icon = _data.images if _data is not None else _data
             else:
                 icon = Assets.character_icon(str(data["avatarId"]))
-
-            if not icon:
-                return
-
-            self.icon = icon.icon
+        elif "id" in data:
+            self.id = int(data["id"])
+            _data = Assets.character_avatar(self.id)
+            icon = _data.images if _data is not None else _data
+            
+            
+        if not icon:
+            return    
+         
+        self.icon = icon.icon
 
 
 class showAvatar(BaseModel):

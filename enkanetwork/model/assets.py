@@ -121,6 +121,21 @@ class CharacterCostume(BaseModel):
     """
     id: int = 0
     images: CharacterIconAsset = None
+    
+class CharacterAvatar(BaseModel):
+    """ Character Costume (Assets)
+
+    Attributes
+    ------------
+    id: :class:`int`
+        Costume ID
+    hash_id: :class:`str`
+        Costume hash id
+    icon: :class:`IconAsset`
+        A icon assets. Please refers in `IconAsset` class
+    """
+    id: int = 0
+    images: CharacterIconAsset = None
 
 class AritfactProps(BaseModel):
     id: int = 0

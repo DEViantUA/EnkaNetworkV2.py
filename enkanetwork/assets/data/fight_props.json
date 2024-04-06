@@ -2081,6 +2081,12 @@
     "SHOP_TYPE_FOOD": {
         "nameTextMapHash": 1472533212
     },
+    "SHOP_TYPE_ACTIVITY": {
+        "nameTextMapHash": 2394375340
+    },
+    "SHOP_TYPE_NPC_SHOP": {
+        "nameTextMapHash": 646250532
+    },
     "SHOP_TYPE_LIYUE_GROCERY": {
         "nameTextMapHash": 3403444761
     },
@@ -4550,11 +4556,11 @@
     "PERSONAL_LINE_SHOUGUN_SECOND_START": {
         "nameTextMapHash": 4264533554
     },
-    "PERSONAL_LINE_LIUYUN": {
-        "nameTextMapHash": 1689507327
+    "PERSONAL_LINE_CHIORI": {
+        "nameTextMapHash": 728395351
     },
-    "PERSONAL_LINE_LIUYUN_LINE_START": {
-        "nameTextMapHash": 1500543096
+    "PERSONAL_LINE_CHIORI_LINE_START": {
+        "nameTextMapHash": 52878078
     },
     "QUEST_Message_Q7266002": {
         "nameTextMapHash": 2752039096
@@ -6076,6 +6082,9 @@
     },
     "LEVEL_BUTTON_CATCH": {
         "nameTextMapHash": 1925976587
+    },
+    "LEVEL_BUTTON_CATCH_A_BUTTERFLY": {
+        "nameTextMapHash": 3245009171
     },
     "LEVEL_CYG_XIANBEISHAN": {
         "nameTextMapHash": 3425661936
@@ -8312,6 +8321,24 @@
     "UI_HOMEWORLD_FILTER_FURNITURE_NULL_TIPS": {
         "nameTextMapHash": 3644276381
     },
+    "UI_HOMEWORLD_CAT_BUTTON": {
+        "nameTextMapHash": 3698952649
+    },
+    "UI_HOMEWORLD_CAT_NOCATS_TIPS": {
+        "nameTextMapHash": 3857409401
+    },
+    "UI_HOMEWORLD_CAT_CHOOSECAT_TITLE": {
+        "nameTextMapHash": 1986095334
+    },
+    "UI_HOMEWORLD_CAT_PLAYQUIT_BLACK": {
+        "nameTextMapHash": 2370632744
+    },
+    "UI_HOMEWORLD_CAT_PLAY_TOUCH": {
+        "nameTextMapHash": 1959657171
+    },
+    "UI_HOMEWORLD_CAT_CHANGECAT_TAB": {
+        "nameTextMapHash": 1477216511
+    },
     "Cancel": {
         "nameTextMapHash": 3950171287
     },
@@ -10205,6 +10232,12 @@
     "UI_SCENE_ENTRY_EXIT_Chagongfang": {
         "nameTextMapHash": 2264749869
     },
+    "UI_SCENE_ENTRY_ENTER_ChioriRoom": {
+        "nameTextMapHash": 243574256
+    },
+    "UI_SCENE_ENTRY_EXIT_ChioriRoom": {
+        "nameTextMapHash": 2218668957
+    },
     "UI_SCENE_ENTRY_EXIT_KazuhaDreamDungeon": {
         "nameTextMapHash": 1887912141
     },
@@ -10216,6 +10249,12 @@
     },
     "UI_SCENE_ENTRY_EXIT_MonaDreamDungeon": {
         "nameTextMapHash": 2592464573
+    },
+    "UI_SCENE_ENTRY_ENTER_CatCafe": {
+        "nameTextMapHash": 2449332256
+    },
+    "UI_SCENE_ENTRY_EXIT_CatCafe": {
+        "nameTextMapHash": 1745663109
     },
     "UI_DUNGEON_MISSION_FAIL": {
         "nameTextMapHash": 360118364
@@ -10609,6 +10648,12 @@
     },
     "UI_DUNGEON_ENTRY_1142": {
         "nameTextMapHash": 1525986819
+    },
+    "UI_DUNGEON_ENTRY_1202": {
+        "nameTextMapHash": 3024443467
+    },
+    "UI_DUNGEON_ENTRY_1207": {
+        "nameTextMapHash": 4122575003
     },
     "UI_DUNGEON_ENTRY_1109": {
         "nameTextMapHash": 1111225651
@@ -12380,6 +12425,9 @@
     "UI_MAP_AREA6_TITLE_7": {
         "nameTextMapHash": 3034482533
     },
+    "UI_MAP_AREA6_TITLE_8": {
+        "nameTextMapHash": 1590696557
+    },
     "UI_MAP_AREA7_TITLE_1": {
         "nameTextMapHash": 1348018420
     },
@@ -12896,6 +12944,9 @@
     "UI_MAP_AREA40_TITLE_5": {
         "nameTextMapHash": 1727468580
     },
+    "UI_MAP_AREA40_TITLE_6": {
+        "nameTextMapHash": 354861716
+    },
     "UI_MAP_AREA41_TITLE_1": {
         "nameTextMapHash": 2134194813
     },
@@ -13075,6 +13126,9 @@
     },
     "UI_PROUD_SKILL_UNLOCK": {
         "nameTextMapHash": 2875876030
+    },
+    "UI_SKILL_UPGRADE_NEXT_LEVEL_NEED": {
+        "nameTextMapHash": 2762030786
     },
     "UI_SKILL_UPGRADE_REMINDER": {
         "nameTextMapHash": 3254513518
@@ -13772,6 +13826,9 @@
     "UI_GACHA_TYPE_05": {
         "nameTextMapHash": 3352513147
     },
+    "UI_GACHA_TYPE_06": {
+        "nameTextMapHash": 2563094019
+    },
     "UI_GACHA_SHOP_ENTRY": {
         "nameTextMapHash": 1067236816
     },
@@ -13825,6 +13882,69 @@
     },
     "UI_GACHA_CANCEL_WISH_CONTENT": {
         "nameTextMapHash": 2176517880
+    },
+    "UI_GACHA_NATIONAL_SHOW_PANEL_DETAIL_01": {
+        "nameTextMapHash": 3254850949
+    },
+    "UI_GACHA_NATIONAL_SHOW_PANEL_DETAIL_02": {
+        "nameTextMapHash": 3385460237
+    },
+    "UI_GACHA_NATIONAL_BUTTON_01": {
+        "nameTextMapHash": 3140133105
+    },
+    "UI_GACHA_NATIONAL_BUTTON_02": {
+        "nameTextMapHash": 3467683553
+    },
+    "UI_GACHA_NATIONAL_NOTICE_AVATAR_UP": {
+        "nameTextMapHash": 1177308313
+    },
+    "UI_GACHA_NATIONAL_NOTICE_WEAPON_UP": {
+        "nameTextMapHash": 2355534386
+    },
+    "UI_GACHA_WISH_02_POINT": {
+        "nameTextMapHash": 3025797203
+    },
+    "UI_GACHA_WISH_02": {
+        "nameTextMapHash": 203061159
+    },
+    "UI_GACHA_WISH_02_DESC": {
+        "nameTextMapHash": 3807102715
+    },
+    "UI_GACHA_WISH_02_DETAIL": {
+        "nameTextMapHash": 1052429219
+    },
+    "UI_GACHA_WISH_02_AVATAR": {
+        "nameTextMapHash": 2354162523
+    },
+    "UI_GACHA_WISH_02_WEAPON": {
+        "nameTextMapHash": 2362736755
+    },
+    "UI_GACHA_WISH_02_NOTICE_01": {
+        "nameTextMapHash": 634346145
+    },
+    "UI_GACHA_WISH_02_NOTICE_02": {
+        "nameTextMapHash": 1079564521
+    },
+    "UI_GACHA_WISH_02_NOTICE_03": {
+        "nameTextMapHash": 4132271441
+    },
+    "UI_GACHA_WISH_02_TITLE": {
+        "nameTextMapHash": 2731236947
+    },
+    "UI_GACHA_WISH_02_CURRENT_CHOOSE": {
+        "nameTextMapHash": 4072542893
+    },
+    "UI_GACHA_WISH_02_BUTTON_01": {
+        "nameTextMapHash": 2683000493
+    },
+    "UI_GACHA_WISH_02_AVATAR_UP": {
+        "nameTextMapHash": 450888899
+    },
+    "UI_GACHA_WISH_02_WEAPON_UP": {
+        "nameTextMapHash": 3859474477
+    },
+    "UI_GACHA_WISH_02_CHECK_DETAILS": {
+        "nameTextMapHash": 3731203764
     },
     "UI_GACHA_TODAY_TIMES": {
         "nameTextMapHash": 1141338003
@@ -14362,6 +14482,12 @@
     },
     "UI_GACHA_SHOW_PANEL_A0169_TITLE": {
         "nameTextMapHash": 3514230984
+    },
+    "UI_GACHA_SHOW_PANEL_A0175_TITLE": {
+        "nameTextMapHash": 3719929892
+    },
+    "UI_GACHA_SHOW_PANEL_B001_TITLE": {
+        "nameTextMapHash": 1278682412
     },
     "UI_MINIMAP_SETTING_DESC": {
         "nameTextMapHash": 3090159646
@@ -20975,6 +21101,12 @@
     "UI_COOP_ENDING_GOTO_POINT": {
         "nameTextMapHash": 886135188
     },
+    "UI_COOP_LOCK_COND_TIPS": {
+        "nameTextMapHash": 434215022
+    },
+    "UI_COOP_POINT_UNLOCK_TIPS": {
+        "nameTextMapHash": 1410230953
+    },
     "UI_HOMEWORLD_ADVERTISE_DESC": {
         "nameTextMapHash": 2001870078
     },
@@ -21874,6 +22006,9 @@
     },
     "UI_ACTIVITY_WEAPON_PREVIEW": {
         "nameTextMapHash": 546130947
+    },
+    "UI_ACTIVITY_QUESTFINISHED": {
+        "nameTextMapHash": 3336191368
     },
     "UI_ACTIVITY_PRE_UNFINISHED_CHAPTER": {
         "nameTextMapHash": 638325841
@@ -23996,6 +24131,36 @@
     "UI_PhotographTask_Doing": {
         "nameTextMapHash": 1295987499
     },
+    "UI_QUEST_Guide_To_Layer": {
+        "nameTextMapHash": 4262858181
+    },
+    "UI_QUEST_Guide_To_Layer_Hint": {
+        "nameTextMapHash": 3759187128
+    },
+    "UI_QuestCheck_MainTittleName": {
+        "nameTextMapHash": 774483030
+    },
+    "UI_QuestCheck_RuleExplain": {
+        "nameTextMapHash": 1838487678
+    },
+    "UI_QuestCheck_SuccessTips": {
+        "nameTextMapHash": 797606734
+    },
+    "UI_QuestCheck_FailTips": {
+        "nameTextMapHash": 3890824366
+    },
+    "UI_QuestCheck_CloseTips": {
+        "nameTextMapHash": 2262921278
+    },
+    "UI_QuestCheck_AdditionTittle": {
+        "nameTextMapHash": 867444798
+    },
+    "UI_QuestCheck_CardDrawButton_PS": {
+        "nameTextMapHash": 3180830625
+    },
+    "UI_QuestCheck_CardDrawTips": {
+        "nameTextMapHash": 1009668726
+    },
     "UI_GadgetUI_70292014": {
         "nameTextMapHash": 3088685974
     },
@@ -24004,6 +24169,264 @@
     },
     "UI_GadgetUI_70292000": {
         "nameTextMapHash": 3299711966
+    },
+    "UI_TRAININGGUIDE_TITLE": {
+        "nameTextMapHash": 3569108122
+    },
+    "UI_TRAININGGUIDE_ENTRY_TIP": {
+        "nameTextMapHash": 1809660311
+    },
+    "UI_TRAININGGUIDE_EMPTY": {
+        "nameTextMapHash": 3269668098
+    },
+    "UI_TRAININGGUIDE_FAIL_TIP": {
+        "nameTextMapHash": 1505664154
+    },
+    "UI_TRAININGGUIDE_OVERVIEW_WORLDLEVEL": {
+        "nameTextMapHash": 2479125431
+    },
+    "UI_TRAININGGUIDE_OVERVIEW_PARTY_STATISTIC_TITLE": {
+        "nameTextMapHash": 3434506451
+    },
+    "UI_TRAININGGUIDE_OVERVIEW_PARTY_STATISTIC_LOW": {
+        "nameTextMapHash": 547967747
+    },
+    "UI_TRAININGGUIDE_OVERVIEW_PARTY_STATISTIC_MEDIUM": {
+        "nameTextMapHash": 38754939
+    },
+    "UI_TRAININGGUIDE_OVERVIEW_PARTY_STATISTIC_HIGH": {
+        "nameTextMapHash": 326382843
+    },
+    "UI_TRAININGGUIDE_OVERVIEW_PARTY_MEMBER_STATISTIC_TITLE": {
+        "nameTextMapHash": 4084926260
+    },
+    "UI_TRAININGGUIDE_OVERVIEW_OTHER": {
+        "nameTextMapHash": 2998895879
+    },
+    "UI_TRAININGGUIDE_OVERVIEW_RULE_DESC": {
+        "nameTextMapHash": 3164178491
+    },
+    "UI_TRAININGGUIDE_OVERVIEW_MEMBER_STATISTIC_TITLE": {
+        "nameTextMapHash": 4135270810
+    },
+    "UI_TRAININGGUIDE_OVERVIEW_MEMBER_STATISTIC_LOW": {
+        "nameTextMapHash": 77925834
+    },
+    "UI_TRAININGGUIDE_OVERVIEW_MEMBER_STATISTIC_MEDIUM": {
+        "nameTextMapHash": 973052138
+    },
+    "UI_TRAININGGUIDE_OVERVIEW_MEMBER_STATISTIC_HIGH": {
+        "nameTextMapHash": 881518202
+    },
+    "UI_TRAININGGUIDE_OVERVIEW_MEMBER_IMPROVE": {
+        "nameTextMapHash": 3997968643
+    },
+    "UI_TRAININGGUIDE_AVATARLEVEL": {
+        "nameTextMapHash": 1433650698
+    },
+    "UI_TRAININGGUIDE_WEAPON": {
+        "nameTextMapHash": 4156109530
+    },
+    "UI_TRAININGGUIDE_RELIQUARY": {
+        "nameTextMapHash": 156274666
+    },
+    "UI_TRAININGGUIDE_TALENT": {
+        "nameTextMapHash": 2200092034
+    },
+    "UI_TRAININGGUIDE_AVATARLEVEL_LEVELBREAK_TITLE": {
+        "nameTextMapHash": 4093117499
+    },
+    "UI_TRAININGGUIDE_AVATARLEVEL_LEVELBREAK_TITLE_2": {
+        "nameTextMapHash": 2918732704
+    },
+    "UI_TRAININGGUIDE_MATERIAL_LACK_TIP": {
+        "nameTextMapHash": 2871914952
+    },
+    "UI_TRAININGGUIDE_SOURCE_BOSS_TIP": {
+        "nameTextMapHash": 4281009596
+    },
+    "UI_TRAININGGUIDE_STAMINA_TIP": {
+        "nameTextMapHash": 1544233825
+    },
+    "UI_TRAININGGUIDE_SOURCE_ALCHEMY_TIP": {
+        "nameTextMapHash": 3377815014
+    },
+    "UI_TRAININGGUIDE_OTHER": {
+        "nameTextMapHash": 724785018
+    },
+    "UI_TRAININGGUIDE_AVATARLEVEL_LEVELUP_TITLE": {
+        "nameTextMapHash": 2138370568
+    },
+    "UI_TRAININGGUIDE_AVATARLEVEL_LEVELUP_TITLE_2": {
+        "nameTextMapHash": 459875339
+    },
+    "UI_TRAININGGUIDE_SOURCE_BLOSSON_TIP": {
+        "nameTextMapHash": 4148704350
+    },
+    "UI_TRAININGGUIDE_WEAPON_RECOMMEND_TITLE": {
+        "nameTextMapHash": 3289230026
+    },
+    "UI_TRAININGGUIDE_WEAPON_RECOMMEND_TIP": {
+        "nameTextMapHash": 3107010674
+    },
+    "UI_TRAININGGUIDE_WEAPON_RECOMMEND_NAME": {
+        "nameTextMapHash": 159873314
+    },
+    "UI_TRAININGGUIDE_WEAPON_RECOMMEND_OCCUPY": {
+        "nameTextMapHash": 1410377490
+    },
+    "UI_TRAININGGUIDE_WEAPON_RECOMMEND_FORGE": {
+        "nameTextMapHash": 3273097682
+    },
+    "UI_TRAININGGUIDE_WEAPON_USE_RATE_HIGH": {
+        "nameTextMapHash": 3647343381
+    },
+    "UI_TRAININGGUIDE_WEAPON_USE_RATE_MEDIUN": {
+        "nameTextMapHash": 2345765733
+    },
+    "UI_TRAININGGUIDE_WEAPON_USE_RATE_LOW": {
+        "nameTextMapHash": 78588725
+    },
+    "UI_TRAININGGUIDE_WEAPON_LEVEL_TITLE": {
+        "nameTextMapHash": 1643220111
+    },
+    "UI_TRAININGGUIDE_WEAPON_LEVELBREAK_TITLE": {
+        "nameTextMapHash": 1563756339
+    },
+    "UI_TRAININGGUIDE_WEAPON_LEVELBREAK_TITLE_2": {
+        "nameTextMapHash": 2101229144
+    },
+    "UI_TRAININGGUIDE_WEAPON_LEVELBREAK_TIP": {
+        "nameTextMapHash": 3252587379
+    },
+    "UI_TRAININGGUIDE_WEAPON_LEVELUP_TITLE": {
+        "nameTextMapHash": 2054448684
+    },
+    "UI_TRAININGGUIDE_WEAPON_LEVELUP_TITLE_2": {
+        "nameTextMapHash": 683160426
+    },
+    "UI_TRAININGGUIDE_SOURCE_WEAPON_ORE_TIP": {
+        "nameTextMapHash": 1191493553
+    },
+    "UI_TRAININGGUIDE_WEAPON_RECOMMEND_NODATA": {
+        "nameTextMapHash": 2360413042
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_TITLE": {
+        "nameTextMapHash": 1994897136
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_NEW": {
+        "nameTextMapHash": 3405924640
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_GOAL": {
+        "nameTextMapHash": 1044048648
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_TIP": {
+        "nameTextMapHash": 1495140856
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_QUALITY_1": {
+        "nameTextMapHash": 1489927012
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_QUALITY_2": {
+        "nameTextMapHash": 3741294844
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_QUALITY_3": {
+        "nameTextMapHash": 15232684
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_QUALITY_4": {
+        "nameTextMapHash": 1704470988
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_QUALITY_5": {
+        "nameTextMapHash": 4241690388
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_EQUIP_TITLE": {
+        "nameTextMapHash": 47414317
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_EQUIP_TIP": {
+        "nameTextMapHash": 3202532341
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_RECOMMEND": {
+        "nameTextMapHash": 772901288
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_TITLE1": {
+        "nameTextMapHash": 2737526920
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_TITLE2": {
+        "nameTextMapHash": 2476434664
+    },
+    "UI_TRAININGGUIDE_SOURCE_DUNGEON_TIP": {
+        "nameTextMapHash": 1909730384
+    },
+    "UI_TRAININGGUIDE_SOURCE_BOSS_ANY_TIP": {
+        "nameTextMapHash": 1493990555
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_PLAN1": {
+        "nameTextMapHash": 1970187560
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_PLAN2": {
+        "nameTextMapHash": 2290075224
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_PLAN3": {
+        "nameTextMapHash": 1993738264
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_NODATA": {
+        "nameTextMapHash": 2154204232
+    },
+    "UI_TRAININGGUIDE_TALENT_TITLE": {
+        "nameTextMapHash": 1152735174
+    },
+    "UI_TRAININGGUIDE_TALENT_LEVELUP_TITLE": {
+        "nameTextMapHash": 3204556918
+    },
+    "UI_TRAININGGUIDE_TALENT_LEVELUP_TITLE_2": {
+        "nameTextMapHash": 3133322338
+    },
+    "UI_TRAININGGUIDE_TALENT_PRIORITY_HIGH": {
+        "nameTextMapHash": 570302140
+    },
+    "UI_TRAININGGUIDE_TALENT_PRIORITY_MID": {
+        "nameTextMapHash": 558319492
+    },
+    "UI_TRAININGGUIDE_TALENT_PRIORITY_LOW": {
+        "nameTextMapHash": 2562017868
+    },
+    "UI_TRAININGGUIDE_NODATA": {
+        "nameTextMapHash": 2641855762
+    },
+    "UI_TRAININGGUIDE_AVATARLEVEL_FINISH": {
+        "nameTextMapHash": 1692052302
+    },
+    "UI_TRAININGGUIDE_WEAPON_FINISH": {
+        "nameTextMapHash": 1306544230
+    },
+    "UI_TRAININGGUIDE_RELIQUARY_FINISH": {
+        "nameTextMapHash": 3804347976
+    },
+    "UI_TRAININGGUIDE_TALENT_FINISH": {
+        "nameTextMapHash": 2624000958
+    },
+    "UI_TRAININGGUIDE_RECOMMEND_UNKNOWN": {
+        "nameTextMapHash": 3963058643
+    },
+    "UI_TRAININGGUIDE_REWARD_RESOURCE": {
+        "nameTextMapHash": 3011157390
+    },
+    "UI_TRAININGGUIDE_BLUETIP_MENU_FIRSTTIME": {
+        "nameTextMapHash": 748511507
+    },
+    "UI_TRAININGGUIDE_BLUETIP_ENTRY_FIRSTTIME": {
+        "nameTextMapHash": 2594472736
+    },
+    "UI_TRAININGGUIDE_BLUETIP_LEVELUP": {
+        "nameTextMapHash": 1365034105
+    },
+    "UI_TRAININGGUIDE_BLUETIP_MENU": {
+        "nameTextMapHash": 1419918417
+    },
+    "UI_TRAININGGUIDE_BLUETIP_ENTRY": {
+        "nameTextMapHash": 2193574529
+    },
+    "UI_RandNumIndicator_Interact_Draw": {
+        "nameTextMapHash": 3304064944
     },
     "RetFail": {
         "nameTextMapHash": 2412296477
@@ -25877,6 +26300,9 @@
     "RetMpGuestMatchCondNotMeet": {
         "nameTextMapHash": 2467483397
     },
+    "RetGachaWishNeedBeforeGacha": {
+        "nameTextMapHash": 3506602597
+    },
     "RetAlreadyUsingTrialAvatar": {
         "nameTextMapHash": 1166385997
     },
@@ -25891,6 +26317,9 @@
     },
     "RetStaminaFightIsInOtherDungeon": {
         "nameTextMapHash": 2498733245
+    },
+    "RetAlchemySimInvalidRoundState": {
+        "nameTextMapHash": 3547912525
     },
     "MSG_UNKNOWN": {
         "nameTextMapHash": 646688318
@@ -33314,9 +33743,6 @@
     "UI_ACTIVITY_SHENHE_LEGENDQUEST_DESC": {
         "nameTextMapHash": 1476116491
     },
-    "UI_ACTIVITY_BARTENDER_REDO_BUTTON": {
-        "nameTextMapHash": 1468543417
-    },
     "UI_ACTIVITY_HOST_CANNOT_GOTO_TIPS": {
         "nameTextMapHash": 2808144441
     },
@@ -36212,701 +36638,1514 @@
     "UI_ACTIVITY_RECOMMEND_QUEST_TIPS_02": {
         "nameTextMapHash": 173719742
     },
-    "UI_Activity_LostSamachurl_Sneak_ChallengeTime": {
-        "nameTextMapHash": 3063621407
-    },
-    "UI_Activity_LostSamachurl_Sneak_NoChallenge": {
-        "nameTextMapHash": 1388006151
-    },
-    "UI_Activity_LostSamachurl_Title": {
-        "nameTextMapHash": 3350154888
-    },
-    "UI_Activity_LostSamachurl_UnlockTips2": {
-        "nameTextMapHash": 1323738336
-    },
-    "UI_Activity_LostSamachurlSneak_FailHint1": {
-        "nameTextMapHash": 1140309625
-    },
-    "UI_Activity_LostSamachurlSneak_FailHint2": {
-        "nameTextMapHash": 278837193
-    },
-    "UI_Activity_LostSamachurlSneak_FailHint3": {
-        "nameTextMapHash": 4269708089
-    },
-    "UI_Activity_LostSamachurlSneak_OnlineTips": {
-        "nameTextMapHash": 2812565273
-    },
-    "UI_Activity_LostSamachurlSneak_ReturnHint": {
-        "nameTextMapHash": 2350210729
-    },
-    "UI_Activity_LostSamachurlSneak_TimeoutHint": {
-        "nameTextMapHash": 2509765985
-    },
-    "UI_Activity_LostSamachurlBoss_Title": {
-        "nameTextMapHash": 45331329
-    },
-    "UI_Activity_LostSamachurlBoss_Desc": {
-        "nameTextMapHash": 3319571729
-    },
-    "UI_Activity_LostSamachurlBoss_BestRecord": {
-        "nameTextMapHash": 1858887033
-    },
-    "UI_Activity_LostSamachurlBoss_OnlineFailHint": {
-        "nameTextMapHash": 2106763569
-    },
-    "UI_Activity_LostSamachurlBoss_RecordTime": {
-        "nameTextMapHash": 34446977
-    },
-    "UI_Activity_LostSamachurlSneak_InviteFailed": {
-        "nameTextMapHash": 166342441
-    },
-    "UI_Activity_LostSamachurlSneak_UnlockTips": {
-        "nameTextMapHash": 2155754369
-    },
-    "UI_Activity_LostSamachurlBoss_DungeonEntry": {
-        "nameTextMapHash": 1473935993
-    },
-    "UI_Activity_LostSamachurlSneak_Guide_Turn": {
-        "nameTextMapHash": 3524592879
-    },
-    "UI_Activity_LostSamachurlSneak_Guide_Statue": {
-        "nameTextMapHash": 829984983
-    },
-    "UI_ACTIVITY_COOKGAME_NAME_TITLE": {
-        "nameTextMapHash": 2881111061
-    },
-    "UI_ACTIVITY_COOKGAME_LEVELSELECT_DESC_TITLE": {
-        "nameTextMapHash": 2759700208
-    },
     "UI_ACTIVITY_COOKGAME_LEVELMENU_DESC_TITLE": {
         "nameTextMapHash": 1254517569
     },
-    "UI_ACTIVITY_COOKGAME_COND_LASTLEVEL": {
-        "nameTextMapHash": 1139594074
+    "UI_ACTIVITY_AUTO_TIME_STOP_END_QUEST_BUTTON": {
+        "nameTextMapHash": 3541305859
     },
-    "UI_ACTIVITY_COOKGAME_INTERACT": {
-        "nameTextMapHash": 2793209322
+    "UI_ACTIVITY_AUTO_TIME_STOP_TITLE": {
+        "nameTextMapHash": 3295518470
     },
-    "UI_ACTIVITY_COOKGAME_INTERACT2": {
-        "nameTextMapHash": 1095762682
+    "UI_ACTIVITY_AUTO_TIME_STOP_LEVEL_DESC": {
+        "nameTextMapHash": 1514102142
     },
-    "UI_ACTIVITY_COOKGAME_INTERACT3": {
-        "nameTextMapHash": 3660521562
+    "UI_ACTIVITY_AUTO_TIME_STOP_DUNGEON_TITLE": {
+        "nameTextMapHash": 1720579352
     },
-    "UI_ACTIVITY_COOKGAME_INTERACT4": {
-        "nameTextMapHash": 2906349986
+    "UI_ACTIVITY_AUTO_TIME_STOP_DUNGEON_ENTRY_INTERACTION": {
+        "nameTextMapHash": 567694789
     },
-    "UI_ACTIVITY_COOKGAME_LEVELSTART_MAIN_ITEM": {
-        "nameTextMapHash": 2256344695
+    "UI_ACTIVITY_AUTO_TIME_STOP_TEAM_TITLE": {
+        "nameTextMapHash": 463757385
     },
-    "UI_ACTIVITY_COOKGAME_LEVELSTART_START": {
-        "nameTextMapHash": 2494983940
+    "UI_ACTIVITY_AUTO_TIME_STOP_LEVEL_BUFF_TITLE": {
+        "nameTextMapHash": 1758507918
     },
-    "UI_ACTIVITY_COOKGAME_RESTART_HINT1": {
-        "nameTextMapHash": 2456252062
+    "UI_ACTIVITY_AUTO_TIME_STOP_PRE_LEVEL_LOCKED": {
+        "nameTextMapHash": 1089988484
     },
-    "UI_ACTIVITY_COOKGAME_RESTART_HINT2": {
-        "nameTextMapHash": 1292268038
+    "UI_ACTIVITY_AUTO_TIME_STOP_CHAR_CHANGE_TIPS": {
+        "nameTextMapHash": 2130506856
     },
-    "UI_ACTIVITY_COOKGAME_RESTART_HINT3": {
-        "nameTextMapHash": 184333310
+    "UI_ACTIVITY_AUTO_TIME_STOP_CHAR_NOT_FULL_TIPS": {
+        "nameTextMapHash": 1126526848
     },
-    "UI_ACTIVITY_COOKGAME_PHASE1_START_START": {
-        "nameTextMapHash": 452881566
+    "UI_ACTIVITY_AUTO_TIME_STOP_MAIN_PROGRESS": {
+        "nameTextMapHash": 1468022043
     },
-    "UI_ACTIVITY_COOKGAME_PHASE1_COMPLETE": {
-        "nameTextMapHash": 341443872
+    "UI_ACTIVITY_AUTO_TIME_STOP_TARGET_1": {
+        "nameTextMapHash": 3025440236
     },
-    "UI_ACTIVITY_COOKGAME_PHASE2_COMPLETE": {
-        "nameTextMapHash": 3325664256
+    "UI_ACTIVITY_AUTO_TIME_STOP_TARGET_2": {
+        "nameTextMapHash": 776780460
     },
-    "UI_ACTIVITY_COOKGAME_PHASE3_COMPLETE": {
-        "nameTextMapHash": 3286736797
+    "UI_ACTIVITY_AUTO_TIME_STOP_ACTION_TIPS": {
+        "nameTextMapHash": 1577242564
     },
-    "UI_ACTIVITY_COOKGAME_PHASE1_FAIL": {
-        "nameTextMapHash": 2671051432
+    "UI_ACTIVITY_AUTO_TIME_STOP_CAMERA_TIPS": {
+        "nameTextMapHash": 2736393882
     },
-    "UI_ACTIVITY_COOKGAME_PHASE2_FAIL": {
-        "nameTextMapHash": 3699524872
+    "UI_ACTIVITY_AUTO_TIME_STOP_EXIT_DUNGEON_TIPS": {
+        "nameTextMapHash": 1646682641
     },
-    "UI_ACTIVITY_COOKGAME_PHASE3_FAIL": {
-        "nameTextMapHash": 2823907325
+    "UI_ACTIVITY_AUTO_TIME_STOP_SUCCEED_DATA_TITLE": {
+        "nameTextMapHash": 4044858431
     },
-    "UI_ACTIVITY_COOKGAME_FAIL_REDO": {
-        "nameTextMapHash": 4226004242
+    "UI_ACTIVITY_AUTO_TIME_STOP_EXIT_TIPS": {
+        "nameTextMapHash": 467104758
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_TITLE": {
-        "nameTextMapHash": 2002199438
+    "UI_ACTIVITY_AUTO_TIME_STOP_GUIDE_TIPS": {
+        "nameTextMapHash": 1921672378
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_CHANGE": {
-        "nameTextMapHash": 4098303214
+    "UI_ACTIVITY_AUTO_TIME_STOP_GUIDE_TIPS_1": {
+        "nameTextMapHash": 2333823033
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_SORT1": {
-        "nameTextMapHash": 964017246
+    "UI_ACTIVITY_ALCHEMYSIM_DETAIL": {
+        "nameTextMapHash": 3359130232
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_SORT2": {
-        "nameTextMapHash": 753553046
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY": {
+        "nameTextMapHash": 745584040
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_SORT3": {
-        "nameTextMapHash": 173951486
+    "UI_ACTIVITY_ALCHEMYSIM_WEAPON_REDEEM": {
+        "nameTextMapHash": 1449494223
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_FINISH": {
-        "nameTextMapHash": 3235313950
+    "UI_ACTIVITY_ALCHEMYSIM_WEAPON_REDEEM_TIPS": {
+        "nameTextMapHash": 1470624583
     },
-    "UI_ACTIVITY_COOKGAME_PHASE1_START_TITLE": {
-        "nameTextMapHash": 2436648318
+    "UI_ACTIVITY_ALCHEMYSIM_REVENUE": {
+        "nameTextMapHash": 3212714024
     },
-    "UI_ACTIVITY_COOKGAME_PHASE1_START_RULE": {
-        "nameTextMapHash": 3954436846
+    "UI_ACTIVITY_ALCHEMYSIM_STAGE_LOCK_TIPS": {
+        "nameTextMapHash": 3682890513
     },
-    "UI_ACTIVITY_COOKGAME_PHASE2_START_TITLE": {
-        "nameTextMapHash": 210361286
+    "UI_ACTIVITY_ALCHEMYSIM_STAGE_LOCK_TIPS_01": {
+        "nameTextMapHash": 2492805329
     },
-    "UI_ACTIVITY_COOKGAME_PHASE2_START_RULE": {
-        "nameTextMapHash": 3949879822
+    "UI_ACTIVITY_ALCHEMYSIM_STAGE_REWARD": {
+        "nameTextMapHash": 3362433252
     },
-    "UI_ACTIVITY_COOKGAME_PHASE3_START_TITLE": {
-        "nameTextMapHash": 1766999505
+    "UI_ACTIVITY_ALCHEMYSIM_GOTO_START": {
+        "nameTextMapHash": 1666156597
     },
-    "UI_ACTIVITY_COOKGAME_PHASE3_START_RULE": {
-        "nameTextMapHash": 4208267945
+    "UI_ACTIVITY_ALCHEMYSIM_GOTO_FAIL": {
+        "nameTextMapHash": 3490945069
     },
-    "UI_ACTIVITY_COOKGAME_PHASE1_START_JS": {
-        "nameTextMapHash": 3743722702
+    "UI_ACTIVITY_ALCHEMYSIM_MARK_TITLE": {
+        "nameTextMapHash": 1466883022
     },
-    "UI_ACTIVITY_COOKGAME_PHASE1_INGAME_START_JS": {
-        "nameTextMapHash": 2990693523
+    "UI_ACTIVITY_ALCHEMYSIM_MARK_DESC": {
+        "nameTextMapHash": 69515334
     },
-    "UI_ACTIVITY_COOKGAME_PHASE1_INGAME_OP_JS": {
-        "nameTextMapHash": 41948532
+    "UI_ACTIVITY_ALCHEMYSIM_ROUND": {
+        "nameTextMapHash": 1313001512
     },
-    "UI_ACTIVITY_COOKGAME_PHASE2_INGAME_OP_JS": {
-        "nameTextMapHash": 1855461306
+    "UI_ACTIVITY_ALCHEMYSIM_CASH": {
+        "nameTextMapHash": 901035128
     },
-    "UI_ACTIVITY_COOKGAME_PHASE3_INGAME_OP_JS": {
-        "nameTextMapHash": 3033449423
+    "UI_ACTIVITY_ALCHEMYSIM_ALCHEMY": {
+        "nameTextMapHash": 3134607896
     },
-    "UI_ACTIVITY_COOKGAME_PHASE1_START_TARGET": {
-        "nameTextMapHash": 3169055662
+    "UI_ACTIVITY_ALCHEMYSIM_POTION": {
+        "nameTextMapHash": 447909936
     },
-    "UI_ACTIVITY_COOKGAME_PHASE2_START_TARGET": {
-        "nameTextMapHash": 1161405486
+    "UI_ACTIVITY_ALCHEMYSIM_CROP": {
+        "nameTextMapHash": 2267501104
     },
-    "UI_ACTIVITY_COOKGAME_PHASE3_START_TARGET": {
-        "nameTextMapHash": 1124539577
+    "UI_ACTIVITY_ALCHEMYSIM_SELL": {
+        "nameTextMapHash": 4735656
     },
-    "UI_ACTIVITY_COOKGAME_PHASE1_START_TARGET2": {
-        "nameTextMapHash": 1151017806
+    "UI_ACTIVITY_ALCHEMYSIM_BAG": {
+        "nameTextMapHash": 2439381488
     },
-    "UI_ACTIVITY_COOKGAME_PHASE2_START_TARGET2": {
-        "nameTextMapHash": 3930828830
+    "UI_ACTIVITY_ALCHEMYSIM_LETTER": {
+        "nameTextMapHash": 2701171664
     },
-    "UI_ACTIVITY_COOKGAME_PHASE3_START_TARGET2": {
-        "nameTextMapHash": 949132297
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P1_DESC1": {
+        "nameTextMapHash": 2008955883
     },
-    "UI_ACTIVITY_COOKGAME_PHASE1_START_TARGET3": {
-        "nameTextMapHash": 3185534006
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P1_PARM1": {
+        "nameTextMapHash": 1684147851
     },
-    "UI_ACTIVITY_COOKGAME_PHASE2_START_TARGET3": {
-        "nameTextMapHash": 2834787062
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P1_DESC2": {
+        "nameTextMapHash": 1088689867
     },
-    "UI_ACTIVITY_COOKGAME_PHASE3_START_TARGET3": {
-        "nameTextMapHash": 1946999001
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P1_PARM2": {
+        "nameTextMapHash": 713505259
     },
-    "UI_ACTIVITY_COOKGAME_PHASE1_START_TARGET4": {
-        "nameTextMapHash": 854862062
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P1_DESC3": {
+        "nameTextMapHash": 2643554843
     },
-    "UI_ACTIVITY_COOKGAME_PHASE2_START_TARGET4": {
-        "nameTextMapHash": 3975925894
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P1_PARM3": {
+        "nameTextMapHash": 2022157355
     },
-    "UI_ACTIVITY_COOKGAME_PHASE3_START_TARGET4": {
-        "nameTextMapHash": 3258038633
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P1_DESC4": {
+        "nameTextMapHash": 1092531099
     },
-    "UI_ACTIVITY_COOKGAME_LEVEL1_PHASE1_PRODUCT1": {
-        "nameTextMapHash": 4215945465
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P1_PARM4": {
+        "nameTextMapHash": 648713187
     },
-    "UI_ACTIVITY_COOKGAME_LEVEL1_PHASE1_PRODUCT2": {
-        "nameTextMapHash": 962108161
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P1_DESC5": {
+        "nameTextMapHash": 3397610147
     },
-    "UI_ACTIVITY_COOKGAME_LEVEL1_PHASE2_PRODUCT1": {
-        "nameTextMapHash": 2363372107
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P1_PARM5": {
+        "nameTextMapHash": 3545579395
     },
-    "UI_ACTIVITY_COOKGAME_LEVEL2_PHASE1_PRODUCT1": {
-        "nameTextMapHash": 1152584551
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P2_DESC1": {
+        "nameTextMapHash": 1030065665
     },
-    "UI_ACTIVITY_COOKGAME_LEVEL2_PHASE1_PRODUCT2": {
-        "nameTextMapHash": 1572626607
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P2_PARM1": {
+        "nameTextMapHash": 3252526905
     },
-    "UI_ACTIVITY_COOKGAME_LEVEL2_PHASE1_PRODUCT3": {
-        "nameTextMapHash": 3341991207
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P2_DESC2": {
+        "nameTextMapHash": 1560583585
     },
-    "UI_ACTIVITY_COOKGAME_LEVEL2_PHASE2_PRODUCT1": {
-        "nameTextMapHash": 78069206
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P2_PARM2": {
+        "nameTextMapHash": 4127593785
     },
-    "UI_ACTIVITY_COOKGAME_LEVEL3_PHASE1_PRODUCT1": {
-        "nameTextMapHash": 3785075237
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P2_DESC3": {
+        "nameTextMapHash": 2729727593
     },
-    "UI_ACTIVITY_COOKGAME_LEVEL3_PHASE1_PRODUCT2": {
-        "nameTextMapHash": 115061485
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P2_PARM3": {
+        "nameTextMapHash": 1225289801
     },
-    "UI_ACTIVITY_COOKGAME_LEVEL3_PHASE2_PRODUCT1": {
-        "nameTextMapHash": 633491784
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P2_DESC4": {
+        "nameTextMapHash": 111738681
     },
-    "UI_ACTIVITY_COOKGAME_LEVEL4_PHASE1_PRODUCT1": {
-        "nameTextMapHash": 670113412
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P2_PARM4": {
+        "nameTextMapHash": 2091939337
     },
-    "UI_ACTIVITY_COOKGAME_LEVEL4_PHASE1_PRODUCT2": {
-        "nameTextMapHash": 3549857100
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P2_DESC5": {
+        "nameTextMapHash": 126655801
     },
-    "UI_ACTIVITY_COOKGAME_LEVEL4_PHASE2_PRODUCT1": {
-        "nameTextMapHash": 4009720364
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P2_PARM5": {
+        "nameTextMapHash": 1925051361
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_DISH1": {
-        "nameTextMapHash": 102659638
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P3_DESC1": {
+        "nameTextMapHash": 547748127
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_DISH2": {
-        "nameTextMapHash": 40886182
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P3_PARM1": {
+        "nameTextMapHash": 2824964847
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_DISH3": {
-        "nameTextMapHash": 1309374582
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P3_DESC2": {
+        "nameTextMapHash": 1762530087
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_DISH4": {
-        "nameTextMapHash": 755509926
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P3_PARM2": {
+        "nameTextMapHash": 1660515759
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_SMALLDECRO1": {
-        "nameTextMapHash": 273195254
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P3_DESC3": {
+        "nameTextMapHash": 602357767
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_SMALLDECRO2": {
-        "nameTextMapHash": 2290420422
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P3_PARM3": {
+        "nameTextMapHash": 639497479
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_SMALLDECRO3": {
-        "nameTextMapHash": 3089609830
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P3_DESC4": {
+        "nameTextMapHash": 1914013111
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_SMALLDECRO4": {
-        "nameTextMapHash": 1124491446
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P3_PARM4": {
+        "nameTextMapHash": 431265415
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_LARGEDECRO1": {
-        "nameTextMapHash": 3228168526
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P3_DESC5": {
+        "nameTextMapHash": 2526635311
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_LARGEDECRO2": {
-        "nameTextMapHash": 578197030
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P3_PARM5": {
+        "nameTextMapHash": 1094503487
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_LARGEDECRO3": {
-        "nameTextMapHash": 2435014246
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P4_DESC1": {
+        "nameTextMapHash": 2278648236
     },
-    "UI_ACTIVITY_COOKGAME_PLATING_LARGEDECRO4": {
-        "nameTextMapHash": 1625550014
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P4_PARM1": {
+        "nameTextMapHash": 3379185172
     },
-    "UI_ACTIVITY_COOKGAME_WATCHER_REWARD": {
-        "nameTextMapHash": 3552791603
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P4_DESC2": {
+        "nameTextMapHash": 1969932468
     },
-    "UI_ACTIVITY_COOKGAME_LEVELSELECT_SWITCHCHARACTER_JS": {
-        "nameTextMapHash": 405853715
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P4_PARM2": {
+        "nameTextMapHash": 4067807044
     },
-    "UI_ACTIVITY_STAMINAFIGHT_TITLE": {
-        "nameTextMapHash": 370069313
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P4_DESC3": {
+        "nameTextMapHash": 2359385860
     },
-    "UI_ACTIVITY_STAMINAFIGHT_DESC": {
-        "nameTextMapHash": 1748376185
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P4_PARM3": {
+        "nameTextMapHash": 1407939252
     },
-    "UI_ACTIVITY_STAMINAFIGHT_CONTENT": {
-        "nameTextMapHash": 2903546569
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P4_DESC4": {
+        "nameTextMapHash": 2316047156
     },
-    "UI_ACTIVITY_STAMINAFIGHT_CHALLENGE_PREVIEW_CHARACTER": {
-        "nameTextMapHash": 2408971719
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P4_PARM4": {
+        "nameTextMapHash": 196161084
     },
-    "UI_ACTIVITY_STAMINAFIGHT_CHALLENGE_PREVIEW_TITLE": {
-        "nameTextMapHash": 3843565519
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P4_DESC5": {
+        "nameTextMapHash": 442403268
     },
-    "UI_ACTIVITY_STAMINAFIGHT_BESTSCORE": {
-        "nameTextMapHash": 3081365049
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_P4_PARM5": {
+        "nameTextMapHash": 3005412876
     },
-    "UI_ACTIVITY_STAMINAFIGHT_DIFFICULTY_TIME": {
-        "nameTextMapHash": 1671479032
+    "UI_ACTIVITY_ALCHEMYSIM_SUMMARY_TITLE": {
+        "nameTextMapHash": 4184142263
     },
-    "UI_ACTIVITY_STAMINAFIGHT_CHALLENGE_DIFFICULTY_CHOOSE": {
-        "nameTextMapHash": 107579814
+    "UI_ACTIVITY_ALCHEMYSIM_BAG_FILTER": {
+        "nameTextMapHash": 3791057152
     },
-    "UI_ACTIVITY_STAMINAFIGHT_EASY": {
-        "nameTextMapHash": 3030679369
+    "UI_ACTIVITY_ALCHEMYSIM_BAG_POTION_INFO": {
+        "nameTextMapHash": 1943522205
     },
-    "UI_ACTIVITY_STAMINAFIGHT_HARD": {
-        "nameTextMapHash": 1812061129
+    "UI_ACTIVITY_ALCHEMYSIM_BAG_CROP_INFO": {
+        "nameTextMapHash": 349790828
     },
-    "UI_ACTIVITY_STAMINAFIGHT_EXTREME": {
-        "nameTextMapHash": 4136090089
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_PRICE": {
+        "nameTextMapHash": 767464803
     },
-    "UI_ACTIVITY_STAMINAFIGHT_ENEMYLEVEL": {
-        "nameTextMapHash": 3153018713
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_MATERIAL": {
+        "nameTextMapHash": 1475721635
     },
-    "UI_ACTIVITY_STAMINAFIGHT_TIMELIMIT": {
-        "nameTextMapHash": 945102617
+    "UI_ACTIVITY_ALCHEMYSIM_BAG_FILTER_ALL": {
+        "nameTextMapHash": 3377620651
     },
-    "UI_ACTIVITY_STAMINAFIGHT_DIFFICULTY_CONFIRM": {
-        "nameTextMapHash": 3495409904
+    "UI_ACTIVITY_ALCHEMYSIM_FILTER_TITLE": {
+        "nameTextMapHash": 2950146595
     },
-    "UI_ACTIVITY_STAMINAFIGHT_ROUNDS": {
-        "nameTextMapHash": 513238153
+    "UI_ACTIVITY_ALCHEMYSIM_TYPE_NAME": {
+        "nameTextMapHash": 3827195457
     },
-    "UI_ACTIVITY_STAMINAFIGHT_FIRST_ROUND_PICKING": {
-        "nameTextMapHash": 2428310785
+    "UI_ACTIVITY_ALCHEMYSIM_TAG_NAME": {
+        "nameTextMapHash": 3876860324
     },
-    "UI_ACTIVITY_STAMINAFIGHT_CURRENT_DANGEROUS_ENEMY": {
-        "nameTextMapHash": 3843830007
+    "UI_ACTIVITY_ALCHEMYSIM_FILTER_FAILED": {
+        "nameTextMapHash": 1564044491
     },
-    "UI_ACTIVITY_STAMINAFIGHT_FIRST_ROUND_CHOOSE": {
-        "nameTextMapHash": 4129692673
+    "UI_ACTIVITY_ALCHEMYSIM_TUTORIAL_TITLE": {
+        "nameTextMapHash": 3956948558
     },
-    "UI_ACTIVITY_STAMINAFIGHT_CONFIRM_CHARACTER": {
-        "nameTextMapHash": 2827009648
+    "UI_ACTIVITY_ALCHEMYSIM_TUTORIAL_NOT_RECORD": {
+        "nameTextMapHash": 3258793305
     },
-    "UI_ACTIVITY_STAMINAFIGHT_AVAILABLE_CHARACTER": {
-        "nameTextMapHash": 1101254091
+    "UI_ACTIVITY_ALCHEMYSIM_NO_RECORD_TIPS": {
+        "nameTextMapHash": 3684601830
     },
-    "UI_ACTIVITY_STAMINAFIGHT_CURRENT_ROUND_CHOOSE": {
-        "nameTextMapHash": 3054110029
+    "UI_ACTIVITY_ALCHEMYSIM_STAGE_TIPS": {
+        "nameTextMapHash": 3274191132
     },
-    "UI_ACTIVITY_STAMINAFIGHT_CHOOSE_CHARACTER_FULL": {
-        "nameTextMapHash": 82814200
+    "UI_ACTIVITY_ALCHEMYSIM_STAGE_BREAK": {
+        "nameTextMapHash": 4158156572
     },
-    "UI_ACTIVITY_STAMINAFIGHT_CHOOSE_CHARACTER_EMPTY": {
-        "nameTextMapHash": 909566648
+    "UI_ACTIVITY_ALCHEMYSIM_STAGE_BREAK_TIPS": {
+        "nameTextMapHash": 3966199568
     },
-    "UI_ACTIVITY_STAMINAFIGHT_BATTLE_PROFILE": {
-        "nameTextMapHash": 461533774
+    "UI_ACTIVITY_ALCHEMYSIM_STAGE_TASK_TIPS": {
+        "nameTextMapHash": 4259781509
     },
-    "UI_ACTIVITY_STAMINAFIGHT_STAMINA_BUFF": {
-        "nameTextMapHash": 3029027006
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK": {
+        "nameTextMapHash": 570630968
     },
-    "UI_ACTIVITY_STAMINAFIGHT_TIRED": {
-        "nameTextMapHash": 1339532017
+    "UI_ACTIVITY_ALCHEMYSIM_STAGE_GOAL": {
+        "nameTextMapHash": 398566652
     },
-    "UI_ACTIVITY_STAMINAFIGHT_INSUFFICIENT_HINT": {
-        "nameTextMapHash": 588144921
+    "UI_ACTIVITY_ALCHEMYSIM_STAGE_GOAL_PERCENTAGE": {
+        "nameTextMapHash": 1672542260
     },
-    "UI_ACTIVITY_STAMINAFIGHT_FAIL_TIPS": {
-        "nameTextMapHash": 1188506790
+    "UI_ACTIVITY_ALCHEMYSIM_STAGE_GOAL_NO_TITLE": {
+        "nameTextMapHash": 3769819083
     },
-    "UI_ACTIVITY_STAMINAFIGHT_FIRSTROUND": {
-        "nameTextMapHash": 1009667465
+    "UI_ACTIVITY_ALCHEMYSIM_PLAYER_LEVEL": {
+        "nameTextMapHash": 1007061820
     },
-    "UI_ACTIVITY_STAMINAFIGHT_SECONDROUND": {
-        "nameTextMapHash": 2852923377
+    "UI_ACTIVITY_ALCHEMYSIM_ORDER_REMIND": {
+        "nameTextMapHash": 2075006004
     },
-    "UI_ACTIVITY_STAMINAFIGHT_THIRDROUND": {
-        "nameTextMapHash": 2991727233
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_REMIND": {
+        "nameTextMapHash": 265180103
     },
-    "UI_ACTIVITY_STAMINAFIGHT_FOURTHROUND": {
-        "nameTextMapHash": 3570251393
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_COMING_TIPS": {
+        "nameTextMapHash": 3291950179
     },
-    "UI_ACTIVITY_STAMINAFIGHT_DIFFICULTY_HINT": {
-        "nameTextMapHash": 890928384
+    "UI_ACTIVITY_ALCHEMYSIM_NEWS_REFRESH_TIPS": {
+        "nameTextMapHash": 1293673642
     },
-    "UI_ACTIVITY_STAMINAFIGHT_TRY_AGAIN_TIPS": {
-        "nameTextMapHash": 3566602685
+    "UI_ACTIVITY_ALCHEMYSIM_CROPS_HARVEST_TIPS": {
+        "nameTextMapHash": 2167873314
     },
-    "UI_ACTIVITY_STAMINAFIGHT_RESTART_BTN": {
-        "nameTextMapHash": 3804338904
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_TITLE": {
+        "nameTextMapHash": 1804012113
     },
-    "UI_ACTIVITY_STAMINAFIGHT_RESTART_CURRENT_ROUND_BTN": {
-        "nameTextMapHash": 650923705
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_OVERVIEW": {
+        "nameTextMapHash": 838637073
     },
-    "UI_ACTIVITY_STAMINAFIGHT_QUIT_CONFIRM_NO_START": {
-        "nameTextMapHash": 107690597
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_REPORT": {
+        "nameTextMapHash": 3927094049
     },
-    "UI_ACTIVITY_STAMINAFIGHT_DENY_MULTI": {
-        "nameTextMapHash": 283684332
+    "UI_ACTIVITY_ALCHEMYSIM_LAST_ROUND": {
+        "nameTextMapHash": 1770624946
     },
-    "UI_ACTIVITY_STAMINAFIGHT_NEXT_BATTLE": {
-        "nameTextMapHash": 2647200274
+    "UI_ACTIVITY_ALCHEMYSIM_STAGE_LAST_ROUND": {
+        "nameTextMapHash": 222021070
     },
-    "UI_ACTIVITY_STAMINAFIGHT_CONNECT": {
-        "nameTextMapHash": 3300543697
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_LEVEL_TITLE": {
+        "nameTextMapHash": 134930284
     },
-    "UI_ACTIVITY_STAMINAFIGHT_PICKING": {
-        "nameTextMapHash": 2065374233
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_LEVEL_DESC": {
+        "nameTextMapHash": 253681748
     },
-    "UI_ACTIVITY_STAMINAFIGHT_MONSTER_PREVIEW": {
-        "nameTextMapHash": 2220989686
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_GOAL_TITLE": {
+        "nameTextMapHash": 720319984
     },
-    "UI_ACTIVITY_REGION_CHENYUVALLEY_TITLE": {
-        "nameTextMapHash": 2442631046
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_GOAL_DESC": {
+        "nameTextMapHash": 1957695752
     },
-    "UI_ACTIVITY_REGION_CHENYUVALLEY_DESC": {
-        "nameTextMapHash": 3249790222
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_CASH_TITLE": {
+        "nameTextMapHash": 3504690048
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_NAME": {
-        "nameTextMapHash": 3237116781
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_CASH_DESC": {
+        "nameTextMapHash": 2064421352
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_EASYMODE": {
-        "nameTextMapHash": 1662686005
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_COMPLETION": {
+        "nameTextMapHash": 1974352049
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_RESET": {
-        "nameTextMapHash": 216275733
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_DESC": {
+        "nameTextMapHash": 877106425
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_RESET_DESC": {
-        "nameTextMapHash": 560568401
+    "UI_ACTIVITY_ALCHEMYSIM_END_ROUND": {
+        "nameTextMapHash": 2956363186
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_EASYTIME": {
-        "nameTextMapHash": 2697384613
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_FIXED_TASKS": {
+        "nameTextMapHash": 2886859136
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_EASYDESC": {
-        "nameTextMapHash": 2686112365
+    "UI_ACTIVITY_ALCHEMYSIM_PLANT": {
+        "nameTextMapHash": 2710041112
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_EASYHINT": {
-        "nameTextMapHash": 3264051957
+    "UI_ACTIVITY_ALCHEMYSIM_PLANT_HARVESTABLE": {
+        "nameTextMapHash": 3362799500
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_EXIT": {
-        "nameTextMapHash": 644596781
+    "UI_ACTIVITY_ALCHEMYSIM_GOODS_RENEW": {
+        "nameTextMapHash": 2511938679
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_MOVEHINT": {
-        "nameTextMapHash": 2114019981
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_EVENT": {
+        "nameTextMapHash": 3987140081
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_MARKTITLE": {
-        "nameTextMapHash": 1567772885
+    "UI_ACTIVITY_ALCHEMYSIM_NEWS": {
+        "nameTextMapHash": 2822277408
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_MARKDESC": {
-        "nameTextMapHash": 2799313029
+    "UI_ACTIVITY_ALCHEMYSIM_TASK_NOT_FINISH": {
+        "nameTextMapHash": 2039395681
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_NEXT": {
-        "nameTextMapHash": 2038139181
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_BLANK": {
+        "nameTextMapHash": 771501009
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_MOVE": {
-        "nameTextMapHash": 4193507197
+    "UI_ACTIVITY_ALCHEMYSIM_ALCHEMY_NO_LIMIT": {
+        "nameTextMapHash": 3819496261
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_LOAD": {
-        "nameTextMapHash": 2318056861
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_DEALER_COMING": {
+        "nameTextMapHash": 4086860917
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_LOAD_DESC": {
-        "nameTextMapHash": 1946271151
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_SHOP_TIPS": {
+        "nameTextMapHash": 2048656217
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_LOAD_NULL": {
-        "nameTextMapHash": 4189555167
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_TECHTREE_TIPS": {
+        "nameTextMapHash": 2064685279
     },
-    "UI_ACTIVITY_LANV4_KV_COIN": {
-        "nameTextMapHash": 683500425
+    "UI_ACTIVITY_ALCHEMYSIM_HANDBOOK_CONSUMPTION_TIPS": {
+        "nameTextMapHash": 3882944814
     },
-    "UI_ACTIVITY_LANV4_KV_GAMEPLAY_ENTRANCE": {
-        "nameTextMapHash": 2921776319
+    "UI_ACTIVITY_ALCHEMYSIM_REWARD_TITLE": {
+        "nameTextMapHash": 2272915512
     },
-    "UI_ACTIVITY_LANV4_KV_QUEST_ENTRANCE": {
-        "nameTextMapHash": 1259655773
+    "UI_ACTIVITY_ALCHEMYSIM_PHASE_REWARD_TITLE": {
+        "nameTextMapHash": 2100017299
     },
-    "UI_ACTIVITY_LANV4_QUEST_PAGE_TIITLE": {
-        "nameTextMapHash": 468235287
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_UPGRADE": {
+        "nameTextMapHash": 561717907
     },
-    "UI_ACTIVITY_LANV4_GAMEPLAY_PAGE_TIITLE": {
-        "nameTextMapHash": 4085935122
+    "UI_ACTIVITY_ALCHEMYSIM_BAG_UPGRADE_INFO": {
+        "nameTextMapHash": 1629456710
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_TITLE_NAME": {
-        "nameTextMapHash": 2823417999
+    "UI_ACTIVITY_ALCHEMYSIM_BAG_NO_ITEM": {
+        "nameTextMapHash": 1205441471
     },
-    "UI_ACTIVITY_LANV4_PUSHBOX_TITLE_NAME": {
-        "nameTextMapHash": 3825287940
+    "UI_ACTIVITY_ALCHEMYSIM_UPGRADE_CONSUME": {
+        "nameTextMapHash": 1294297115
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_TITLE_NAME": {
-        "nameTextMapHash": 1385957482
+    "UI_ACTIVITY_ALCHEMYSIM_CONFIRM_UPGRADE": {
+        "nameTextMapHash": 1135465914
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_TITLE": {
-        "nameTextMapHash": 883769395
+    "UI_ACTIVITY_ALCHEMYSIM_CANCEL_UPGRADE": {
+        "nameTextMapHash": 4278013127
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_AVATAR_TITLE": {
-        "nameTextMapHash": 1765171774
+    "UI_ACTIVITY_ALCHEMYSIM_UPGRADE_SUCCESS": {
+        "nameTextMapHash": 245671115
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_AVATAR_DESC": {
-        "nameTextMapHash": 3648833822
+    "UI_ACTIVITY_ALCHEMYSIM_FULLY_UPGRADE_TIPS": {
+        "nameTextMapHash": 3631102143
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_AVATAR_BUTTON": {
-        "nameTextMapHash": 1402312414
+    "UI_ACTIVITY_ALCHEMYSIM_TYPE_TITLE": {
+        "nameTextMapHash": 778662985
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_COIN_SHOW": {
-        "nameTextMapHash": 1201710563
+    "UI_ACTIVITY_ALCHEMYSIM_TAG_TITLE": {
+        "nameTextMapHash": 4061151388
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_AVATAR_CONFIRM_DESC": {
-        "nameTextMapHash": 79398243
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_UPGRADE_NONE": {
+        "nameTextMapHash": 710146989
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_AVATAR_FINISH_TIPS": {
-        "nameTextMapHash": 1201284150
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_UPGRADE_TIPS": {
+        "nameTextMapHash": 1395982909
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_AVATAR_COIN_INSUFFICIENT": {
-        "nameTextMapHash": 2780565272
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_UPGRADE_TIPS": {
+        "nameTextMapHash": 2932826325
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_FASHION_TITLE": {
-        "nameTextMapHash": 937224356
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_PUZZLE_TITLE": {
+        "nameTextMapHash": 1164945941
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_FASHION_DESC": {
-        "nameTextMapHash": 2472899948
+    "UI_ACTIVITY_ALCHEMYSIM_SELLING_REPORT": {
+        "nameTextMapHash": 492526849
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_FASHION_BUTTON": {
-        "nameTextMapHash": 1344400244
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_REPORT": {
+        "nameTextMapHash": 1450795460
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_FASHION_NAME": {
-        "nameTextMapHash": 2936635508
+    "UI_ACTIVITY_ALCHEMYSIM_PROFIT_TREND": {
+        "nameTextMapHash": 2244650763
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_COIN_TITLE": {
-        "nameTextMapHash": 3759666115
+    "UI_ACTIVITY_ALCHEMYSIM_NO_GOODS_REPORT": {
+        "nameTextMapHash": 2070337323
     },
-    "UI_ACTIVITY_LANV4_REWARD_PAGE_COIN_DESC": {
-        "nameTextMapHash": 1052165627
+    "UI_ACTIVITY_ALCHEMYSIM_ROUND_DETAIL": {
+        "nameTextMapHash": 2803436546
     },
-    "UI_ACTIVITY_LANV4_QUEST_SKIP_HINT": {
-        "nameTextMapHash": 358986138
+    "UI_ACTIVITY_ALCHEMYSIM_REVENUE_DETAIL": {
+        "nameTextMapHash": 2581133676
     },
-    "UI_ACTIVITY_LANV4_QUEST_SKIP_DESC": {
-        "nameTextMapHash": 755124314
+    "UI_ACTIVITY_ALCHEMYSIM_ROUND_REVENUE": {
+        "nameTextMapHash": 4210170850
     },
-    "UI_ACTIVITY_LANV4_OPEN_HINT": {
-        "nameTextMapHash": 131322010
+    "UI_ACTIVITY_ALCHEMYSIM_GOODS_COST": {
+        "nameTextMapHash": 2700845471
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_MARKTITLE": {
-        "nameTextMapHash": 3860577156
+    "UI_ACTIVITY_ALCHEMYSIM_SHOP_COST": {
+        "nameTextMapHash": 1880211474
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_MARKDESC": {
-        "nameTextMapHash": 3992587180
+    "UI_ACTIVITY_ALCHEMYSIM_COST_NUMBER": {
+        "nameTextMapHash": 4206718581
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_MARKSCORE": {
-        "nameTextMapHash": 1807204084
+    "UI_ACTIVITY_ALCHEMYSIM_PROFIT": {
+        "nameTextMapHash": 1008304944
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_MAIN_CURRENT_SCORE": {
-        "nameTextMapHash": 2307093975
+    "UI_ACTIVITY_ALCHEMYSIM_INCOME": {
+        "nameTextMapHash": 1714191144
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_MAIN_ADVANCE": {
-        "nameTextMapHash": 2946979023
+    "UI_ACTIVITY_ALCHEMYSIM_REVENUE_STRUCTURE": {
+        "nameTextMapHash": 3368000028
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_MAIN_PUSHTIPS": {
-        "nameTextMapHash": 2310846831
+    "UI_ACTIVITY_ALCHEMYSIM_SALES_VOLUME": {
+        "nameTextMapHash": 3943910858
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_MAIN_GOTO": {
-        "nameTextMapHash": 2341143855
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_PHASE": {
+        "nameTextMapHash": 3864318012
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_LEVEL_REWARD": {
-        "nameTextMapHash": 3792136756
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_STRATEGY_RESULT": {
+        "nameTextMapHash": 2076882197
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_LEVEL_FIRST": {
-        "nameTextMapHash": 3918173988
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_STRATEGY_INCREASE": {
+        "nameTextMapHash": 96686469
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_LEVEL_SINGLE": {
-        "nameTextMapHash": 821548444
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_STRATEGY_NAME": {
+        "nameTextMapHash": 3923519965
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_LEVEL_INSTRUCTION": {
-        "nameTextMapHash": 192676628
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_STRATEGY_FEEDBACK": {
+        "nameTextMapHash": 2864966597
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_LEVEL_STAGE_SCORE": {
-        "nameTextMapHash": 323949659
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_STRATEGY_GOOD": {
+        "nameTextMapHash": 3937080797
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_LEVEL_FIRST_TAG": {
-        "nameTextMapHash": 762121381
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_STRATEGY_NORMAL": {
+        "nameTextMapHash": 2826257381
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_LIMIT_TITLE": {
-        "nameTextMapHash": 3227644464
+    "UI_ACTIVITY_ALCHEMYSIM_PLAYER_LEVEL_PREVIEW_TITLE": {
+        "nameTextMapHash": 3148920187
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_LIMIT_DESC": {
-        "nameTextMapHash": 3223952720
+    "UI_ACTIVITY_ALCHEMYSIM_PLAYER_LEVEL_PREVIEW_REWARD": {
+        "nameTextMapHash": 872272043
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_LIMIT_OPTION": {
-        "nameTextMapHash": 2479109400
+    "UI_ACTIVITY_ALCHEMYSIM_PLAYER_LEVEL_UNLOCK_TIPS": {
+        "nameTextMapHash": 1535061702
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_DUNGEON_BAN_EXIT": {
-        "nameTextMapHash": 393705649
+    "UI_ACTIVITY_ALCHEMYSIM_ROUND_INTERVAL": {
+        "nameTextMapHash": 391144602
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_CANCEL_MATCH_DESC": {
-        "nameTextMapHash": 35193014
+    "UI_ACTIVITY_ALCHEMYSIM_NEWS_TITLE_01": {
+        "nameTextMapHash": 1179269823
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_DUNGEON_EXIT_TIPS_DESC": {
-        "nameTextMapHash": 2279045489
+    "UI_ACTIVITY_ALCHEMYSIM_NEWS_TITLE_02": {
+        "nameTextMapHash": 864701983
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_DRAFT_TIPS_DESC": {
-        "nameTextMapHash": 1453345675
+    "UI_ACTIVITY_ALCHEMYSIM_NEWS_TITLE_03": {
+        "nameTextMapHash": 3915482759
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_INSIDE_DODGE_SUCCESS": {
-        "nameTextMapHash": 2867496356
+    "UI_ACTIVITY_ALCHEMYSIM_END_ROUND_TIPS": {
+        "nameTextMapHash": 4004383408
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_INSIDE_DODGE_FAIL": {
-        "nameTextMapHash": 4009587332
+    "UI_ACTIVITY_ALCHEMYSIM_CURRENT_ROUND": {
+        "nameTextMapHash": 2335724395
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_INSIDE_DODGE_WARNING": {
-        "nameTextMapHash": 1721826700
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_START_TIPS": {
+        "nameTextMapHash": 411412398
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_LACKPLAYER": {
-        "nameTextMapHash": 2885127444
+    "UI_ACTIVITY_ALCHEMYSIM_ORDER_START_TIPS": {
+        "nameTextMapHash": 517911730
     },
-    "UI_ACTIVITY_LANV4_PARTYLION_ENDED": {
-        "nameTextMapHash": 2256929572
+    "UI_ACTIVITY_ALCHEMYSIM_MONEY_LIMIT_TIPS": {
+        "nameTextMapHash": 3489785899
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_NAME": {
-        "nameTextMapHash": 75286911
+    "UI_ACTIVITY_ALCHEMYSIM_CHAIR": {
+        "nameTextMapHash": 3220802392
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_LEVELCOND": {
-        "nameTextMapHash": 2781814287
+    "UI_ACTIVITY_ALCHEMYSIM_SHELF": {
+        "nameTextMapHash": 3675317720
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_LEVEL_SCORE": {
-        "nameTextMapHash": 2605544344
+    "UI_ACTIVITY_ALCHEMYSIM_CHOOSE_GOODS": {
+        "nameTextMapHash": 872541786
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_MAPMARK_TITLE": {
-        "nameTextMapHash": 2680437696
+    "UI_ACTIVITY_ALCHEMYSIM_SELECTED_GOODS": {
+        "nameTextMapHash": 3598429310
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_MAPMARK_DESC": {
-        "nameTextMapHash": 2504718464
+    "UI_ACTIVITY_ALCHEMYSIM_CONFIRM_ADDED": {
+        "nameTextMapHash": 2652615786
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_MAPMARK_SCORE": {
-        "nameTextMapHash": 140934488
+    "UI_ACTIVITY_ALCHEMYSIM_GOODS_CHANGED_TIPS": {
+        "nameTextMapHash": 1873612768
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_MAPMARK_NORECORD": {
-        "nameTextMapHash": 380196744
+    "UI_ACTIVITY_ALCHEMYSIM_EXIT_SELL_HINT": {
+        "nameTextMapHash": 268512874
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_GEAR": {
-        "nameTextMapHash": 4266022119
+    "UI_ACTIVITY_ALCHEMYSIM_SAVE_AND_EXIT": {
+        "nameTextMapHash": 1232609571
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_TIPS_SCORE": {
-        "nameTextMapHash": 2540376027
+    "UI_ACTIVITY_ALCHEMYSIM_EXIT": {
+        "nameTextMapHash": 206560576
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_REMINDER_TITLE": {
-        "nameTextMapHash": 3301055515
+    "UI_ACTIVITY_ALCHEMYSIM_GOODS_LIMIT": {
+        "nameTextMapHash": 742519359
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_REMINDER_DESC": {
-        "nameTextMapHash": 4199226899
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER": {
+        "nameTextMapHash": 3255049768
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_TARGET_TITLE": {
-        "nameTextMapHash": 1335415181
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_DEMAND": {
+        "nameTextMapHash": 2865248228
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_TARGET_1": {
-        "nameTextMapHash": 1204703013
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_POTION_NOT_ENOUGH_TIPS": {
+        "nameTextMapHash": 3154371292
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_TARGET_2": {
-        "nameTextMapHash": 4146162765
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_CHOOSE_STRATEGIES": {
+        "nameTextMapHash": 1552502322
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_SCORE_COIN": {
-        "nameTextMapHash": 33617863
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_RESELECT_GOODS": {
+        "nameTextMapHash": 2333750257
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_SCORE_TIME": {
-        "nameTextMapHash": 535563887
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_CONFIRM_TRADE": {
+        "nameTextMapHash": 147539766
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_SCORE_TOTAL": {
-        "nameTextMapHash": 3814788607
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_STRATEGIES_NOT_ENOUGH_TIPS": {
+        "nameTextMapHash": 3806717142
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_LEVELSELECT": {
-        "nameTextMapHash": 733571647
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_STRATEGIES_EXCEED_TIPS": {
+        "nameTextMapHash": 760392771
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_TRYAGAIN": {
-        "nameTextMapHash": 3593364823
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_STRATEGIES_LAST_TIME": {
+        "nameTextMapHash": 1716876418
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_QUIT": {
-        "nameTextMapHash": 3111956495
+    "UI_ACTIVITY_ALCHEMYSIM_DEALER_STRATEGIES_PROCESS": {
+        "nameTextMapHash": 1265892505
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_HINT": {
-        "nameTextMapHash": 3578588999
+    "UI_ACTIVITY_ALCHEMYSIM_ORDER": {
+        "nameTextMapHash": 3833116960
     },
-    "UI_ACTIVITY_LANV4_PERFECT": {
-        "nameTextMapHash": 2644874383
+    "UI_ACTIVITY_ALCHEMYSIM_FILTER_TIPS": {
+        "nameTextMapHash": 4083996483
     },
-    "UI_ACTIVITY_LANV4_CARPJUMP_END": {
-        "nameTextMapHash": 2282543615
+    "UI_ACTIVITY_ALCHEMYSIM_ORDER_DELIVER": {
+        "nameTextMapHash": 4247664708
     },
-    "UI_ACTIVITY_HERMIT_TITLE": {
-        "nameTextMapHash": 2442246774
+    "UI_ACTIVITY_ALCHEMYSIM_ORDER_NO_GOODS_TIPS": {
+        "nameTextMapHash": 3763775677
     },
-    "UI_ACTIVITY_HERMIT_DESC": {
-        "nameTextMapHash": 256050870
+    "UI_ACTIVITY_ALCHEMYSIM_ORDER_BREAK_TIPS": {
+        "nameTextMapHash": 2620447979
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_GOODS_OVERAGE": {
+        "nameTextMapHash": 3046547647
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_ORDER_POTION_NOT_ENOUGH_TIPS": {
+        "nameTextMapHash": 1518725925
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM": {
+        "nameTextMapHash": 1489049872
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_TECH_REWARD_TIPS": {
+        "nameTextMapHash": 2353592830
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_REMAINING": {
+        "nameTextMapHash": 2161529207
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_START": {
+        "nameTextMapHash": 2776004447
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_POTION_HINT": {
+        "nameTextMapHash": 2030579735
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_SUCCESS": {
+        "nameTextMapHash": 467056263
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_FAIL": {
+        "nameTextMapHash": 42311719
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_RESULT": {
+        "nameTextMapHash": 4072348335
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_RESULT_C": {
+        "nameTextMapHash": 1170346052
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_RESULT_B": {
+        "nameTextMapHash": 998804732
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_RESULT_A": {
+        "nameTextMapHash": 4228174836
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_RESULT_S": {
+        "nameTextMapHash": 2860802956
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_RESULT_RULE": {
+        "nameTextMapHash": 3275548036
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_BEST_RESULT": {
+        "nameTextMapHash": 1892615315
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_NO_RESULT": {
+        "nameTextMapHash": 3958329889
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_EXIT": {
+        "nameTextMapHash": 3368876455
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_RETRY": {
+        "nameTextMapHash": 1813669831
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_SUBMIT": {
+        "nameTextMapHash": 372456407
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_FINISH_HINT": {
+        "nameTextMapHash": 3444308813
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_GOAL": {
+        "nameTextMapHash": 2459701479
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_END": {
+        "nameTextMapHash": 2190725191
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_AUTO_SUMBIT": {
+        "nameTextMapHash": 1860831001
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_PASS_TIPS": {
+        "nameTextMapHash": 1415089042
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_GET_TECH_REWARD": {
+        "nameTextMapHash": 3921170044
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_SUMBIT_HINT": {
+        "nameTextMapHash": 241646308
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_TECH_TREE_TITLE": {
+        "nameTextMapHash": 1844405521
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_TECH_TREE_ALCHEMY_TITLE": {
+        "nameTextMapHash": 3528541260
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_TECH_TREE_PLANT_TITLE": {
+        "nameTextMapHash": 3966241995
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_TECH_TREE_SELL_TITLE": {
+        "nameTextMapHash": 311730520
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_TECH_TREE_EXAM_TITLE": {
+        "nameTextMapHash": 3135623612
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_TECH_BRANCH_UNLOCK": {
+        "nameTextMapHash": 3225681365
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_TECH_BRANCH_UPGRADE": {
+        "nameTextMapHash": 2242764437
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXTRA_TECH_BRANCH_LOCK_TIPS": {
+        "nameTextMapHash": 3642691247
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_EXAM_TECH_BRANCH_LOCK_TIPS": {
+        "nameTextMapHash": 192054441
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_TECH_BRANCH_FINISH": {
+        "nameTextMapHash": 4289561557
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_TECH_BRANCH_LEVEL_DETAIL": {
+        "nameTextMapHash": 424028999
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_TECH_BRANCH_UNLOCK_TIPS": {
+        "nameTextMapHash": 3124018265
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_TECH_BRANCH_UPGRADE_TIPS": {
+        "nameTextMapHash": 2136479449
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_COINS_NOT_ENOUGH": {
+        "nameTextMapHash": 2761980655
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_SHOP_GOODS_UNLOCK": {
+        "nameTextMapHash": 1574109973
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_SHOP_GOODS_LOCK_01": {
+        "nameTextMapHash": 997220477
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_SHOP_GOODS_LOCK_02": {
+        "nameTextMapHash": 2731785765
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_GUIDE_HANDBOOK": {
+        "nameTextMapHash": 3959957694
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_OPEN_HINT": {
+        "nameTextMapHash": 2663035169
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_POT_NORMAL": {
+        "nameTextMapHash": 2493022544
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_POT_FAST": {
+        "nameTextMapHash": 3075591664
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_FAST_LACK": {
+        "nameTextMapHash": 336298272
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_FAST_BUTTON": {
+        "nameTextMapHash": 440184632
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_POT_LIMIT": {
+        "nameTextMapHash": 2007284400
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_FAST_SELECT_PS": {
+        "nameTextMapHash": 1640309246
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_FAST_CANCEL_PS": {
+        "nameTextMapHash": 2950351602
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_FAST_CLOSE_PS": {
+        "nameTextMapHash": 1076593406
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_FAST_RETURN_PS": {
+        "nameTextMapHash": 4048617206
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_FAST_TIPS": {
+        "nameTextMapHash": 3183767176
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_FAST_UNSELECT": {
+        "nameTextMapHash": 1467721280
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_PROP_TITLE": {
+        "nameTextMapHash": 3513057881
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_PROP_DETAIL": {
+        "nameTextMapHash": 3746493585
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_PROP_CLOSE_PS": {
+        "nameTextMapHash": 1988142246
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RATE_TITLE": {
+        "nameTextMapHash": 1560593844
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RATE_FORMAT": {
+        "nameTextMapHash": 596971908
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_OVERLAP_TITLE": {
+        "nameTextMapHash": 2387902675
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_OVERLAP_NUMBER": {
+        "nameTextMapHash": 2881035403
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_ROTATE_BUTTON": {
+        "nameTextMapHash": 907336942
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_CANCEL_BUTTON": {
+        "nameTextMapHash": 749318691
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_CONFIRM_BUTTON": {
+        "nameTextMapHash": 472499042
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_CANCEL_ALL_BUTTON": {
+        "nameTextMapHash": 4079748027
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_CANCEL_ALL_HINT": {
+        "nameTextMapHash": 525558803
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DENY": {
+        "nameTextMapHash": 2055168299
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_FINISH_DENY": {
+        "nameTextMapHash": 634755296
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_FINISH_BUTTON": {
+        "nameTextMapHash": 2433712096
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_PS_REGION_SWITCH": {
+        "nameTextMapHash": 322565970
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_PS_EDIT": {
+        "nameTextMapHash": 2964225862
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_FINISH_HINT": {
+        "nameTextMapHash": 3501538696
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_EXIT_HINT": {
+        "nameTextMapHash": 924322210
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_EXAM_DETAIL": {
+        "nameTextMapHash": 224915786
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_EXAM_MAIN": {
+        "nameTextMapHash": 1211384498
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_EXAM_SUB": {
+        "nameTextMapHash": 3582962242
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_EXAM_HINT": {
+        "nameTextMapHash": 1008671994
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_NUM_FORMAT": {
+        "nameTextMapHash": 1316866658
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_TAG_CONNECT": {
+        "nameTextMapHash": 2217375106
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DETAIL_OPEN_PS": {
+        "nameTextMapHash": 3835748974
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DETAIL_CLOSE_PS": {
+        "nameTextMapHash": 419438004
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DIY": {
+        "nameTextMapHash": 3842102075
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DIY_BOTTLE": {
+        "nameTextMapHash": 1640814649
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DIY_DECORATION": {
+        "nameTextMapHash": 189398009
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DIY_FINISH_BUTTON": {
+        "nameTextMapHash": 633774831
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DIY_SELECT": {
+        "nameTextMapHash": 2958631497
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DIY_CANCEL": {
+        "nameTextMapHash": 1846190417
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DIY_DECORATION_UNSELECT": {
+        "nameTextMapHash": 2263621212
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT": {
+        "nameTextMapHash": 3687991235
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_LEVEL": {
+        "nameTextMapHash": 3737730609
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_BUFF_TITLE": {
+        "nameTextMapHash": 2415349850
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_BUFF_01": {
+        "nameTextMapHash": 2882278626
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_BUFF_02": {
+        "nameTextMapHash": 1172118562
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_BUFF_03": {
+        "nameTextMapHash": 1511707130
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_BUFF_04": {
+        "nameTextMapHash": 3535212778
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_BUFF_05": {
+        "nameTextMapHash": 476466738
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_PLAYER_LEVEL_TITLE": {
+        "nameTextMapHash": 1408865462
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_CROP_NEW_TITLE": {
+        "nameTextMapHash": 417296102
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_CROP_NEW_HINT": {
+        "nameTextMapHash": 1601802646
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_OVERLAP_NEW_HINT": {
+        "nameTextMapHash": 4071250869
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_POT_NEW_HINT": {
+        "nameTextMapHash": 872995415
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_EFFICIENCY_NEW_HINT": {
+        "nameTextMapHash": 70358347
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_POTION_TWICE_HINT": {
+        "nameTextMapHash": 676684738
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_SHOP_HINT": {
+        "nameTextMapHash": 1943562094
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_CROP_LEVEL_TITLE": {
+        "nameTextMapHash": 3904180919
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_CROP_LEVEL_MAX": {
+        "nameTextMapHash": 2296055327
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_RESULT_GET_BUTTON": {
+        "nameTextMapHash": 3695074862
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_PLAYER_LEVEL_LV": {
+        "nameTextMapHash": 2415299030
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_NAME_PLUS": {
+        "nameTextMapHash": 1338492332
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_NAME_01": {
+        "nameTextMapHash": 2830500012
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_NAME_02": {
+        "nameTextMapHash": 3961146284
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_NAME_03": {
+        "nameTextMapHash": 27808028
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_NAME_04": {
+        "nameTextMapHash": 2690255596
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_NAME_05": {
+        "nameTextMapHash": 4024965420
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_NAME_06": {
+        "nameTextMapHash": 2511419844
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_NAME_DUAL_PROP": {
+        "nameTextMapHash": 2344868076
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_PLAYER_LEVEL_UP": {
+        "nameTextMapHash": 3620871358
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_NAME_DEFAULT": {
+        "nameTextMapHash": 1720178364
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DROP_TITLE": {
+        "nameTextMapHash": 4208779544
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DROP_DESC": {
+        "nameTextMapHash": 3398214424
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DROP_OLD_TITLE": {
+        "nameTextMapHash": 3582173295
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DROP_NEW_TITLE": {
+        "nameTextMapHash": 1789624271
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DROP_ONSALE": {
+        "nameTextMapHash": 2762213128
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DROP_ONSALE_HINT": {
+        "nameTextMapHash": 1567713157
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DROP_BUTTON": {
+        "nameTextMapHash": 393120248
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_DROP_UNSELECT": {
+        "nameTextMapHash": 1627540872
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_LAND": {
+        "nameTextMapHash": 140959662
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE": {
+        "nameTextMapHash": 3165600870
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_HANDBOOK": {
+        "nameTextMapHash": 3826048254
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_ACCELERATE_ALL": {
+        "nameTextMapHash": 115337413
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_ACCELERATE_ALL_HINT": {
+        "nameTextMapHash": 3062264217
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_ACCELERATE_COIN_LACK": {
+        "nameTextMapHash": 1431897193
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_GET_ALL": {
+        "nameTextMapHash": 1737218676
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_GET_DENY": {
+        "nameTextMapHash": 2617960324
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_ACCELERATE_DENY": {
+        "nameTextMapHash": 1410785765
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_GET_FULL": {
+        "nameTextMapHash": 3348335508
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_NEW_REMINDER": {
+        "nameTextMapHash": 1434514131
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_GET_RESULT_TITLE": {
+        "nameTextMapHash": 4203888713
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_GET_RESULT_EXTRA": {
+        "nameTextMapHash": 4020525449
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_ADD_PS": {
+        "nameTextMapHash": 2016246831
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_DETAIL_PS": {
+        "nameTextMapHash": 2604867826
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_SWITCH_PS": {
+        "nameTextMapHash": 3073623065
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_CLICK_HINT": {
+        "nameTextMapHash": 3941414025
+    },
+    "RetAlchemySimCropExceedLimit": {
+        "nameTextMapHash": 589832955
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_PLANT_LIST": {
+        "nameTextMapHash": 3499366211
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_PLANT_CONFIRM_BUTTON": {
+        "nameTextMapHash": 2431642612
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_PLANT_INFO_TIME": {
+        "nameTextMapHash": 1409197253
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_PLANT_INFO_PRODUCTION": {
+        "nameTextMapHash": 4068475453
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_PLANT_INFO_NUM": {
+        "nameTextMapHash": 1959544773
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_PLANT_INFO_NULL": {
+        "nameTextMapHash": 2263877997
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_SELECT_PS": {
+        "nameTextMapHash": 3549833228
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_CANCEL_PS": {
+        "nameTextMapHash": 3199297745
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_MAX": {
+        "nameTextMapHash": 2509421262
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_DETAIL_TITLE": {
+        "nameTextMapHash": 720302490
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_DETAIL_INFO_TIME": {
+        "nameTextMapHash": 3092004531
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_DETAIL_INFO_PRODUCTION": {
+        "nameTextMapHash": 3200514923
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_DETAIL_INFO_NUM": {
+        "nameTextMapHash": 1144536627
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_DETAIL_ACCELERATE_ONCE": {
+        "nameTextMapHash": 61418156
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_CHANGE_BUTTON": {
+        "nameTextMapHash": 2417739209
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_DETAIL_INFO_MATURE": {
+        "nameTextMapHash": 3215242155
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_DETAIL_GET_ONCE": {
+        "nameTextMapHash": 577590355
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_NETWORK_DELAY": {
+        "nameTextMapHash": 1842511743
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_CHANGE_TITLE": {
+        "nameTextMapHash": 1903088489
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_CHANGE_HINT": {
+        "nameTextMapHash": 1076426513
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_CHANGE_CONFIRM_BUTTON": {
+        "nameTextMapHash": 2583420090
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_CHANGE_DENY_SAME": {
+        "nameTextMapHash": 3074326636
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_LIST": {
+        "nameTextMapHash": 1109419398
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_NEXT_PREVIEW": {
+        "nameTextMapHash": 3128016425
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_NEXT_01": {
+        "nameTextMapHash": 3148634681
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_NEXT_02": {
+        "nameTextMapHash": 2945057249
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_CONFIRM": {
+        "nameTextMapHash": 457646230
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_FULL": {
+        "nameTextMapHash": 1915079070
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_COST": {
+        "nameTextMapHash": 879243246
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_LEVELUP_HINT": {
+        "nameTextMapHash": 2527655792
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_TECH_HINT": {
+        "nameTextMapHash": 2014867353
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_SELECT": {
+        "nameTextMapHash": 2049845350
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_EMPTY_HINT": {
+        "nameTextMapHash": 892720849
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_LV": {
+        "nameTextMapHash": 525862022
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_NULL": {
+        "nameTextMapHash": 3577571342
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_REFINE_PRESS_HINT": {
+        "nameTextMapHash": 3722527312
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CRITICAL": {
+        "nameTextMapHash": 928722448
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_GUIDE_SELECT": {
+        "nameTextMapHash": 285431381
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_GUIDE_PUT": {
+        "nameTextMapHash": 1175889901
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_GUIDE_SELECT_PS": {
+        "nameTextMapHash": 2152673139
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_GUIDE_ROTATE": {
+        "nameTextMapHash": 910035949
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_POTION_GUIDE_INFO": {
+        "nameTextMapHash": 1582478381
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_GUIDE_GET": {
+        "nameTextMapHash": 305082602
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_GUIDE_ADD": {
+        "nameTextMapHash": 2220090266
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_GUIDE_SELECT": {
+        "nameTextMapHash": 3711740906
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_GUIDE_PLANT": {
+        "nameTextMapHash": 4030535618
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_GUIDE_CONFIRM_PS": {
+        "nameTextMapHash": 3221696647
+    },
+    "UI_ACTIVITY_ALCHEMYSIM_CROP_GUIDE_SWITCH": {
+        "nameTextMapHash": 3509704994
+    },
+    "UI_ACTIVITY_SLIMECANNON_TITLE": {
+        "nameTextMapHash": 1740925465
+    },
+    "UI_ACTIVITY_SLIMECANNON_ENDQUEST": {
+        "nameTextMapHash": 2506457577
+    },
+    "UI_ACTIVITY_SLIMECANNON_QUESTDONETIPS": {
+        "nameTextMapHash": 3178182753
+    },
+    "UI_ACTIVITY_SLIMECANNON_TUTORIALTITLE": {
+        "nameTextMapHash": 1243599433
+    },
+    "UI_ACTIVITY_SLIMECANNON_NOTOPSCORE": {
+        "nameTextMapHash": 3837132673
+    },
+    "UI_ACTIVITY_SLIMECANNON_TOPSCORE": {
+        "nameTextMapHash": 1211108505
+    },
+    "UI_ACTIVITY_SLIMECANNON_STAGELOCK": {
+        "nameTextMapHash": 3109245937
+    },
+    "UI_ACTIVITY_SLIMECANNON_LOCK_TIPS": {
+        "nameTextMapHash": 918540446
+    },
+    "UI_ACTIVITY_SLIMECANNON_TUTORIAL1": {
+        "nameTextMapHash": 2822265537
+    },
+    "UI_ACTIVITY_SLIMECANNON_TUTORIAL2": {
+        "nameTextMapHash": 1152467785
+    },
+    "UI_ACTIVITY_SLIMECANNON_TUTORIAL3": {
+        "nameTextMapHash": 1331950273
+    },
+    "UI_ACTIVITY_SLIMECANNON_OBJTITLE": {
+        "nameTextMapHash": 1275247689
+    },
+    "UI_ACTIVITY_SLIMECANNON_REWARDTITLE": {
+        "nameTextMapHash": 3353278849
+    },
+    "UI_ACTIVITY_SLIMECANNON_START": {
+        "nameTextMapHash": 25343361
+    },
+    "UI_ACTIVITY_SLIMECANNON_STARTTIPS": {
+        "nameTextMapHash": 2923980185
+    },
+    "UI_ACTIVITY_SLIMECANNON_INGAMESCORE": {
+        "nameTextMapHash": 4196138145
+    },
+    "UI_ACTIVITY_SLIMECANNON_NEXTBULLET": {
+        "nameTextMapHash": 2738566633
+    },
+    "UI_ACTIVITY_SLIMECANNON_COMBO": {
+        "nameTextMapHash": 1917326769
+    },
+    "UI_ACTIVITY_SLIMECANNON_STAGELEVEL": {
+        "nameTextMapHash": 1516664113
+    },
+    "UI_ACTIVITY_SLIMECANNON_SCORELEVEL": {
+        "nameTextMapHash": 1098266305
+    },
+    "UI_ACTIVITY_SLIMECANNON_CONTINUE": {
+        "nameTextMapHash": 1673071713
+    },
+    "UI_ACTIVITY_SLIMECANNON_RESTART": {
+        "nameTextMapHash": 1382055993
+    },
+    "UI_ACTIVITY_SLIMECANNON_EXIT": {
+        "nameTextMapHash": 2164402529
+    },
+    "UI_ACTIVITY_SLIMECANNON_SUCCEED": {
+        "nameTextMapHash": 2686730433
+    },
+    "UI_ACTIVITY_SLIMECANNON_RECORD01": {
+        "nameTextMapHash": 1056482113
+    },
+    "UI_ACTIVITY_SLIMECANNON_RECORD02": {
+        "nameTextMapHash": 3483724633
+    },
+    "UI_ACTIVITY_SLIMECANNON_RECORD03": {
+        "nameTextMapHash": 1072425737
+    },
+    "UI_ACTIVITY_SLIMECANNON_ENDSCORE": {
+        "nameTextMapHash": 484651073
+    },
+    "UI_ACTIVITY_SLIMECANNON_ENDEXIT": {
+        "nameTextMapHash": 216410281
+    },
+    "UI_ACTIVITY_SLIMECANNON_ENDRESTART": {
+        "nameTextMapHash": 44684953
+    },
+    "UI_ACTIVITY_SLIMECANNON_ENDSELECT": {
+        "nameTextMapHash": 522717649
+    },
+    "UI_ACTIVITY_SLIMECANNON_EXITTIPS": {
+        "nameTextMapHash": 429458449
+    },
+    "UI_ACTIVITY_SLIMECANNON_OVERLOAD": {
+        "nameTextMapHash": 1149045881
+    },
+    "UI_ACTIVITY_SLIMECANNON_SUPERCONDUCT": {
+        "nameTextMapHash": 1548535665
+    },
+    "UI_ACTIVITY_SLIMECANNON_MELT": {
+        "nameTextMapHash": 4143020625
+    },
+    "UI_ACTIVITY_SLIMECANNON_COUNTDOWN": {
+        "nameTextMapHash": 3125845753
+    },
+    "UI_ACTIVITY_CATCAFE_ACTIVITYNAME": {
+        "nameTextMapHash": 815897364
+    },
+    "UI_ACTIVITY_CATCAFE_BOSSLOCKED_TITLE": {
+        "nameTextMapHash": 4193531119
+    },
+    "UI_ACTIVITY_CATCAFE_BOSSLOCKED_HINT": {
+        "nameTextMapHash": 2928441111
+    },
+    "UI_ACTIVITY_CATCAFE_CATREPUTATION": {
+        "nameTextMapHash": 32804988
+    },
+    "UI_ACTIVITY_CATCAFE_CATREPUTATION_FULL": {
+        "nameTextMapHash": 2399116886
+    },
+    "UI_ACTIVITY_CATCAFE_STATE": {
+        "nameTextMapHash": 2409443652
+    },
+    "UI_ACTIVITY_CATCAFE_UNFARMILIAR": {
+        "nameTextMapHash": 3917719972
+    },
+    "UI_ACTIVITY_CATCAFE_FAMILIAR": {
+        "nameTextMapHash": 2172787612
+    },
+    "UI_ACTIVITY_CATCAFE_AFFECTION": {
+        "nameTextMapHash": 724136372
+    },
+    "UI_ACTIVITY_CATCAFE_BOSSDES": {
+        "nameTextMapHash": 2058173052
+    },
+    "UI_ACTIVITY_CATCAFE_UNSUMMON": {
+        "nameTextMapHash": 3523262276
+    },
+    "UI_ACTIVITY_CATCAFE_CATBALCONY": {
+        "nameTextMapHash": 1288757860
+    },
+    "UI_ACTIVITY_CATCAFE_GOTO_PLAY": {
+        "nameTextMapHash": 2371412483
+    },
+    "UI_ACTIVITY_CATCAFE_GOTO_FEED": {
+        "nameTextMapHash": 3531406491
+    },
+    "UI_ACTIVITY_CATCAFE_GOTO_DECO": {
+        "nameTextMapHash": 3537672899
+    },
+    "UI_ACTIVITY_CATCAFE_UNLOCKHINT": {
+        "nameTextMapHash": 3389278892
+    },
+    "UI_ACTIVITY_CATCAFE_DECOHINT": {
+        "nameTextMapHash": 607725564
+    },
+    "UI_ACTIVITY_CATCAFE_DECOQUIT_TITLE": {
+        "nameTextMapHash": 2014152769
+    },
+    "UI_ACTIVITY_CATCAFE_DECOQUIT_DESC": {
+        "nameTextMapHash": 455062617
+    },
+    "UI_ACTIVITY_CATCAFE_ABANDON": {
+        "nameTextMapHash": 1801579372
+    },
+    "UI_ACTIVITY_CATCAFE_SAVEANDQUIT": {
+        "nameTextMapHash": 4129811156
+    },
+    "UI_ACTIVITY_CATCAFE_DECOFINISHED": {
+        "nameTextMapHash": 1467273508
+    },
+    "UI_ACTIVITY_CATCAFE_FEEDHINT": {
+        "nameTextMapHash": 1765445700
+    },
+    "UI_ACTIVITY_CATCAFE_DECOSAVED": {
+        "nameTextMapHash": 178431740
+    },
+    "UI_ACTIVITY_CATCAFE_DECO_SCOREA": {
+        "nameTextMapHash": 2143870343
+    },
+    "UI_ACTIVITY_CATCAFE_DECO_SCOREB": {
+        "nameTextMapHash": 4006811063
+    },
+    "UI_ACTIVITY_CATCAFE_DECO_SCOREC": {
+        "nameTextMapHash": 475719719
+    },
+    "UI_ACTIVITY_CATCAFE_FEEDFINISHED": {
+        "nameTextMapHash": 295185188
+    },
+    "UI_ACTIVITY_CATCAFE_FEEDTITLE": {
+        "nameTextMapHash": 800625676
+    },
+    "UI_ACTIVITY_CATCAFE_FEEDDESC": {
+        "nameTextMapHash": 481817724
+    },
+    "UI_ACTIVITY_CATCAFE_PLAYUNLOCKHINT": {
+        "nameTextMapHash": 401580276
+    },
+    "UI_ACTIVITY_CATCAFE_FAMILIARHINT": {
+        "nameTextMapHash": 2372560476
+    },
+    "UI_ACTIVITY_CATCAFE_FAVORDROP": {
+        "nameTextMapHash": 3504299852
+    },
+    "UI_ACTIVITY_CATCAFE_FAVORSTOP": {
+        "nameTextMapHash": 88708364
+    },
+    "UI_ACTIVITY_CATCAFE_BOSSLEAVING": {
+        "nameTextMapHash": 1648213932
+    },
+    "UI_ACTIVITY_CATCAFE_PLAYQUIT_TITLE": {
+        "nameTextMapHash": 329069509
+    },
+    "UI_ACTIVITY_CATCAFE_PLAYQUIT_DESC": {
+        "nameTextMapHash": 527884565
+    },
+    "UI_ACTIVITY_CATCAFE_PLAYQUIT_BLACK": {
+        "nameTextMapHash": 1455294909
+    },
+    "UI_ACTIVITY_CATCAFE_AFFECTION_HINT": {
+        "nameTextMapHash": 4200307400
+    },
+    "UI_ACTIVITY_CATCAFE_AUTOSAVED_FINISHHINT": {
+        "nameTextMapHash": 1106471958
+    },
+    "UI_ACTIVITY_CATCAFE_REPUTATION_NUM1": {
+        "nameTextMapHash": 2858381703
+    },
+    "UI_ACTIVITY_CATCAFE_REPUTATION_NUM2": {
+        "nameTextMapHash": 3107502759
+    },
+    "UI_ACTIVITY_CATCAFE_CATBOSSQUEST_UNFINISHED": {
+        "nameTextMapHash": 3723515963
+    },
+    "UI_ACTIVITY_CATCAFE_DECOFINISHED_CANTCHANGE": {
+        "nameTextMapHash": 1501870942
+    },
+    "UI_ACTIVITY_CATCAFE_HINT_LOCKED": {
+        "nameTextMapHash": 966928398
+    },
+    "UI_ACTIVITY_CATCAFE_BLACKSCREEN_CAT1COME": {
+        "nameTextMapHash": 3761692188
+    },
+    "UI_ACTIVITY_CATCAFE_BLACKSCREEN_CAT2COME": {
+        "nameTextMapHash": 1667709068
+    },
+    "UI_ACTIVITY_CATCAFE_BLACKSCREEN_CAT3COME": {
+        "nameTextMapHash": 2198233332
+    },
+    "UI_ACTIVITY_CATCAFE_BLACKSCREEN_CAT4COME": {
+        "nameTextMapHash": 3654060124
+    },
+    "UI_ACTIVITY_CATCAFE_BLACKSCREEN_CAT5COME": {
+        "nameTextMapHash": 974941804
+    },
+    "UI_ACTIVITY_CATCAFE_MARK_TITLE": {
+        "nameTextMapHash": 2381868588
+    },
+    "UI_ACTIVITY_CATCAFE_MARK_DESC": {
+        "nameTextMapHash": 139343108
+    },
+    "UI_ACTIVITY_CATCAFE_DECO_INTERACTNAME": {
+        "nameTextMapHash": 1195515751
+    },
+    "UI_ACTIVITY_CATCAFE_FEED_INTERACTNAME": {
+        "nameTextMapHash": 1554941298
+    },
+    "UI_ACTIVITY_CATCAFE_PLAY_INTERACTNAME": {
+        "nameTextMapHash": 3205506787
+    },
+    "UI_ACTIVITY_CATCAFE_ENDINGQUEST": {
+        "nameTextMapHash": 201099028
+    },
+    "UI_ACTIVITY_CATCAFE_CATNAME_TITLE": {
+        "nameTextMapHash": 1646487394
+    },
+    "UI_ACTIVITY_CATCAFE_FAVOR_PLUS": {
+        "nameTextMapHash": 2847654109
+    },
+    "UI_ACTIVITY_CATCAFE_FAVOR_MINUS": {
+        "nameTextMapHash": 4095771853
+    },
+    "UI_ACTIVITY_CATCAFE_BOSSQUESTHINT": {
+        "nameTextMapHash": 315165860
+    },
+    "UI_ACTIVITY_CATCAFE_HINT_COUNTDOWN": {
+        "nameTextMapHash": 2362168758
+    },
+    "UI_ACTIVITY_CATCAFE_UNDECOED": {
+        "nameTextMapHash": 283514756
     },
     "NPC_EXPNAME_1072": {
         "nameTextMapHash": 2265986372
@@ -37075,6 +38314,33 @@
     },
     "NPC_EXPNAME_13854": {
         "nameTextMapHash": 2891725268
+    },
+    "NPC_EXPNAME_13932": {
+        "nameTextMapHash": 907510180
+    },
+    "NPC_EXPNAME_13934": {
+        "nameTextMapHash": 3455866188
+    },
+    "NPC_EXPNAME_13934_1": {
+        "nameTextMapHash": 1732518161
+    },
+    "NPC_EXPNAME_13937": {
+        "nameTextMapHash": 3377043356
+    },
+    "NPC_EXPNAME_13977": {
+        "nameTextMapHash": 3000669924
+    },
+    "NPC_EXPNAME_13978": {
+        "nameTextMapHash": 3550423132
+    },
+    "NPC_EXPNAME_13979": {
+        "nameTextMapHash": 688835756
+    },
+    "NPC_EXPNAME_13980": {
+        "nameTextMapHash": 274769660
+    },
+    "NPC_EXPNAME_14016": {
+        "nameTextMapHash": 2151515700
     },
     "NPC_EXPNAME_1702": {
         "nameTextMapHash": 989589180
@@ -37441,6 +38707,12 @@
     },
     "NPC_EXPNAME_30419": {
         "nameTextMapHash": 2665002652
+    },
+    "NPC_EXPNAME_30509": {
+        "nameTextMapHash": 138696796
+    },
+    "NPC_EXPNAME_30534": {
+        "nameTextMapHash": 1104502828
     },
     "NPC_EXPNAME_4218": {
         "nameTextMapHash": 3574170172
@@ -37931,6 +39203,36 @@
     "NPC_TITLE_13890": {
         "nameTextMapHash": 3699973225
     },
+    "NPC_TITLE_13932": {
+        "nameTextMapHash": 1400631209
+    },
+    "NPC_TITLE_13933": {
+        "nameTextMapHash": 781766857
+    },
+    "NPC_TITLE_13935": {
+        "nameTextMapHash": 2290919105
+    },
+    "NPC_TITLE_13937": {
+        "nameTextMapHash": 4069868089
+    },
+    "NPC_TITLE_13976": {
+        "nameTextMapHash": 1894183049
+    },
+    "NPC_TITLE_13979": {
+        "nameTextMapHash": 3069275265
+    },
+    "NPC_TITLE_13980": {
+        "nameTextMapHash": 3452341617
+    },
+    "NPC_TITLE_13981": {
+        "nameTextMapHash": 4033678769
+    },
+    "NPC_TITLE_14016": {
+        "nameTextMapHash": 3615369441
+    },
+    "NPC_TITLE_14028": {
+        "nameTextMapHash": 569623201
+    },
     "NPC_TITLE_1702": {
         "nameTextMapHash": 3115992777
     },
@@ -38134,6 +39436,9 @@
     },
     "NPC_TITLE_21293_1": {
         "nameTextMapHash": 1828379830
+    },
+    "NPC_TITLE_21517": {
+        "nameTextMapHash": 1981622281
     },
     "NPC_TITLE_2261": {
         "nameTextMapHash": 1764715393
@@ -38425,6 +39730,24 @@
     },
     "NPC_TITLE_30491": {
         "nameTextMapHash": 2013150089
+    },
+    "NPC_TITLE_30501": {
+        "nameTextMapHash": 2219846033
+    },
+    "NPC_TITLE_30509": {
+        "nameTextMapHash": 643950281
+    },
+    "NPC_TITLE_30518": {
+        "nameTextMapHash": 3207833201
+    },
+    "NPC_TITLE_30519": {
+        "nameTextMapHash": 1423239953
+    },
+    "NPC_TITLE_30534": {
+        "nameTextMapHash": 2093933961
+    },
+    "NPC_TITLE_30539": {
+        "nameTextMapHash": 611722297
     },
     "NPC_TITLE_4000": {
         "nameTextMapHash": 3197203569

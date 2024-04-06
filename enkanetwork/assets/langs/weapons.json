@@ -783,6 +783,22 @@
         "TR": "Sakin Suların İhtişamı",
         "VI": "Sắc Nước Lộng Lẫy"
     },
+    "1818340435": {
+        "CHS": "有乐御簾切",
+        "DE": "Uraku Misugiri",
+        "EN": "Uraku Misugiri",
+        "ES": "Cortatelones de Urakusai",
+        "FR": "Uraku Misugiri",
+        "ID": "Uraku Misugiri",
+        "IT": "Uraku Misugiri",
+        "JP": "有楽御簾切",
+        "KR": "우라쿠의 미스기리",
+        "PT": "Urakugo Rensai",
+        "RU": "Ураку мисугири",
+        "TH": "Uraku Misugiri",
+        "TR": "Uraku Misugiri",
+        "VI": "Uraku Misugiri"
+    },
     "2666951267": {
         "CHS": "训练大剑",
         "DE": "Übungsgroßschwert",
@@ -1774,6 +1790,22 @@
         "TH": "Rightful Reward",
         "TR": "Meşru Mükafat",
         "VI": "Thù Lao Của Chính Nghĩa"
+    },
+    "2847771107": {
+        "CHS": "沙中伟贤的对答",
+        "DE": "Dialoge der Weisen der Wüste",
+        "EN": "Dialogues of the Desert Sages",
+        "ES": "Discusión de los Sabios del Desierto",
+        "FR": "Dialogues des sages du désert",
+        "ID": "Dialogues of the Desert Sages",
+        "IT": "Dialoghi dei saggi del deserto",
+        "JP": "砂中の賢者達の問答",
+        "KR": "위대한 사막 현자의 대답",
+        "PT": "Conversas dos Sábios do Deserto",
+        "RU": "Диалог пустынных мудрецов",
+        "TH": "Dialogues of the Desert Sages",
+        "TR": "Çöl Alimleriyle Sohbet",
+        "VI": "Đối Thoại Của Hiền Giả Sa Mạc"
     },
     "882305891": {
         "CHS": "勘探钻机",
