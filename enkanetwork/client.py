@@ -390,7 +390,7 @@ class EnkaNetworkAPI:
         tools = enkatools.Tools()
         path = path["data"].replace("\\data", '')
         
-        await update_pfps(papath = path)
+        await update_pfps(path = path)
         await tools.update_assets(path = path)
         
         self.assets.reload_assets()
