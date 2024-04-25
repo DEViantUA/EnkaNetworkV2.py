@@ -27,7 +27,8 @@ setuptools.setup(
 	install_requires=[
 		"pydantic",
 		"aiohttp",
-		"cachetools"
+		"cachetools",
+		"enkacard"
 	],
 	python_requires=">=3.6",
 	include_package_data=True
