@@ -74,10 +74,10 @@ class Assets:
 
     @classmethod
     def character_avatar(cls, id: int) -> Optional[assets.CharacterCostume]:
-        LOGGER.debug(f"Getting costume assets with id: {id}")
+        LOGGER.debug(f"Getting Avatar assets with id: {id}")
         data = cls.DATA["pfps"].get(str(id))
         if not data:
-            LOGGER.error(f"Costume not found with id: {id}")
+            LOGGER.error(f"Avatar not found with id: {id}")
             return        
         return assets.CharacterAvatar.parse_obj({
             "id": id,

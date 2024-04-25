@@ -129,7 +129,9 @@ async def to_data(response: ClientResponse) -> Dict[str, Any]:
 async def update_pfps(path):
     async with aiohttp.ClientSession() as session:
         async with session.get("https://raw.githubusercontent.com/EnkaNetwork/API-docs/master/store/pfps.json") as response:
-            data = await response.json()
+            data = await response.read()
+            
+    data = json.loads(data)
     
-    with open(os.path.join(path, "pfps.json"), 'w',  encoding='utf-8') as file:
+    with open(os.path.join(path, "data/pfps.json"), 'w',  encoding='utf-8') as file:
         json.dump(data, file, indent=4)
