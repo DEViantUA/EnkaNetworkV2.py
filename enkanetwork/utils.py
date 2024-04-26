@@ -132,6 +132,9 @@ async def update_pfps(path):
             data = await response.read()
             
     data = json.loads(data)
-    
-    with open(os.path.join(path, "data/pfps.json"), 'w',  encoding='utf-8') as file:
-        json.dump(data, file, indent=4)
+    try:
+        with open(os.path.join(path, "data/pfps.json"), 'w', encoding='utf-8') as file:
+            json.dump(data, file, indent=4)
+    except FileNotFoundError:
+        with open(os.path.join(path, "pfps.json"), 'w', encoding='utf-8') as file:
+            json.dump(data, file, indent=4)
