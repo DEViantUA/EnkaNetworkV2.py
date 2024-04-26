@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import logging
+import os
 
 from typing import Union, Optional, Type, TYPE_CHECKING, List, Any, Dict
 from enkacard import enkatools
@@ -385,11 +386,12 @@ class EnkaNetworkAPI:
         new_data = await self.fetch_raw_data(uid)
         return await merge_raw_data(new_data, old_data)
 
-    async def update_assets(self) -> None:
-        path = Assets._get_path_assets()
+    async def update_assets(self, path = None) -> None:
+        if path is None:
+            path = Assets._get_path_assets()
+            path = os.path.dirname(path["data"])
+            
         tools = enkatools.Tools()
-        path = path["data"].replace("\\data", '')
-        
         await update_pfps(path = path)
         await tools.update_assets(path = path)
         
