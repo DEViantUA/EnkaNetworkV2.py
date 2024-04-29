@@ -9,14 +9,14 @@ with open('enkanetwork/__init__.py') as f:
 	version = re.search(r'^__version__\s*=\s*[\'"]([^\'"]*)[\'"]', f.read(), re.M).group(1)
 
 setuptools.setup(
-	name="enkanetworkV2.py",
+	name="enkanetworkv2.py",
 	version=version,
 	author="DeviantUa",
 	author_email="deviantapi@gmail.com",
 	description="Library for fetching JSON data from site https://enka.network/",
 	long_description=open("README.md", "r", encoding="utf-8").read(),
 	long_description_content_type="text/markdown",
-	url="https://github.com/DEViantUA/EnkaNetworkV2.py/tree/main",
+	url="https://github.com/DEViantUA/EnkaNetworkV2.py",
 	keywords = ['enkanetwork.py', 'enkanetwork', 'enka.network', 'genshinapi', 'enkanetworkV2', 'enkanetworkV2.py'],
 	packages=setuptools.find_packages(),
 	classifiers=[
@@ -28,8 +28,8 @@ setuptools.setup(
 		"pydantic",
 		"aiohttp",
 		"cachetools",
-		"enkacard"
 	],
 	python_requires=">=3.6",
 	include_package_data=True
 )
+

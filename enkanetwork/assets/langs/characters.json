@@ -1,6 +1,7 @@
 {
     "1006042610": {
         "CHS": "神里绫华",
+        "CHT": "神里綾華",
         "DE": "Kamisato Ayaka",
         "EN": "Kamisato Ayaka",
         "ES": "Kamisato Ayaka",
@@ -17,6 +18,7 @@
     },
     "3221566250": {
         "CHS": "琴",
+        "CHT": "琴",
         "DE": "Jean",
         "EN": "Jean",
         "ES": "Jean",
@@ -33,6 +35,7 @@
     },
     "1533656818": {
         "CHS": "旅行者",
+        "CHT": "旅行者",
         "DE": "Reisender",
         "EN": "Traveler",
         "ES": "Viajero",
@@ -49,6 +52,7 @@
     },
     "3344622722": {
         "CHS": "丽莎",
+        "CHT": "麗莎",
         "DE": "Lisa",
         "EN": "Lisa",
         "ES": "Lisa",
@@ -65,6 +69,7 @@
     },
     "3816664530": {
         "CHS": "旅行者",
+        "CHT": "旅行者",
         "DE": "Reisende",
         "EN": "Traveler",
         "ES": "Viajera",
@@ -81,6 +86,7 @@
     },
     "3775299170": {
         "CHS": "芭芭拉",
+        "CHT": "芭芭拉",
         "DE": "Barbara",
         "EN": "Barbara",
         "ES": "Bárbara",
@@ -97,6 +103,7 @@
     },
     "4119663210": {
         "CHS": "凯亚",
+        "CHT": "凱亞",
         "DE": "Kaeya",
         "EN": "Kaeya",
         "ES": "Kaeya",
@@ -113,6 +120,7 @@
     },
     "3608180322": {
         "CHS": "迪卢克",
+        "CHT": "迪盧克",
         "DE": "Diluc",
         "EN": "Diluc",
         "ES": "Diluc",
@@ -129,6 +137,7 @@
     },
     "4160147242": {
         "CHS": "雷泽",
+        "CHT": "雷澤",
         "DE": "Razor",
         "EN": "Razor",
         "ES": "Razor",
@@ -145,6 +154,7 @@
     },
     "1966438658": {
         "CHS": "安柏",
+        "CHT": "安柏",
         "DE": "Amber",
         "EN": "Amber",
         "ES": "Amber",
@@ -161,6 +171,7 @@
     },
     "2466140362": {
         "CHS": "温迪",
+        "CHT": "溫迪",
         "DE": "Venti",
         "EN": "Venti",
         "ES": "Venti",
@@ -177,6 +188,7 @@
     },
     "1130996346": {
         "CHS": "香菱",
+        "CHT": "香菱",
         "DE": "Xiangling",
         "EN": "Xiangling",
         "ES": "Xiangling",
@@ -193,6 +205,7 @@
     },
     "2646367730": {
         "CHS": "北斗",
+        "CHT": "北斗",
         "DE": "Beidou",
         "EN": "Beidou",
         "ES": "Beidou",
@@ -209,6 +222,7 @@
     },
     "4197635682": {
         "CHS": "行秋",
+        "CHT": "行秋",
         "DE": "Xingqiu",
         "EN": "Xingqiu",
         "ES": "Xingchiu",
@@ -225,6 +239,7 @@
     },
     "1021947690": {
         "CHS": "魈",
+        "CHT": "魈",
         "DE": "Xiao",
         "EN": "Xiao",
         "ES": "Xiao",
@@ -241,6 +256,7 @@
     },
     "4127888970": {
         "CHS": "凝光",
+        "CHT": "凝光",
         "DE": "Ningguang",
         "EN": "Ningguang",
         "ES": "Ninguang",
@@ -257,6 +273,7 @@
     },
     "3339083250": {
         "CHS": "可莉",
+        "CHT": "可莉",
         "DE": "Klee",
         "EN": "Klee",
         "ES": "Klee",
@@ -273,6 +290,7 @@
     },
     "3862787418": {
         "CHS": "钟离",
+        "CHT": "鍾離",
         "DE": "Zhongli",
         "EN": "Zhongli",
         "ES": "Zhongli",
@@ -289,6 +307,7 @@
     },
     "3277782506": {
         "CHS": "菲谢尔",
+        "CHT": "菲謝爾",
         "DE": "Fischl",
         "EN": "Fischl",
         "ES": "Fischl",
@@ -305,6 +324,7 @@
     },
     "968893378": {
         "CHS": "班尼特",
+        "CHT": "班尼特",
         "DE": "Bennett",
         "EN": "Bennett",
         "ES": "Bennett",
@@ -321,6 +341,7 @@
     },
     "3847143266": {
         "CHS": "达达利亚",
+        "CHT": "達達利亞",
         "DE": "Tartaglia",
         "EN": "Tartaglia",
         "ES": "Tartaglia",
@@ -337,6 +358,7 @@
     },
     "1921418842": {
         "CHS": "诺艾尔",
+        "CHT": "諾艾爾",
         "DE": "Noelle",
         "EN": "Noelle",
         "ES": "Noelle",
@@ -353,6 +375,7 @@
     },
     "168956722": {
         "CHS": "七七",
+        "CHT": "七七",
         "DE": "Qiqi",
         "EN": "Qiqi",
         "ES": "Qiqi",
@@ -369,6 +392,7 @@
     },
     "2876340530": {
         "CHS": "重云",
+        "CHT": "重雲",
         "DE": "Chongyun",
         "EN": "Chongyun",
         "ES": "Chongyun",
@@ -385,6 +409,7 @@
     },
     "2679781122": {
         "CHS": "甘雨",
+        "CHT": "甘雨",
         "DE": "Ganyu",
         "EN": "Ganyu",
         "ES": "Ganyu",
@@ -401,6 +426,7 @@
     },
     "4108620722": {
         "CHS": "阿贝多",
+        "CHT": "阿貝多",
         "DE": "Albedo",
         "EN": "Albedo",
         "ES": "Albedo",
@@ -417,6 +443,7 @@
     },
     "1468367538": {
         "CHS": "迪奥娜",
+        "CHT": "迪奧娜",
         "DE": "Diona",
         "EN": "Diona",
         "ES": "Diona",
@@ -433,6 +460,7 @@
     },
     "1113306282": {
         "CHS": "莫娜",
+        "CHT": "莫娜",
         "DE": "Mona",
         "EN": "Mona",
         "ES": "Mona",
@@ -449,6 +477,7 @@
     },
     "1864015138": {
         "CHS": "刻晴",
+        "CHT": "刻晴",
         "DE": "Keqing",
         "EN": "Keqing",
         "ES": "Keching",
@@ -465,6 +494,7 @@
     },
     "1053433018": {
         "CHS": "砂糖",
+        "CHT": "砂糖",
         "DE": "Saccharose",
         "EN": "Sucrose",
         "ES": "Sacarosa",
@@ -481,6 +511,7 @@
     },
     "4273845410": {
         "CHS": "辛焱",
+        "CHT": "辛焱",
         "DE": "Xinyan",
         "EN": "Xinyan",
         "ES": "Xinyan",
@@ -497,6 +528,7 @@
     },
     "4260733330": {
         "CHS": "罗莎莉亚",
+        "CHT": "蘿莎莉亞",
         "DE": "Rosaria",
         "EN": "Rosaria",
         "ES": "Rosaria",
@@ -513,6 +545,7 @@
     },
     "1940919994": {
         "CHS": "胡桃",
+        "CHT": "胡桃",
         "DE": "Hu Tao",
         "EN": "Hu Tao",
         "ES": "Hu Tao",
@@ -529,6 +562,7 @@
     },
     "88505754": {
         "CHS": "枫原万叶",
+        "CHT": "楓原萬葉",
         "DE": "Kaedehara Kazuha",
         "EN": "Kaedehara Kazuha",
         "ES": "Kaedehara Kazuha",
@@ -545,6 +579,7 @@
     },
     "697277554": {
         "CHS": "烟绯",
+        "CHT": "煙緋",
         "DE": "Yanfei",
         "EN": "Yanfei",
         "ES": "Yanfei",
@@ -561,6 +596,7 @@
     },
     "2504399314": {
         "CHS": "宵宫",
+        "CHT": "宵宮",
         "DE": "Yoimiya",
         "EN": "Yoimiya",
         "ES": "Yoimiya",
@@ -577,6 +613,7 @@
     },
     "3555115602": {
         "CHS": "托马",
+        "CHT": "托馬",
         "DE": "Thoma",
         "EN": "Thoma",
         "ES": "Thoma",
@@ -593,6 +630,7 @@
     },
     "3717667418": {
         "CHS": "优菈",
+        "CHT": "優菈",
         "DE": "Eula",
         "EN": "Eula",
         "ES": "Eula",
@@ -609,6 +647,7 @@
     },
     "3024507506": {
         "CHS": "雷电将军",
+        "CHT": "雷電將軍",
         "DE": "Shougun Raiden",
         "EN": "Raiden Shogun",
         "ES": "Shogun Raiden",
@@ -625,6 +664,7 @@
     },
     "2388785242": {
         "CHS": "早柚",
+        "CHT": "早柚",
         "DE": "Sayu",
         "EN": "Sayu",
         "ES": "Sayu",
@@ -641,6 +681,7 @@
     },
     "3914045794": {
         "CHS": "珊瑚宫心海",
+        "CHT": "珊瑚宮心海",
         "DE": "Sangonomiya Kokomi",
         "EN": "Sangonomiya Kokomi",
         "ES": "Sangonomiya Kokomi",
@@ -657,6 +698,7 @@
     },
     "3400133546": {
         "CHS": "五郎",
+        "CHT": "五郎",
         "DE": "Gorou",
         "EN": "Gorou",
         "ES": "Gorou",
@@ -673,6 +715,7 @@
     },
     "1483922610": {
         "CHS": "九条裟罗",
+        "CHT": "九條裟羅",
         "DE": "Kujou Sara",
         "EN": "Kujou Sara",
         "ES": "Kujou Sara",
@@ -689,6 +732,7 @@
     },
     "3068316954": {
         "CHS": "荒泷一斗",
+        "CHT": "荒瀧一斗",
         "DE": "Arataki Itto",
         "EN": "Arataki Itto",
         "ES": "Arataki Itto",
@@ -705,6 +749,7 @@
     },
     "2713453234": {
         "CHS": "八重神子",
+        "CHT": "八重神子",
         "DE": "Yae Miko",
         "EN": "Yae Miko",
         "ES": "Yae Miko",
@@ -721,6 +766,7 @@
     },
     "646032090": {
         "CHS": "鹿野院平藏",
+        "CHT": "鹿野院平藏",
         "DE": "Shikanoin Heizou",
         "EN": "Shikanoin Heizou",
         "ES": "Shikanoin Heizou",
@@ -737,6 +783,7 @@
     },
     "2848374378": {
         "CHS": "夜兰",
+        "CHT": "夜蘭",
         "DE": "Yelan",
         "EN": "Yelan",
         "ES": "Yelan",
@@ -753,6 +800,7 @@
     },
     "1456643042": {
         "CHS": "绮良良",
+        "CHT": "綺良良",
         "DE": "Kirara",
         "EN": "Kirara",
         "ES": "Kirara",
@@ -769,6 +817,7 @@
     },
     "3689108098": {
         "CHS": "埃洛伊",
+        "CHT": "亞蘿伊",
         "DE": "Aloy",
         "EN": "Aloy",
         "ES": "Aloy",
@@ -785,6 +834,7 @@
     },
     "334242634": {
         "CHS": "申鹤",
+        "CHT": "申鶴",
         "DE": "Shenhe",
         "EN": "Shenhe",
         "ES": "Shenhe",
@@ -801,6 +851,7 @@
     },
     "655825874": {
         "CHS": "云堇",
+        "CHT": "雲堇",
         "DE": "Yun Jin",
         "EN": "Yun Jin",
         "ES": "Yun Jin",
@@ -817,6 +868,7 @@
     },
     "1940821986": {
         "CHS": "久岐忍",
+        "CHT": "久岐忍",
         "DE": "Kuki Shinobu",
         "EN": "Kuki Shinobu",
         "ES": "Kuki Shinobu",
@@ -833,6 +885,7 @@
     },
     "1588620330": {
         "CHS": "神里绫人",
+        "CHT": "神里綾人",
         "DE": "Kamisato Ayato",
         "EN": "Kamisato Ayato",
         "ES": "Kamisato Ayato",
@@ -849,6 +902,7 @@
     },
     "2948362178": {
         "CHS": "柯莱",
+        "CHT": "柯萊",
         "DE": "Collei",
         "EN": "Collei",
         "ES": "Collei",
@@ -865,6 +919,7 @@
     },
     "388272194": {
         "CHS": "多莉",
+        "CHT": "多莉",
         "DE": "Dori",
         "EN": "Dori",
         "ES": "Dori",
@@ -881,6 +936,7 @@
     },
     "2506955778": {
         "CHS": "提纳里",
+        "CHT": "提納里",
         "DE": "Tighnari",
         "EN": "Tighnari",
         "ES": "Tignari",
@@ -897,6 +953,7 @@
     },
     "3850149970": {
         "CHS": "妮露",
+        "CHT": "妮露",
         "DE": "Nilou",
         "EN": "Nilou",
         "ES": "Nilou",
@@ -913,6 +970,7 @@
     },
     "1049891906": {
         "CHS": "赛诺",
+        "CHT": "賽諾",
         "DE": "Cyno",
         "EN": "Cyno",
         "ES": "Cyno",
@@ -929,6 +987,7 @@
     },
     "3092975658": {
         "CHS": "坎蒂丝",
+        "CHT": "坎蒂絲",
         "DE": "Candace",
         "EN": "Candace",
         "ES": "Candace",
@@ -945,6 +1004,7 @@
     },
     "712501082": {
         "CHS": "纳西妲",
+        "CHT": "納西妲",
         "DE": "Nahida",
         "EN": "Nahida",
         "ES": "Nahida",
@@ -961,6 +1021,7 @@
     },
     "2889777514": {
         "CHS": "莱依拉",
+        "CHT": "萊依拉",
         "DE": "Layla",
         "EN": "Layla",
         "ES": "Laila",
@@ -977,6 +1038,7 @@
     },
     "3230559562": {
         "CHS": "流浪者",
+        "CHT": "流浪者",
         "DE": "Wanderer",
         "EN": "Wanderer",
         "ES": "Trotamundos",
@@ -993,6 +1055,7 @@
     },
     "2387711994": {
         "CHS": "珐露珊",
+        "CHT": "琺露珊",
         "DE": "Faruzan",
         "EN": "Faruzan",
         "ES": "Faruzán",
@@ -1009,6 +1072,7 @@
     },
     "1732418482": {
         "CHS": "瑶瑶",
+        "CHT": "瑤瑤",
         "DE": "Yaoyao",
         "EN": "Yaoyao",
         "ES": "Yaoyao",
@@ -1025,6 +1089,7 @@
     },
     "4002157418": {
         "CHS": "艾尔海森",
+        "CHT": "艾爾海森",
         "DE": "Alhaitham",
         "EN": "Alhaitham",
         "ES": "Alhacén",
@@ -1041,6 +1106,7 @@
     },
     "2360533154": {
         "CHS": "迪希雅",
+        "CHT": "迪希雅",
         "DE": "Dehya",
         "EN": "Dehya",
         "ES": "Dehya",
@@ -1057,6 +1123,7 @@
     },
     "231911858": {
         "CHS": "米卡",
+        "CHT": "米卡",
         "DE": "Mika",
         "EN": "Mika",
         "ES": "Mika",
@@ -1073,6 +1140,7 @@
     },
     "466355514": {
         "CHS": "卡维",
+        "CHT": "卡維",
         "DE": "Kaveh",
         "EN": "Kaveh",
         "ES": "Kaveh",
@@ -1089,6 +1157,7 @@
     },
     "2984815066": {
         "CHS": "白术",
+        "CHT": "白朮",
         "DE": "Baizhu",
         "EN": "Baizhu",
         "ES": "Baizhu",
@@ -1105,6 +1174,7 @@
     },
     "1225226258": {
         "CHS": "琳妮特",
+        "CHT": "琳妮特",
         "DE": "Lynette",
         "EN": "Lynette",
         "ES": "Lynette",
@@ -1121,6 +1191,7 @@
     },
     "2472444970": {
         "CHS": "林尼",
+        "CHT": "林尼",
         "DE": "Lyney",
         "EN": "Lyney",
         "ES": "Lyney",
@@ -1137,6 +1208,7 @@
     },
     "4201964354": {
         "CHS": "菲米尼",
+        "CHT": "菲米尼",
         "DE": "Fréminet",
         "EN": "Freminet",
         "ES": "Fréminet",
@@ -1153,6 +1225,7 @@
     },
     "370151050": {
         "CHS": "莱欧斯利",
+        "CHT": "萊歐斯利",
         "DE": "Wriothesley",
         "EN": "Wriothesley",
         "ES": "Wriothesley",
@@ -1169,6 +1242,7 @@
     },
     "1504902330": {
         "CHS": "那维莱特",
+        "CHT": "那維萊特",
         "DE": "Neuvillette",
         "EN": "Neuvillette",
         "ES": "Neuvillette",
@@ -1185,6 +1259,7 @@
     },
     "3831162130": {
         "CHS": "夏洛蒂",
+        "CHT": "夏洛蒂",
         "DE": "Charlotte",
         "EN": "Charlotte",
         "ES": "Charlotte",
@@ -1201,6 +1276,7 @@
     },
     "2180900234": {
         "CHS": "芙宁娜",
+        "CHT": "芙寧娜",
         "DE": "Furina",
         "EN": "Furina",
         "ES": "Furina",
@@ -1217,6 +1293,7 @@
     },
     "540313842": {
         "CHS": "夏沃蕾",
+        "CHT": "夏沃蕾",
         "DE": "Chevreuse",
         "EN": "Chevreuse",
         "ES": "Chevreuse",
@@ -1233,6 +1310,7 @@
     },
     "2877588578": {
         "CHS": "娜维娅",
+        "CHT": "娜維婭",
         "DE": "Navia",
         "EN": "Navia",
         "ES": "Navia",
@@ -1249,6 +1327,7 @@
     },
     "2822240322": {
         "CHS": "嘉明",
+        "CHT": "嘉明",
         "DE": "Gaming",
         "EN": "Gaming",
         "ES": "Gaming",
@@ -1265,6 +1344,7 @@
     },
     "3648220770": {
         "CHS": "闲云",
+        "CHT": "閒雲",
         "DE": "Xianyun",
         "EN": "Xianyun",
         "ES": "Xianyun",
@@ -1281,6 +1361,7 @@
     },
     "1944606922": {
         "CHS": "千织",
+        "CHT": "千織",
         "DE": "Chiori",
         "EN": "Chiori",
         "ES": "Chiori",
@@ -1297,6 +1378,7 @@
     },
     "167199474": {
         "CHS": "阿蕾奇诺",
+        "CHT": "阿蕾奇諾",
         "DE": "Arlecchino",
         "EN": "Arlecchino",
         "ES": "Arlecchino",

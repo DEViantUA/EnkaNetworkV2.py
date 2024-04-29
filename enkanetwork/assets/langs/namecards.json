@@ -1,6 +1,7 @@
 {
     "3539860852": {
         "CHS": "原神·印象",
+        "CHT": "原神·印象",
         "DE": "Genshin Impact – Eindrücke",
         "EN": "Genshin Impact: A New World",
         "ES": "Genshin Impact - Un nuevo mundo",
@@ -17,6 +18,7 @@
     },
     "2465259604": {
         "CHS": "纪行·捕风",
+        "CHT": "紀行·捕風",
         "DE": "Erlebnispass – Windfänger",
         "EN": "Travel Notes: Catch the Wind",
         "ES": "PB - Atrapaviento",
@@ -33,6 +35,7 @@
     },
     "273890284": {
         "CHS": "安柏·兔兔",
+        "CHT": "安柏·兔兔",
         "DE": "Amber – Hoppel",
         "EN": "Amber: Bunny",
         "ES": "Amber - Barón Bunny",
@@ -49,6 +52,7 @@
     },
     "2515326244": {
         "CHS": "可莉·爆弹",
+        "CHT": "可莉·爆彈",
         "DE": "Klee – Bombe",
         "EN": "Klee: Explosive",
         "ES": "Klee - Bomba",
@@ -65,6 +69,7 @@
     },
     "1029388116": {
         "CHS": "迪卢克·燃烧",
+        "CHT": "迪盧克·燃燒",
         "DE": "Diluc – Flammen",
         "EN": "Diluc: Flames",
         "ES": "Diluc - Quemadura",
@@ -81,6 +86,7 @@
     },
     "179136692": {
         "CHS": "雷泽·奔狼",
+        "CHT": "雷澤·奔狼",
         "DE": "Razor – Laufender Wolf",
         "EN": "Razor: Wolvensprint",
         "ES": "Razor - Velocidad de lobo",
@@ -97,6 +103,7 @@
     },
     "1368575780": {
         "CHS": "温迪·天青",
+        "CHT": "溫迪·天青",
         "DE": "Venti – Blauer Himmel",
         "EN": "Venti: Azure Sky",
         "ES": "Venti - Cielo azul",
@@ -113,6 +120,7 @@
     },
     "1458264396": {
         "CHS": "琴·风向",
+        "CHT": "琴·風向",
         "DE": "Jean – Windrichtung",
         "EN": "Jean: The Winds' Course",
         "ES": "Jean - Dirección del viento",
@@ -129,6 +137,7 @@
     },
     "1225517052": {
         "CHS": "芭芭拉·流淌",
+        "CHT": "芭芭拉·流淌",
         "DE": "Barbara – Fließendes Wasser",
         "EN": "Barbara: Flow",
         "ES": "Bárbara - Flujo",
@@ -145,6 +154,7 @@
     },
     "739507180": {
         "CHS": "凯亚·孔雀",
+        "CHT": "凱亞·孔雀",
         "DE": "Kaeya – Pfau",
         "EN": "Kaeya: Pavo Ocellus",
         "ES": "Kaeya - Pavo Ocellus",
@@ -161,6 +171,7 @@
     },
     "2137272300": {
         "CHS": "丽莎·沙漏",
+        "CHT": "麗莎·沙漏",
         "DE": "Lisa – Sanduhr",
         "EN": "Lisa: Tempus Fugit",
         "ES": "Lisa - Tempus Fugit",
@@ -177,6 +188,7 @@
     },
     "1872093284": {
         "CHS": "砂糖·创生",
+        "CHT": "砂糖·創生",
         "DE": "Saccharose – Schaffung von Leben",
         "EN": "Sucrose: Bio-Alchemy",
         "ES": "Sacarosa - Bioalquimia",
@@ -193,6 +205,7 @@
     },
     "488905812": {
         "CHS": "菲谢尔·夜鸦",
+        "CHT": "菲謝爾·夜鴉",
         "DE": "Fischl – Nachtrabe",
         "EN": "Fischl: Night Raven",
         "ES": "Fischl - Cuervo",
@@ -209,6 +222,7 @@
     },
     "73191444": {
         "CHS": "诺艾尔·守护",
+        "CHT": "諾艾爾·守護",
         "DE": "Noelle – Beschützer",
         "EN": "Noelle: Protector",
         "ES": "Noelle - Protección",
@@ -225,6 +239,7 @@
     },
     "3868762092": {
         "CHS": "莫娜·天星",
+        "CHT": "莫娜·天星",
         "DE": "Mona – Einstürzender Himmel",
         "EN": "Mona: Starry Sky",
         "ES": "Mona - Cielo estrellado",
@@ -241,6 +256,7 @@
     },
     "741394036": {
         "CHS": "班尼特·认可",
+        "CHT": "班尼特·認可",
         "DE": "Bennett – Anerkennung",
         "EN": "Bennett: Recognition",
         "ES": "Bennett - Reconocimiento",
@@ -257,6 +273,7 @@
     },
     "4038322452": {
         "CHS": "香菱·出锅",
+        "CHT": "香菱·出鍋",
         "DE": "Xiangling – Frisch aus dem Topf",
         "EN": "Xiangling: Fresh from the Pan",
         "ES": "Xiangling - Recién hecho",
@@ -273,6 +290,7 @@
     },
     "1472554132": {
         "CHS": "行秋·雨虹",
+        "CHT": "行秋·雨虹",
         "DE": "Xingqiu – Regenbogen",
         "EN": "Xingqiu: Rainbow",
         "ES": "Xingchiu - Arcoíris",
@@ -289,6 +307,7 @@
     },
     "3581079636": {
         "CHS": "七七·冷藏",
+        "CHT": "七七·冷藏",
         "DE": "Qiqi – Kühlung",
         "EN": "Qiqi: Cold Storage",
         "ES": "Qiqi - Refrigeración",
@@ -305,6 +324,7 @@
     },
     "3585227580": {
         "CHS": "刻晴·雷楔",
+        "CHT": "刻晴·雷楔",
         "DE": "Keqing – Donnerkeil",
         "EN": "Keqing: Lightning Stiletto",
         "ES": "Keching - Cuña relámpago",
@@ -321,6 +341,7 @@
     },
     "1728778908": {
         "CHS": "成就·游遍",
+        "CHT": "成就·遊遍",
         "DE": "Errungenschaft – Entdeckung",
         "EN": "Achievement: Explorer",
         "ES": "Logro - Explorador",
@@ -337,6 +358,7 @@
     },
     "3616510012": {
         "CHS": "成就·殊技",
+        "CHT": "成就·殊技",
         "DE": "Errungenschaft – Eigenart",
         "EN": "Achievement: Virtuoso",
         "ES": "Logro - Virtuoso",
@@ -353,6 +375,7 @@
     },
     "4069591388": {
         "CHS": "成就·侠行",
+        "CHT": "成就·俠行",
         "DE": "Errungenschaft – Heldentum",
         "EN": "Achievement: Hero",
         "ES": "Logro - Héroe",
@@ -369,6 +392,7 @@
     },
     "3919805516": {
         "CHS": "蒙德·风吟",
+        "CHT": "蒙德·風吟",
         "DE": "Mondstadt – Rauschen des Windes",
         "EN": "Mondstadt: Whistling Wind",
         "ES": "Mondstadt - Viento silbante",
@@ -385,6 +409,7 @@
     },
     "1251144964": {
         "CHS": "璃月·岩寂",
+        "CHT": "璃月·岩寂",
         "DE": "Liyue – Stille der Steine",
         "EN": "Liyue: Stillness of Stone",
         "ES": "Liyue - Silencio de la roca",
@@ -401,6 +426,7 @@
     },
     "2107257348": {
         "CHS": "成就·虹色",
+        "CHT": "成就·虹色",
         "DE": "Errungenschaft – Bunte Farben",
         "EN": "Achievement: Colors of the Rainbow",
         "ES": "Logro - Los colores del arcoíris",
@@ -417,6 +443,7 @@
     },
     "1000252212": {
         "CHS": "成就·强弓",
+        "CHT": "成就·強弓",
         "DE": "Errungenschaft – Spannkraft",
         "EN": "Achievement: Bowmaster",
         "ES": "Logro - Maestro del arco",
@@ -433,6 +460,7 @@
     },
     "505938796": {
         "CHS": "成就·挑战",
+        "CHT": "成就·挑戰",
         "DE": "Errungenschaft – Herausforderung",
         "EN": "Achievement: Challenger",
         "ES": "Logro - Retador",
@@ -449,6 +477,7 @@
     },
     "3219583044": {
         "CHS": "成就·深秘",
+        "CHT": "成就·深秘",
         "DE": "Errungenschaft – Voller Rätsel",
         "EN": "Achievement: Deep & Dark",
         "ES": "Logro - Secreto en las profundidades",
@@ -465,6 +494,7 @@
     },
     "288420212": {
         "CHS": "成就·山民",
+        "CHT": "成就·山民",
         "DE": "Errungenschaft – Bergbewohner",
         "EN": "Achievement: Hill Dwellers",
         "ES": "Logro - Habitantes de las colinas",
@@ -481,6 +511,7 @@
     },
     "2892155556": {
         "CHS": "成就·雪乡",
+        "CHT": "成就·雪鄉",
         "DE": "Errungenschaft – Verschneite Landschaft",
         "EN": "Achievement: Snowy Land",
         "ES": "Logro - País de nieve",
@@ -497,6 +528,7 @@
     },
     "78129044": {
         "CHS": "成就·合扇",
+        "CHT": "成就·闔扇",
         "DE": "Errungenschaft – Bekannte Geschichten",
         "EN": "Achievement: Cliffhanger",
         "ES": "Logro - Suspenso",
@@ -513,6 +545,7 @@
     },
     "2109606084": {
         "CHS": "成就·相逢",
+        "CHT": "成就·相逢",
         "DE": "Errungenschaft – Wiedersehen",
         "EN": "Achievement: Reunion",
         "ES": "Logro - Encuentro",
@@ -529,6 +562,7 @@
     },
     "523001444": {
         "CHS": "凝光·凤仪",
+        "CHT": "凝光·鳳儀",
         "DE": "Ningguang – Phönix",
         "EN": "Ningguang: Phoenix",
         "ES": "Ninguang - Fénix",
@@ -545,6 +579,7 @@
     },
     "3791261516": {
         "CHS": "北斗·拔锚",
+        "CHT": "北斗·拔錨",
         "DE": "Beidou – Ankerlichtung",
         "EN": "Beidou: Weighing Anchor",
         "ES": "Beidou - ¡Levad anclas!",
@@ -561,6 +596,7 @@
     },
     "1185661092": {
         "CHS": "重云·灵刃",
+        "CHT": "重雲·靈刃",
         "DE": "Chongyun – Seelenklinge",
         "EN": "Chongyun: Spirit Blade",
         "ES": "Chongyun - Filo espiritual",
@@ -577,6 +613,7 @@
     },
     "452965660": {
         "CHS": "成就·挑战·其二",
+        "CHT": "成就·挑戰·其二",
         "DE": "Errungenschaft – Herausforderung, die Zweite",
         "EN": "Achievement: Challenger II",
         "ES": "Logro - Retador: Parte 2",
@@ -593,6 +630,7 @@
     },
     "1365245820": {
         "CHS": "纪行·熄星",
+        "CHT": "紀行·熄星",
         "DE": "Erlebnispass: Schwindende Sterne",
         "EN": "Travel Notes: Fading Star",
         "ES": "PB - Estrella decadente",
@@ -609,6 +647,7 @@
     },
     "2512009332": {
         "CHS": "迪奥娜·呜喵",
+        "CHT": "迪奧娜·嗚喵",
         "DE": "Diona – Miau!",
         "EN": "Diona: Meow!",
         "ES": "Diona - Miau",
@@ -625,6 +664,7 @@
     },
     "2333236916": {
         "CHS": "钟离·天星",
+        "CHT": "鍾離·天星",
         "DE": "Zhongli – Einstürzender Himmel",
         "EN": "Zhongli: Planet Befall",
         "ES": "Zhongli - Lluvia estelar",
@@ -641,6 +681,7 @@
     },
     "3735385756": {
         "CHS": "辛焱·唱罢",
+        "CHT": "辛焱·唱罷",
         "DE": "Xinyan – Ende des Lieds",
         "EN": "Xinyan: Song's End",
         "ES": "Xinyan - Descanso musical",
@@ -657,6 +698,7 @@
     },
     "532848108": {
         "CHS": "公子·魔装",
+        "CHT": "公子·魔裝",
         "DE": "Graf – Dämonengewand",
         "EN": "Childe: Foul Legacy",
         "ES": "Nobile - Legado del mal",
@@ -673,6 +715,7 @@
     },
     "1227874644": {
         "CHS": "蒙德·英名",
+        "CHT": "蒙德·英名",
         "DE": "Mondstadt – Heldenruhm",
         "EN": "Mondstadt: Hero's Fame",
         "ES": "Mondstadt - Fama",
@@ -689,6 +732,7 @@
     },
     "3283981516": {
         "CHS": "蒙德·祝愿",
+        "CHT": "蒙德·祝願",
         "DE": "Mondstadt – Segen",
         "EN": "Mondstadt: Blessing",
         "ES": "Mondstadt - Bendición",
@@ -705,6 +749,7 @@
     },
     "3474324460": {
         "CHS": "璃月·千帆",
+        "CHT": "璃月·千帆",
         "DE": "Liyue – Tausend Segel",
         "EN": "Liyue: A Thousand Ships",
         "ES": "Liyue - Navíos",
@@ -721,6 +766,7 @@
     },
     "3132121140": {
         "CHS": "璃月·云间",
+        "CHT": "璃月·雲間",
         "DE": "Liyue – In den Wolken",
         "EN": "Liyue: In the Clouds",
         "ES": "Liyue - Entre las nubes",
@@ -737,6 +783,7 @@
     },
     "741495036": {
         "CHS": "成就·挑战·其三",
+        "CHT": "成就·挑戰·其三",
         "DE": "Errungenschaft – Herausforderung, die Dritte",
         "EN": "Achievement: Challenger III",
         "ES": "Logro - Retador: Parte 3",
@@ -753,6 +800,7 @@
     },
     "1816201940": {
         "CHS": "成就·雪峰",
+        "CHT": "成就·雪峰",
         "DE": "Errungenschaft – Schneegipfel",
         "EN": "Achievement: Snowy Summit",
         "ES": "Logro - Cumbre nevada",
@@ -769,6 +817,7 @@
     },
     "3809570428": {
         "CHS": "甘雨·麟迹",
+        "CHT": "甘雨·麟跡",
         "DE": "Ganyu – Qilin",
         "EN": "Ganyu: Qilin",
         "ES": "Ganyu - Chilin",
@@ -785,6 +834,7 @@
     },
     "2541715356": {
         "CHS": "阿贝多·阳花",
+        "CHT": "阿貝多·陽花",
         "DE": "Albedo – Sonneneruption",
         "EN": "Albedo: Sun Blossom",
         "ES": "Albedo - Flor solar",
@@ -801,6 +851,7 @@
     },
     "81600036": {
         "CHS": "纪行·白垩",
+        "CHT": "紀行·白堊",
         "DE": "Erlebnispass – Kreide",
         "EN": "Travel Notes: Chalk",
         "ES": "PB - Roca caliza",
@@ -817,6 +868,7 @@
     },
     "382629508": {
         "CHS": "忍冬·古树",
+        "CHT": "忍冬·古樹",
         "DE": "Permafrost – Alter Baum",
         "EN": "Frostbearing: Ancient Tree",
         "ES": "Frioeterno - Árbol antiguo",
@@ -833,6 +885,7 @@
     },
     "1244103588": {
         "CHS": "庆典·无相",
+        "CHT": "慶典·無相",
         "DE": "Feierlichkeit – Hypostase",
         "EN": "Celebration: Hypostasis",
         "ES": "Celebración - Hipóstasis",
@@ -849,6 +902,7 @@
     },
     "975317892": {
         "CHS": "魈·傩面",
+        "CHT": "魈·儺面",
         "DE": "Xiao – Maske",
         "EN": "Xiao: Mask",
         "ES": "Xiao - Máscara",
@@ -865,6 +919,7 @@
     },
     "1848039196": {
         "CHS": "胡桃·安神",
+        "CHT": "胡桃·安神",
         "DE": "Hu Tao – Besänftigung",
         "EN": "Hu Tao: Spirit Soother",
         "ES": "Hu Tao - Tranquilizadora de espíritus",
@@ -881,6 +936,7 @@
     },
     "4005497196": {
         "CHS": "纪行·明霄",
+        "CHT": "紀行·明霄",
         "DE": "Erlebnispass – Mingxiao",
         "EN": "Travel Notes: Mingxiao",
         "ES": "PB - Mingxiao",
@@ -897,6 +953,7 @@
     },
     "1358846364": {
         "CHS": "庆典·灯昼",
+        "CHT": "慶典·燈晝",
         "DE": "Feierlichkeit – Laternenlicht",
         "EN": "Celebration: Lantern-Light",
         "ES": "Celebración - Luces diurnas",
@@ -913,6 +970,7 @@
     },
     "2402595316": {
         "CHS": "庆典·棋谭",
+        "CHT": "慶典·棋譚",
         "DE": "Feierlichkeit – Vorrichtungen",
         "EN": "Celebration: Mechanicus",
         "ES": "Celebración - Arena mecánica",
@@ -929,6 +987,7 @@
     },
     "981233524": {
         "CHS": "罗莎莉亚·苦役",
+        "CHT": "蘿莎莉亞·苦役",
         "DE": "Rosaria – Knechtschaft",
         "EN": "Rosaria: Indenture",
         "ES": "Rosaria - Servidumbre",
@@ -945,6 +1004,7 @@
     },
     "4135824276": {
         "CHS": "纪行·风花",
+        "CHT": "紀行·風花",
         "DE": "Erlebnispass – Windblumen",
         "EN": "Travel Notes: Windblume",
         "ES": "PB - Flores de viento",
@@ -961,6 +1021,7 @@
     },
     "2047766308": {
         "CHS": "庆典·盛宴",
+        "CHT": "慶典·盛宴",
         "DE": "Feierlichkeit – Gelage",
         "EN": "Celebration: Feast",
         "ES": "Celebración - Festín",
@@ -977,6 +1038,7 @@
     },
     "3264822228": {
         "CHS": "庆典·光鳞",
+        "CHT": "慶典·光鱗",
         "DE": "Feierlichkeit – Glitzernde Schuppe",
         "EN": "Celebration: Shining Scale",
         "ES": "Celebración - Escamas relucientes",
@@ -993,6 +1055,7 @@
     },
     "4198302372": {
         "CHS": "庆典·慧果",
+        "CHT": "慶典·慧果",
         "DE": "Feierlichkeit – Frucht der Weisheit",
         "EN": "Celebration: Fruit of Wisdom",
         "ES": "Celebración - Fruto de la sabiduría",
@@ -1009,6 +1072,7 @@
     },
     "3754293348": {
         "CHS": "庆典·躲猫",
+        "CHT": "慶典·躲貓",
         "DE": "Feierlichkeit – Versteckspiel",
         "EN": "Celebration: Peekaboo!",
         "ES": "Celebración - ¡Cucú!",
@@ -1025,6 +1089,7 @@
     },
     "1496263228": {
         "CHS": "烟绯·公正",
+        "CHT": "煙緋·公正",
         "DE": "Yanfei – Gerechtigkeit",
         "EN": "Yanfei: Impartial",
         "ES": "Yanfei - Imparcialidad",
@@ -1041,6 +1106,7 @@
     },
     "1021308668": {
         "CHS": "优菈·冰印",
+        "CHT": "優菈·冰印",
         "DE": "Eula – Eissiegel",
         "EN": "Eula: Ice-Sealed",
         "ES": "Eula - Insignia Glacial",
@@ -1057,6 +1123,7 @@
     },
     "2906313100": {
         "CHS": "纪行·绕尘",
+        "CHT": "紀行·繞塵",
         "DE": "Erlebnispass – Raumschaffung",
         "EN": "Travel Notes: Sub-Space Recreation",
         "ES": "PB - Creación dimensional",
@@ -1073,6 +1140,7 @@
     },
     "3502886956": {
         "CHS": "成就·壶歌",
+        "CHT": "成就·壺歌",
         "DE": "Errungenschaft – Teezeit",
         "EN": "Achievement: Tea Time",
         "ES": "Logro - Hora del té",
@@ -1089,6 +1157,7 @@
     },
     "354336332": {
         "CHS": "枫原万叶·秋山椛狩",
+        "CHT": "楓原萬葉·秋山椛狩",
         "DE": "Kaedehara Kazuha – Ahornschau im Herbst",
         "EN": "Kaedehara Kazuha: Autumn Maple-Viewing",
         "ES": "Kaedehara Kazuha - Montaña otoñal",
@@ -1105,6 +1174,7 @@
     },
     "3629192860": {
         "CHS": "纪行·盛夏",
+        "CHT": "紀行·盛夏",
         "DE": "Erlebnispass – Hochsommer",
         "EN": "Travel Notes: Midsummer",
         "ES": "PB - Verano azul",
@@ -1121,6 +1191,7 @@
     },
     "1763845860": {
         "CHS": "成就·旅居",
+        "CHT": "成就·旅居",
         "DE": "Errungenschaft – Feriendomizil",
         "EN": "Achievement: Vacation Home",
         "ES": "Logro - Estancia vacacional",
@@ -1137,6 +1208,7 @@
     },
     "3838953412": {
         "CHS": "庆典·浩瀚",
+        "CHT": "慶典·浩瀚",
         "DE": "Feierlichkeit – Unermesslichkeit",
         "EN": "Celebration: Vastness",
         "ES": "Celebración - Inmensidad",
@@ -1153,6 +1225,7 @@
     },
     "3706272004": {
         "CHS": "庆典·魔球",
+        "CHT": "慶典·魔球",
         "DE": "Feierlichkeit – Bumm-Bumm-Ball",
         "EN": "Celebration: Kaboomball",
         "ES": "Celebración - Bombabum",
@@ -1169,6 +1242,7 @@
     },
     "89337292": {
         "CHS": "庆典·斗剧",
+        "CHT": "慶典·鬥劇",
         "DE": "Feierlichkeit – Kampflied",
         "EN": "Celebration: Battlesong",
         "ES": "Celebración - Himno de batalla",
@@ -1185,6 +1259,7 @@
     },
     "2410190956": {
         "CHS": "稻妻·神樱",
+        "CHT": "稻妻·神櫻",
         "DE": "Inazuma – Heilige Sakura",
         "EN": "Inazuma: Sacred Sakura",
         "ES": "Inazuma - Cerezo Sagrado",
@@ -1201,6 +1276,7 @@
     },
     "1626279628": {
         "CHS": "纪行·鸣神大社",
+        "CHT": "紀行·鳴神大社",
         "DE": "Erlebnispass – Großer Narukami-Schrein",
         "EN": "Travel Notes: Grand Narukami Shrine",
         "ES": "PB - Gran Santuario Narukami",
@@ -1217,6 +1293,7 @@
     },
     "1967492164": {
         "CHS": "神里绫华·扇子",
+        "CHT": "神里綾華·扇子",
         "DE": "Kamisato Ayaka – Fächer",
         "EN": "Kamisato Ayaka: Folding Fan",
         "ES": "Kamisato Ayaka - Abanico",
@@ -1233,6 +1310,7 @@
     },
     "884046340": {
         "CHS": "宵宫·琉金火花",
+        "CHT": "宵宮·琉金火花",
         "DE": "Yoimiya – Auratus-Funken",
         "EN": "Yoimiya: Auratus Spark",
         "ES": "Yoimiya - Pirotecnia dorada",
@@ -1249,6 +1327,7 @@
     },
     "910139316": {
         "CHS": "早柚·不倒貉貉",
+        "CHT": "早柚·不倒貉貉",
         "DE": "Sayu – Mujimuji-Daruma",
         "EN": "Sayu: Muji-Muji Daruma",
         "ES": "Sayu - Tejón daruma",
@@ -1265,6 +1344,7 @@
     },
     "1034897276": {
         "CHS": "稻妻·雷电之纹",
+        "CHT": "稻妻·雷電之紋",
         "DE": "Inazuma – Raiden-Wappen",
         "EN": "Inazuma: Raiden Emblem",
         "ES": "Inazuma - Emblema de Raiden",
@@ -1281,6 +1361,7 @@
     },
     "1388672580": {
         "CHS": "稻妻·神里之纹",
+        "CHT": "稻妻·神里之紋",
         "DE": "Inazuma – Kamisato-Wappen",
         "EN": "Inazuma: Kamisato Crest",
         "ES": "Inazuma - Emblema Kamisato",
@@ -1297,6 +1378,7 @@
     },
     "915017620": {
         "CHS": "成就·门扉",
+        "CHT": "成就·門扉",
         "DE": "Errungenschaft – Tür",
         "EN": "Achievement: Gate",
         "ES": "Logro - Puerta",
@@ -1313,6 +1395,7 @@
     },
     "3790721260": {
         "CHS": "成就·遍历",
+        "CHT": "成就·遍歷",
         "DE": "Errungenschaft – Reiseabenteuer",
         "EN": "Achievement: Traversal",
         "ES": "Logro - Travesía",
@@ -1329,6 +1412,7 @@
     },
     "2157446436": {
         "CHS": "成就·石龙",
+        "CHT": "成就·石龍",
         "DE": "Errungenschaft – Steindrache",
         "EN": "Achievement: Stone Dragon",
         "ES": "Logro - Dragón de piedra",
@@ -1345,6 +1429,7 @@
     },
     "2308551284": {
         "CHS": "成就·繁花",
+        "CHT": "成就·繁花",
         "DE": "Errungenschaft – Volle Blüte",
         "EN": "Achievement: Full Bloom",
         "ES": "Logro - Florecimiento",
@@ -1361,6 +1446,7 @@
     },
     "2278845564": {
         "CHS": "稻妻·九条之纹",
+        "CHT": "稻妻·九條之紋",
         "DE": "Inazuma – Kujou-Wappen",
         "EN": "Inazuma: Kujou Insignia",
         "ES": "Inazuma - Emblema Kujou",
@@ -1377,6 +1463,7 @@
     },
     "3431743516": {
         "CHS": "庆典·妙算",
+        "CHT": "慶典·妙算",
         "DE": "Feierlichkeit – Erstaunliche Voraussicht",
         "EN": "Celebration: Wondrous Calculation",
         "ES": "Celebración - Ingenio",
@@ -1393,6 +1480,7 @@
     },
     "829905988": {
         "CHS": "雷电将军·开眼",
+        "CHT": "雷電將軍·開眼",
         "DE": "Shougun Raiden – Aufklärung",
         "EN": "Raiden Shogun: Enlightenment",
         "ES": "Shogun Raiden - Iluminación",
@@ -1409,6 +1497,7 @@
     },
     "4001325628": {
         "CHS": "珊瑚宫心海·渊",
+        "CHT": "珊瑚宮心海·淵",
         "DE": "Sangonomiya Kokomi – Tiefe",
         "EN": "Sangonomiya Kokomi: The Deep",
         "ES": "Sangonomiya Kokomi - Profundidades",
@@ -1425,6 +1514,7 @@
     },
     "1809683652": {
         "CHS": "九条裟罗·天狗",
+        "CHT": "九條裟羅·天狗",
         "DE": "Kujou Sara – Tengu",
         "EN": "Kujou Sara: Tengu",
         "ES": "Kujou Sara - Tengu",
@@ -1441,6 +1531,7 @@
     },
     "1189635932": {
         "CHS": "埃洛伊·曙光记",
+        "CHT": "亞蘿伊·黎明記",
         "DE": "Aloy – Horizont",
         "EN": "Aloy: Dawn",
         "ES": "Aloy - Amanecer",
@@ -1457,6 +1548,7 @@
     },
     "1788425036": {
         "CHS": "纪行·逐月",
+        "CHT": "紀行·逐月",
         "DE": "Erlebnispass – Vollmondtanz",
         "EN": "Travel Notes: Moonchaser",
         "ES": "PB - Persiguiendo la luna",
@@ -1473,6 +1565,7 @@
     },
     "1465826588": {
         "CHS": "稻妻·珊瑚宫之纹",
+        "CHT": "稻妻·珊瑚宮之紋",
         "DE": "Inazuma – Sangonomiya-Wappen",
         "EN": "Inazuma: Sangonomiya Crest",
         "ES": "Inazuma - Emblema de Sangonomiya",
@@ -1489,6 +1582,7 @@
     },
     "610572236": {
         "CHS": "成就·敲针",
+        "CHT": "成就·敲針",
         "DE": "Errungenschaft – Nadelhaken",
         "EN": "Achievement: Nails",
         "ES": "Logro - Clavos",
@@ -1505,6 +1599,7 @@
     },
     "1234196780": {
         "CHS": "庆典·倾耳",
+        "CHT": "慶典·傾耳",
         "DE": "Feierlichkeit – Lauschende Ohren",
         "EN": "Celebration: Tuneful Delight",
         "ES": "Celebración - Júbilo melodioso",
@@ -1521,6 +1616,7 @@
     },
     "4157504452": {
         "CHS": "庆典·一揆",
+        "CHT": "慶典·一揆",
         "DE": "Feierlichkeit – Ikki",
         "EN": "Celebration: Ikki",
         "ES": "Celebración - Combate",
@@ -1537,6 +1633,7 @@
     },
     "4076207684": {
         "CHS": "托马·炎袖",
+        "CHT": "托馬·炎袖",
         "DE": "Thoma – Flammenarmpanzer",
         "EN": "Thoma: Blazing Guard",
         "ES": "Thoma - Brazales ardientes",
@@ -1553,6 +1650,7 @@
     },
     "632319876": {
         "CHS": "纪行·神将",
+        "CHT": "紀行·神將",
         "DE": "Erlebnispass – Himmlischer General",
         "EN": "Travel Notes: Heavenly General",
         "ES": "PB - General celestial",
@@ -1569,6 +1667,7 @@
     },
     "209399988": {
         "CHS": "稻妻·鹫羽",
+        "CHT": "稻妻·鷲羽",
         "DE": "Inazuma – Adlerfeder",
         "EN": "Inazuma: Eagleplume",
         "ES": "Inazuma - Pluma de águila",
@@ -1585,6 +1684,7 @@
     },
     "1897177796": {
         "CHS": "五郎·悠犬",
+        "CHT": "五郎·悠犬",
         "DE": "Gorou – Gemächlicher Jagdhund",
         "EN": "Gorou: Leisurely Hound",
         "ES": "Gorou - Sabueso tranquilo",
@@ -1601,6 +1701,7 @@
     },
     "2514840108": {
         "CHS": "一斗·鬼颜",
+        "CHT": "一斗·鬼顏",
         "DE": "Itto – Oni-Gesicht",
         "EN": "Itto: Oni Face",
         "ES": "Itto - Cara de oni",
@@ -1617,6 +1718,7 @@
     },
     "3843143436": {
         "CHS": "纪行·白英",
+        "CHT": "紀行·白英",
         "DE": "Erlebnispass – Lyratum",
         "EN": "Travel Notes: Lyratum",
         "ES": "PB - Lyratum",
@@ -1633,6 +1735,7 @@
     },
     "2849383404": {
         "CHS": "申鹤·栉掠",
+        "CHT": "申鶴·櫛掠",
         "DE": "Shenhe – Kamm",
         "EN": "Shenhe: Comb",
         "ES": "Shenhe - Acicalamiento",
@@ -1649,6 +1752,7 @@
     },
     "1435336524": {
         "CHS": "云堇·对韵",
+        "CHT": "雲堇·對韻",
         "DE": "Yun Jin – Reim",
         "EN": "Yun Jin: Rhyme",
         "ES": "Yun Jin - Rima",
@@ -1665,6 +1769,7 @@
     },
     "3295622364": {
         "CHS": "稻妻·常世",
+        "CHT": "稻妻·常世",
         "DE": "Inazuma – Tokoyo",
         "EN": "Inazuma: Tokoyo",
         "ES": "Inazuma - Tokoyo",
@@ -1681,6 +1786,7 @@
     },
     "4026280356": {
         "CHS": "纪行·流彩",
+        "CHT": "紀行·流彩",
         "DE": "Erlebnispass – Flüchtige Farben",
         "EN": "Travel Notes: Flowing Hues",
         "ES": "PB - Multicolor",
@@ -1697,6 +1803,7 @@
     },
     "2921604708": {
         "CHS": "庆典·觥筹",
+        "CHT": "慶典·觥籌",
         "DE": "Feierlichkeit – Trinkgelage",
         "EN": "Celebration: Binge Vessel",
         "ES": "Celebración - Embriaguez",
@@ -1713,6 +1820,7 @@
     },
     "3322694252": {
         "CHS": "八重神子·梦狐",
+        "CHT": "八重神子·夢狐",
         "DE": "Yae Miko – Fuchs im Traum",
         "EN": "Yae Miko: Kitsune Dreaming",
         "ES": "Yae Miko - Kitsune onírica",
@@ -1729,6 +1837,7 @@
     },
     "4249583788": {
         "CHS": "纪行·蛰醒",
+        "CHT": "紀行·蟄醒",
         "DE": "Erlebnispass – Frühlingserwachen",
         "EN": "Travel Notes: Awakening",
         "ES": "PB - Despertar",
@@ -1745,6 +1854,7 @@
     },
     "294140780": {
         "CHS": "神里绫人·涟漪",
+        "CHT": "神里綾人·漣漪",
         "DE": "Kamisato Ayato – Wellen",
         "EN": "Kamisato Ayato: Ripple",
         "ES": "Kamisato Ayato - Ondulaciones",
@@ -1761,6 +1871,7 @@
     },
     "3278382996": {
         "CHS": "流明·辉石",
+        "CHT": "流明·輝石",
         "DE": "Lumen – Schimmernder Stein",
         "EN": "Lumens: Stone of Light",
         "ES": "Luminosidad - Augita",
@@ -1777,6 +1888,7 @@
     },
     "1424307148": {
         "CHS": "成就·雷音",
+        "CHT": "成就·雷音",
         "DE": "Errungenschaft – Donnerdröhnen",
         "EN": "Achievement: Thunderclap",
         "ES": "Logro - Rugido del relámpago",
@@ -1793,6 +1905,7 @@
     },
     "60191844": {
         "CHS": "成就·层岩",
+        "CHT": "成就·層岩",
         "DE": "Errungenschaft – Große Kluft",
         "EN": "Achievement: Chasm",
         "ES": "Logro - Sima",
@@ -1809,6 +1922,7 @@
     },
     "4085716716": {
         "CHS": "纪行·容彩",
+        "CHT": "紀行·容彩",
         "DE": "Erlebnispass – Irodori",
         "EN": "Travel Notes: Irodori",
         "ES": "PB - Irodori",
@@ -1825,6 +1939,7 @@
     },
     "2757081100": {
         "CHS": "夜兰·一掷",
+        "CHT": "夜蘭·一擲",
         "DE": "Yelan – Würfel",
         "EN": "Yelan: Throw",
         "ES": "Yelan - Lanzamiento",
@@ -1841,6 +1956,7 @@
     },
     "2907339228": {
         "CHS": "久岐忍·络",
+        "CHT": "久岐忍·絡",
         "DE": "Kuki Shinobu – Netz",
         "EN": "Kuki Shinobu: Net",
         "ES": "Kuki Shinobu - Red",
@@ -1857,6 +1973,7 @@
     },
     "3188840620": {
         "CHS": "纪行·天命",
+        "CHT": "紀行·天命",
         "DE": "Erlebnispass – Himmlischer Wille",
         "EN": "Travel Notes: Divine Will",
         "ES": "PB - Destino",
@@ -1873,6 +1990,7 @@
     },
     "1688417908": {
         "CHS": "鹿野院平藏·鞠毬",
+        "CHT": "鹿野院平藏·鞠毬",
         "DE": "Shikanoin Heizou – Temari",
         "EN": "Shikanoin Heizou: Temari",
         "ES": "Shikanoin Heizou - Temari",
@@ -1889,6 +2007,7 @@
     },
     "2652433876": {
         "CHS": "纪行·海蓝",
+        "CHT": "紀行·海藍",
         "DE": "Erlebnispass – Meeresblau",
         "EN": "Travel Notes: Azure Main",
         "ES": "PB - Azul marino",
@@ -1905,6 +2024,7 @@
     },
     "705455564": {
         "CHS": "提纳里·沐露",
+        "CHT": "提納里·沐露",
         "DE": "Tighnari – Vom Tau geküsst",
         "EN": "Tighnari: Dew-Kissed",
         "ES": "Tignari - Rocío",
@@ -1921,6 +2041,7 @@
     },
     "485055372": {
         "CHS": "柯莱·豹蔚",
+        "CHT": "柯萊·豹蔚",
         "DE": "Collei – Tugend",
         "EN": "Collei: Good Virtue",
         "ES": "Collei - Pantera",
@@ -1937,6 +2058,7 @@
     },
     "3477892188": {
         "CHS": "多莉·魔灯",
+        "CHT": "多莉·魔燈",
         "DE": "Dori – Flaschengeist",
         "EN": "Dori: Jinni",
         "ES": "Dori - Lámpara mágica",
@@ -1953,6 +2075,7 @@
     },
     "4155038212": {
         "CHS": "纪行·深林",
+        "CHT": "紀行·深林",
         "DE": "Erlebnispass – Waldland",
         "EN": "Travel Notes: Woodlands",
         "ES": "PB - Profundidades de la selva",
@@ -1969,6 +2092,7 @@
     },
     "4269297340": {
         "CHS": "成就·漫行",
+        "CHT": "成就·漫行",
         "DE": "Errungenschaft – Umherwandern",
         "EN": "Achievement: Roaming",
         "ES": "Logro - Itinerante",
@@ -1985,6 +2109,7 @@
     },
     "1698005228": {
         "CHS": "成就·逢缘",
+        "CHT": "成就·逢緣",
         "DE": "Errungenschaft – Schicksal",
         "EN": "Achievement: Fated Encounter",
         "ES": "Logro - Encuentro predestinado",
@@ -2001,6 +2126,7 @@
     },
     "1375881172": {
         "CHS": "须弥·瑶林",
+        "CHT": "須彌·瑤林",
         "DE": "Sumeru – Schimmernde Wälder",
         "EN": "Sumeru: Shimmering Woods",
         "ES": "Sumeru - Bosque esmeralda",
@@ -2017,6 +2143,7 @@
     },
     "3231725428": {
         "CHS": "须弥·照览",
+        "CHT": "須彌·照覽",
         "DE": "Sumeru – Beobachtung",
         "EN": "Sumeru: Observance",
         "ES": "Sumeru - Iluminación",
@@ -2033,6 +2160,7 @@
     },
     "1447772932": {
         "CHS": "须弥·正明",
+        "CHT": "須彌·正明",
         "DE": "Sumeru – Unbefleckt",
         "EN": "Sumeru: Unsullied",
         "ES": "Sumeru - Rectitud",
@@ -2049,6 +2177,7 @@
     },
     "4032969252": {
         "CHS": "纪行·归风",
+        "CHT": "紀行·歸風",
         "DE": "Erlebnispass – Heimkehr",
         "EN": "Travel Notes: Returning Winds",
         "ES": "PB - Viento del retorno",
@@ -2065,6 +2194,7 @@
     },
     "1075869604": {
         "CHS": "赛诺·幽缄",
+        "CHT": "賽諾·幽緘",
         "DE": "Cyno – Innere Ruhe",
         "EN": "Cyno: Silence",
         "ES": "Cyno - Taciturno",
@@ -2081,6 +2211,7 @@
     },
     "2373252516": {
         "CHS": "坎蒂丝·苍鹭",
+        "CHT": "坎蒂絲·蒼鷺",
         "DE": "Candace – Graureiher",
         "EN": "Candace: Gray Heron",
         "ES": "Candace - Garza real",
@@ -2097,6 +2228,7 @@
     },
     "106635948": {
         "CHS": "妮露·莲舞",
+        "CHT": "妮露·蓮舞",
         "DE": "Nilou – Lotostanz",
         "EN": "Nilou: Lotus Dance",
         "ES": "Nilou - Baile del loto",
@@ -2113,6 +2245,7 @@
     },
     "3705138196": {
         "CHS": "成就·七芒",
+        "CHT": "成就·七芒",
         "DE": "Errungenschaft – Sieben Farben",
         "EN": "Achievement: Seven Lights",
         "ES": "Logro - Siete luces",
@@ -2129,6 +2262,7 @@
     },
     "2226474204": {
         "CHS": "须弥·踏沙",
+        "CHT": "須彌·踏沙",
         "DE": "Sumeru – Sandmeerwanderung",
         "EN": "Sumeru: Sandtreader",
         "ES": "Sumeru - Caminante del desierto",
@@ -2145,6 +2279,7 @@
     },
     "3879141996": {
         "CHS": "成就·镜梦",
+        "CHT": "成就·鏡夢",
         "DE": "Errungenschaft – Gespiegelte Träume",
         "EN": "Achievement: Mirrored Dreams",
         "ES": "Logro - Reflejo de un sueño",
@@ -2161,6 +2296,7 @@
     },
     "3336724900": {
         "CHS": "纳西妲·仰月",
+        "CHT": "納西妲·仰月",
         "DE": "Nahida – Sichelmond",
         "EN": "Nahida: Crescent",
         "ES": "Nahida - Cuarto creciente",
@@ -2177,6 +2313,7 @@
     },
     "1712457348": {
         "CHS": "莱依拉·昼梦",
+        "CHT": "萊依拉·晝夢",
         "DE": "Layla – Tagtraum",
         "EN": "Layla: Daydream",
         "ES": "Laila - Ensoñación",
@@ -2193,6 +2330,7 @@
     },
     "2502680804": {
         "CHS": "纪行·蕈原",
+        "CHT": "紀行·蕈原",
         "DE": "Erlebnispass – Pilzfeld",
         "EN": "Travel Notes: Fungus Land",
         "ES": "PB - Fungolandia",
@@ -2209,6 +2347,7 @@
     },
     "3043367508": {
         "CHS": "流浪者·浮歌",
+        "CHT": "流浪者·浮歌",
         "DE": "Wanderer – Ballade des Herumtreibers",
         "EN": "Wanderer: Drifter's Ballad",
         "ES": "Trotamundos - Balada a la deriva",
@@ -2225,6 +2364,7 @@
     },
     "1032682012": {
         "CHS": "珐露珊·封秘",
+        "CHT": "琺露珊·封秘",
         "DE": "Faruzan – Versiegelte Geheimnisse",
         "EN": "Faruzan: Sealed Secret",
         "ES": "Faruzán - Secreto velado",
@@ -2241,6 +2381,7 @@
     },
     "3106010580": {
         "CHS": "成就·七圣",
+        "CHT": "成就·七聖",
         "DE": "Errungenschaft – Beschwörer",
         "EN": "Achievement: Invoker",
         "ES": "#Logro - {F#Invocadora}{M#Invocador}",
@@ -2257,6 +2398,7 @@
     },
     "30950492": {
         "CHS": "纪行·灵津",
+        "CHT": "紀行·靈津",
         "DE": "Erlebnispass – Milchstraße",
         "EN": "Travel Notes: Stellar Rivers",
         "ES": "PB - Cauce espiritual",
@@ -2273,6 +2415,7 @@
     },
     "2958088124": {
         "CHS": "艾尔海森·诲明",
+        "CHT": "艾爾海森·誨明",
         "DE": "Alhaitham – Belehrsamkeit",
         "EN": "Alhaitham: Enlightenment",
         "ES": "Alhacén - Erudición",
@@ -2289,6 +2432,7 @@
     },
     "2049099756": {
         "CHS": "瑶瑶·月桂",
+        "CHT": "瑤瑤·月桂",
         "DE": "Yaoyao – Yuegui",
         "EN": "Yaoyao: Yuegui",
         "ES": "Yaoyao - Yuegui",
@@ -2305,6 +2449,7 @@
     },
     "3236464132": {
         "CHS": "庆典·岫云",
+        "CHT": "慶典·岫雲",
         "DE": "Feierlichkeit – Linsenwolken",
         "EN": "Celebration: Lenticular Clouds",
         "ES": "Celebración - Nimbos biconvexos",
@@ -2321,6 +2466,7 @@
     },
     "2673900508": {
         "CHS": "纪行·合韵",
+        "CHT": "紀行·合韻",
         "DE": "Erlebnispass – Reim",
         "EN": "Travel Notes: Rhythm and Rhyme",
         "ES": "PB - Eufonía",
@@ -2337,6 +2483,7 @@
     },
     "3778817588": {
         "CHS": "须弥·砂岚",
+        "CHT": "須彌·砂嵐",
         "DE": "Sumeru – Sandsturm",
         "EN": "Sumeru: Sandstorm",
         "ES": "Sumeru - Polvareda",
@@ -2353,6 +2500,7 @@
     },
     "3153965316": {
         "CHS": "迪希雅·净焰",
+        "CHT": "迪希雅·淨焰",
         "DE": "Dehya – Unzähmbares Feuer",
         "EN": "Dehya: Purifying Flame",
         "ES": "Dehya - Llama purificadora",
@@ -2369,6 +2517,7 @@
     },
     "3025228532": {
         "CHS": "米卡·索引",
+        "CHT": "米卡·索引",
         "DE": "Mika – Index",
         "EN": "Mika: Index",
         "ES": "Mika - Índice",
@@ -2385,6 +2534,7 @@
     },
     "893197700": {
         "CHS": "纪行·意巧",
+        "CHT": "紀行·意巧",
         "DE": "Erlebnispass – Zuneigung",
         "EN": "Travel Notes: Artful Intent",
         "ES": "PB - Pretensión artesanal",
@@ -2401,6 +2551,7 @@
     },
     "2816803308": {
         "CHS": "白术·祛风",
+        "CHT": "白朮·祛風",
         "DE": "Baizhu – Vorbeugung",
         "EN": "Baizhu: Relief",
         "ES": "Baizhu - Mitigación",
@@ -2417,6 +2568,7 @@
     },
     "2684456012": {
         "CHS": "卡维·穹庭",
+        "CHT": "卡維·穹庭",
         "DE": "Kaveh – Firmament",
         "EN": "Kaveh: Domed Court",
         "ES": "Kaveh - Alcázar abovedado",
@@ -2433,6 +2585,7 @@
     },
     "370573972": {
         "CHS": "成就·万种",
+        "CHT": "成就·萬種",
         "DE": "Errungenschaft – Unendliche Samen",
         "EN": "Achievement: Infinitum",
         "ES": "Logro - Semillas infinitas",
@@ -2449,6 +2602,7 @@
     },
     "110943356": {
         "CHS": "成就·槿暮",
+        "CHT": "成就·槿暮",
         "DE": "Errungenschaft – Vergänglichkeit",
         "EN": "Achievement: Transient Twilight",
         "ES": "Logro - Atardecer efímero",
@@ -2465,6 +2619,7 @@
     },
     "1790614036": {
         "CHS": "须弥·大梦",
+        "CHT": "須彌·大夢",
         "DE": "Sumeru – Großer Traum",
         "EN": "Sumeru: The Great Dream",
         "ES": "Sumeru - Grandes quimeras",
@@ -2481,6 +2636,7 @@
     },
     "3159539884": {
         "CHS": "须弥·甘露",
+        "CHT": "須彌·甘露",
         "DE": "Sumeru – Amrita",
         "EN": "Sumeru: Amrita",
         "ES": "Sumeru - Maná",
@@ -2497,6 +2653,7 @@
     },
     "641457676": {
         "CHS": "纪行·荣冕",
+        "CHT": "紀行·榮冕",
         "DE": "Erlebnispass – Blumenkranz",
         "EN": "Travel Notes: Crown of Glory",
         "ES": "PB - Corona de la eminencia",
@@ -2513,6 +2670,7 @@
     },
     "2371279924": {
         "CHS": "绮良良·猫箱",
+        "CHT": "綺良良·貓箱",
         "DE": "Kirara – Neko-Kiste",
         "EN": "Kirara: Neko Box",
         "ES": "Kirara - Paquete minino",
@@ -2529,6 +2687,7 @@
     },
     "252168660": {
         "CHS": "纪行·秘典",
+        "CHT": "紀行·秘典",
         "DE": "Erlebnispass – Kodex",
         "EN": "Travel Notes: Secrets",
         "ES": "#PB{NON_BREAK_SPACE}-{NON_BREAK_SPACE}As de la invocación",
@@ -2545,6 +2704,7 @@
     },
     "2257348780": {
         "CHS": "纪行·溢彩",
+        "CHT": "紀行·溢彩",
         "DE": "Erlebnispass – Farbenquell",
         "EN": "Travel Notes: Vivid Illumination",
         "ES": "PB - Esplendor lumínico",
@@ -2561,6 +2721,7 @@
     },
     "1528445668": {
         "CHS": "林尼·弄假",
+        "CHT": "林尼·弄假",
         "DE": "Lyney – Täuschung",
         "EN": "Lyney: Pretense",
         "ES": "Lyney - Embeleco",
@@ -2577,6 +2738,7 @@
     },
     "1633726356": {
         "CHS": "琳妮特·成真",
+        "CHT": "琳妮特·成真",
         "DE": "Lynette – Wahrwerden",
         "EN": "Lynette: Earnestness",
         "ES": "Lynette - Profesionalidad",
@@ -2593,6 +2755,7 @@
     },
     "479426332": {
         "CHS": "菲米尼·行进",
+        "CHT": "菲米尼·行進",
         "DE": "Fréminet – Vorwärts",
         "EN": "Freminet: Progress",
         "ES": "Fréminet - Progreso",
@@ -2609,6 +2772,7 @@
     },
     "3839352012": {
         "CHS": "枫丹·审判",
+        "CHT": "楓丹·審判",
         "DE": "Fontaine – Verhandlung",
         "EN": "Fontaine: Judgment",
         "ES": "Fontaine - Juicios",
@@ -2625,6 +2789,7 @@
     },
     "3503408332": {
         "CHS": "成就·轨迹",
+        "CHT": "成就·軌跡",
         "DE": "Errungenschaft – Pfad",
         "EN": "Achievement: Orbits",
         "ES": "Logro - Órbitas",
@@ -2641,6 +2806,7 @@
     },
     "314888012": {
         "CHS": "成就·游涉",
+        "CHT": "成就·游涉",
         "DE": "Errungenschaft – Wandern",
         "EN": "Achievement: Mariner",
         "ES": "Logro - Vadeo",
@@ -2657,6 +2823,7 @@
     },
     "950590004": {
         "CHS": "枫丹·奇械",
+        "CHT": "楓丹·奇械",
         "DE": "Fontaine – Innovation",
         "EN": "Fontaine: Wondrous Machine",
         "ES": "Fontaine - Mecánica",
@@ -2673,6 +2840,7 @@
     },
     "1044303764": {
         "CHS": "枫丹·新闻",
+        "CHT": "楓丹·新聞",
         "DE": "Fontaine – Nachrichten",
         "EN": "Fontaine: Big News",
         "ES": "Fontaine - Periodismo",
@@ -2689,6 +2857,7 @@
     },
     "1496418108": {
         "CHS": "纪行·源水",
+        "CHT": "紀行·源水",
         "DE": "Erlebnispass – Quellwasser",
         "EN": "Travel Notes: Primordial Waters",
         "ES": "PB - Aguas primigenias",
@@ -2705,6 +2874,7 @@
     },
     "696265500": {
         "CHS": "那维莱特·流澜",
+        "CHT": "那維萊特·流瀾",
         "DE": "Neuvillette – Welle",
         "EN": "Neuvillette: Surge",
         "ES": "Neuvillette - Oleaje",
@@ -2721,6 +2891,7 @@
     },
     "4090643572": {
         "CHS": "莱欧斯利·缄锁",
+        "CHT": "萊歐斯利·緘鎖",
         "DE": "Wriothesley – Eingesperrt",
         "EN": "Wriothesley: Detention",
         "ES": "Wriothesley - Encarcelamiento",
@@ -2737,6 +2908,7 @@
     },
     "866604532": {
         "CHS": "纪行·沉星",
+        "CHT": "紀行·沉星",
         "DE": "Erlebnispass – Sternregen",
         "EN": "Travel Notes: Falling Star",
         "ES": "PB - Estrella abisal",
@@ -2753,6 +2925,7 @@
     },
     "3976555596": {
         "CHS": "庆典·奏雅",
+        "CHT": "慶典·奏雅",
         "DE": "Feierlichkeit – Bezaubernde Melodie",
         "EN": "Celebration: Euphonia",
         "ES": "Celebración - Melodía magnificente",
@@ -2769,6 +2942,7 @@
     },
     "1715198612": {
         "CHS": "成就·永续",
+        "CHT": "成就·永續",
         "DE": "Errungenschaft – Ewiger Fortlauf",
         "EN": "Achievement: Perpetual",
         "ES": "Logro - Perpetuidad",
@@ -2785,6 +2959,7 @@
     },
     "13290652": {
         "CHS": "枫丹·罚赎",
+        "CHT": "楓丹·罰贖",
         "DE": "Fontaine – Sühne",
         "EN": "Fontaine: Redemption",
         "ES": "Fontaine - Expiación",
@@ -2801,6 +2976,7 @@
     },
     "1009805764": {
         "CHS": "芙宁娜·欢宴",
+        "CHT": "芙寧娜·歡宴",
         "DE": "Furina – Festmahl",
         "EN": "Furina: Banquet",
         "ES": "Furina - Celebración",
@@ -2817,6 +2993,7 @@
     },
     "1586228084": {
         "CHS": "夏洛蒂·独家",
+        "CHT": "夏洛蒂·獨家",
         "DE": "Charlotte – Exklusiv",
         "EN": "Charlotte: Exclusive",
         "ES": "Charlotte - Exclusiva",
@@ -2833,6 +3010,7 @@
     },
     "935246276": {
         "CHS": "枫丹·浑然",
+        "CHT": "楓丹·渾然",
         "DE": "Fontaine – Vervollständigung",
         "EN": "Fontaine: Completeness",
         "ES": "Fontaine - Confusión",
@@ -2849,6 +3027,7 @@
     },
     "2679763348": {
         "CHS": "纪行·旋舞",
+        "CHT": "紀行·旋舞",
         "DE": "Erlebnispass – Wirbeltanz",
         "EN": "Travel Notes: Whirling Waltz",
         "ES": "PB - Vals pivotante",
@@ -2865,6 +3044,7 @@
     },
     "4045353212": {
         "CHS": "娜维娅·刺玫",
+        "CHT": "娜維婭·刺玫",
         "DE": "Navia – Rosula",
         "EN": "Navia: Rosula",
         "ES": "Navia - Rosa espinosa",
@@ -2881,6 +3061,7 @@
     },
     "3595817204": {
         "CHS": "夏沃蕾·贰型",
+        "CHT": "夏沃蕾·貳型",
         "DE": "Chevreuse – Typ II",
         "EN": "Chevreuse: Type II",
         "ES": "Chevreuse - Tipo II",
@@ -2897,6 +3078,7 @@
     },
     "1957949780": {
         "CHS": "纪行·时雕",
+        "CHT": "紀行·時雕",
         "DE": "Erlebnispass – Zeitgravur",
         "EN": "Travel Notes: Time Inscribed",
         "ES": "PB - Carpe diem",
@@ -2913,6 +3095,7 @@
     },
     "1130858180": {
         "CHS": "闲云·鹤云",
+        "CHT": "閒雲·鶴雲",
         "DE": "Xianyun – Weiße Wolken",
         "EN": "Xianyun: White Clouds",
         "ES": "Xianyun - Nimbogrulla",
@@ -2929,6 +3112,7 @@
     },
     "2811359836": {
         "CHS": "嘉明·文仔",
+        "CHT": "嘉明·文仔",
         "DE": "Gaming – Man Chai",
         "EN": "Gaming: Man Chai",
         "ES": "Gaming - Man Chai",
@@ -2945,6 +3129,7 @@
     },
     "1631438412": {
         "CHS": "成就·仙谷",
+        "CHT": "成就·仙谷",
         "DE": "Errungenschaft – Adeptental",
         "EN": "Achievement: Adeptal Valley",
         "ES": "Logro - Valle de los Adeptus",
@@ -2961,6 +3146,7 @@
     },
     "2708620900": {
         "CHS": "沉玉·投珑",
+        "CHT": "沉玉·投瓏",
         "DE": "Chenyu – Regenjade-Ritus",
         "EN": "Chenyu: Rainjade Rite",
         "ES": "Chenyu - Ceremonia Emanajade",
@@ -2977,6 +3163,7 @@
     },
     "1868468372": {
         "CHS": "纪行·彩鹞",
+        "CHT": "紀行·彩鷂",
         "DE": "Erlebnispass – Drachenpracht",
         "EN": "Travel Notes: Vibrant Harriers",
         "ES": "PB - Colores primaverales",
@@ -2993,6 +3180,7 @@
     },
     "1212836964": {
         "CHS": "专辑·闪耀的群星",
+        "CHT": "專輯·閃耀的群星",
         "DE": "Album – The Stellar Moments",
         "EN": "Album: The Stellar Moments",
         "ES": "Álbum «The Stellar Moments»",
@@ -3009,6 +3197,7 @@
     },
     "3292114052": {
         "CHS": "千织·展袖",
+        "CHT": "千織·展袖",
         "DE": "Chiori – Spektakuläre Ärmel",
         "EN": "Chiori: Spectacular Sleeves",
         "ES": "Chiori - Tamoto",
@@ -3025,6 +3214,7 @@
     },
     "882758588": {
         "CHS": "纪行·魔萃",
+        "CHT": "紀行·魔萃",
         "DE": "Erlebnispass – Scheidekunst",
         "EN": "Travel Notes: Arcane Amassing",
         "ES": "PB - Arcanidad",
@@ -3041,6 +3231,7 @@
     },
     "89079668": {
         "CHS": "阿蕾奇诺·法度",
+        "CHT": "阿蕾奇諾·法度",
         "DE": "Arlecchino – Edikt",
         "EN": "Arlecchino: Edict",
         "ES": "Arlecchino - Ley",
@@ -3057,6 +3248,7 @@
     },
     "3853344316": {
         "CHS": "枫丹·调律",
+        "CHT": "楓丹·調律",
         "DE": "Fontaine – Abstimmung",
         "EN": "Fontaine: Attunement",
         "ES": "Fontaine - Afinación",
@@ -3073,6 +3265,7 @@
     },
     "1686874332": {
         "CHS": "成就·掣鲸",
+        "CHT": "成就·掣鯨",
         "DE": "Errungenschaft – Walbändiger",
         "EN": "Achievement: Whalewrangler",
         "ES": "Logro - Cazanarvales",
@@ -3089,6 +3282,7 @@
     },
     "328422540": {
         "CHS": "枫丹·露泉",
+        "CHT": "楓丹·露泉",
         "DE": "Fontaine – Tauwasserbrunnen",
         "EN": "Fontaine: Lucine",
         "ES": "Fontaine - Lucine",
@@ -3105,6 +3299,7 @@
     },
     "1744889084": {
         "CHS": "纪行·邦摇",
+        "CHT": "紀行·邦搖",
         "DE": "Erlebnispass – Rock ’n’ Roll",
         "EN": "Travel Notes: The Realms Rocked",
         "ES": "PB - Tierra del rock",

@@ -5,13 +5,13 @@ import logging
 import os
 
 from typing import Union, Optional, Type, TYPE_CHECKING, List, Any, Dict
-from enkacard import enkatools
 
 from .http import HTTPClient
 from .model.base import (
     EnkaNetworkResponse,
     EnkaNetworkProfileResponse
 )
+from .enkanetwork_update import enka_update
 from .model.hoyos import PlayerHoyos
 from .model.build import Builds
 
@@ -386,15 +386,22 @@ class EnkaNetworkAPI:
         new_data = await self.fetch_raw_data(uid)
         return await merge_raw_data(new_data, old_data)
 
-    async def update_assets(self, path = None) -> None:
+    async def update_assets(self, path = None, lang: list = []) -> None:
+        """ Updating Assets
+
+        Args:
+            path (str, optional): path to assets folder. Defaults to None.
+            lang (list, optional): List of languages ​​that need to be updated, if [] then updates everything. Defaults to [].
+        """
         if path is None:
             path = Assets._get_path_assets()
             path = os.path.dirname(path["data"])
-            
-        tools = enkatools.Tools()
-        await update_pfps(path = path)
-        await tools.update_assets(path = path)
         
+        if not isinstance(lang, list):
+            raise TypeError("The lang argument must be a list")
+        
+        await enka_update.dowload(path= path, lang = lang)
+        await update_pfps(path = path)        
         self.assets.reload_assets()
         
     async def __format_hoyos(self, username: str, data: List[Any]) -> List[PlayerHoyos]:  # noqa

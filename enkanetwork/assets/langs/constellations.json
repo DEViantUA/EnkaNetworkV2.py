@@ -1,6 +1,7 @@
 {
     "3364696049": {
         "CHS": "霜杀墨染樱",
+        "CHT": "霜殺墨染櫻",
         "DE": "Verschneite Sakura",
         "EN": "Snowswept Sakura",
         "ES": "Cerezo de escarcha",
@@ -17,6 +18,7 @@
     },
     "562006217": {
         "CHS": "三重雪关扉",
+        "CHT": "三重雪關扉",
         "DE": "Sturmklinge Seki no To",
         "EN": "Blizzard Blade Seki no To",
         "ES": "Pasaje níveo",
@@ -33,6 +35,7 @@
     },
     "1186654377": {
         "CHS": "花白锦画纸吹雪",
+        "CHT": "花白錦畫紙吹雪",
         "DE": "Frostblüte Kamifubuki",
         "EN": "Frostbloom Kamifubuki",
         "ES": "Nieve inmaculada",
@@ -49,6 +52,7 @@
     },
     "2463454169": {
         "CHS": "盈缺流返",
+        "CHT": "盈缺流返",
         "DE": "Ebbe und Flut",
         "EN": "Ebb and Flow",
         "ES": "Retorno preeminente",
@@ -65,6 +69,7 @@
     },
     "51561297": {
         "CHS": "花云钟入月",
+        "CHT": "花雲鐘入月",
         "DE": "Blütenwolke Irutsuki",
         "EN": "Blossom Cloud Irutsuki",
         "ES": "Luna entre las nubes",
@@ -81,6 +86,7 @@
     },
     "2587184913": {
         "CHS": "间水月",
+        "CHT": "間水月",
         "DE": "Suigetsu-Tanz",
         "EN": "Dance of Suigetsu",
         "ES": "Reflejo de la luna",
@@ -97,6 +103,7 @@
     },
     "2935753641": {
         "CHS": "流转剑脊的暴风",
+        "CHT": "流轉劍脊的暴風",
         "DE": "Sturm der wirbelnden Klingen",
         "EN": "Spiraling Tempest",
         "ES": "Espiral de tempestad",
@@ -113,6 +120,7 @@
     },
     "573725673": {
         "CHS": "守护众人的坚盾",
+        "CHT": "守護眾人的堅盾",
         "DE": "Schild des Volkes",
         "EN": "People's Aegis",
         "ES": "Escudo del pueblo",
@@ -129,6 +137,7 @@
     },
     "997607873": {
         "CHS": "西风吹拂之时",
+        "CHT": "西風吹拂之時",
         "DE": "Wehen des Westwinds",
         "EN": "When the West Wind Arises",
         "ES": "Cuando sopla el viento del oeste",
@@ -145,6 +154,7 @@
     },
     "2887613457": {
         "CHS": "蒲公英的国土",
+        "CHT": "蒲公英的國土",
         "DE": "Reich des Löwenzahns",
         "EN": "Lands of Dandelion",
         "ES": "Reino de Dandelion",
@@ -161,6 +171,7 @@
     },
     "2712156785": {
         "CHS": "须臾一瞬的烈风",
+        "CHT": "須臾一瞬的烈風",
         "DE": "Plötzlicher Windstoß",
         "EN": "Outbursting Gust",
         "ES": "Ráfaga explosiva",
@@ -177,6 +188,7 @@
     },
     "3167949041": {
         "CHS": "恩眷万民的狮牙",
+        "CHT": "恩眷萬民的獅牙",
         "DE": "Löwenzahn, Beschützer des Volkes",
         "EN": "Lion's Fang, Fair Protector of Mondstadt",
         "ES": "Diente de León, fiel protectora de Mondstadt",
@@ -193,6 +205,7 @@
     },
     "12874089": {
         "CHS": "无限的电回路",
+        "CHT": "無限的電迴路",
         "DE": "Unendlicher Schaltkreis",
         "EN": "Infinite Circuit",
         "ES": "Circuito infinito",
@@ -209,6 +222,7 @@
     },
     "1523216321": {
         "CHS": "空间电势结界",
+        "CHT": "空間電勢結界",
         "DE": "Elektrisierter Raum",
         "EN": "Electromagnetic Field",
         "ES": "Campo electromagnético",
@@ -225,6 +239,7 @@
     },
     "3707731441": {
         "CHS": "谐振的雷光",
+        "CHT": "諧振的雷光",
         "DE": "Resonanzdonner",
         "EN": "Resonant Thunder",
         "ES": "Trueno resonante",
@@ -241,6 +256,7 @@
     },
     "1540277121": {
         "CHS": "如雨的电浆",
+        "CHT": "如雨的電漿",
         "DE": "Plasmaregen",
         "EN": "Plasma Eruption",
         "ES": "Erupción de plasma",
@@ -257,6 +273,7 @@
     },
     "2256541273": {
         "CHS": "等离态的落雷",
+        "CHT": "等離態的落雷",
         "DE": "Plasmaschnee",
         "EN": "Electrocute",
         "ES": "Electrocución",
@@ -273,6 +290,7 @@
     },
     "2935728161": {
         "CHS": "脉冲的魔女",
+        "CHT": "脈衝的魔女",
         "DE": "Pulsierende Hexe",
         "EN": "Pulsating Witch",
         "ES": "Bruja palpitante",
@@ -289,6 +307,7 @@
     },
     "1939010113": {
         "CHS": "回转的怒风",
+        "CHT": "迴轉的怒風",
         "DE": "Wirbelnder Wind",
         "EN": "Raging Vortex",
         "ES": "Torbellino furioso",
@@ -305,6 +324,7 @@
     },
     "202198665": {
         "CHS": "革新的旋风",
+        "CHT": "革新的旋風",
         "DE": "Aufsteigender Wind",
         "EN": "Uprising Whirlwind",
         "ES": "Torbellino ascendente",
@@ -321,6 +341,7 @@
     },
     "3296754769": {
         "CHS": "天地的刚风",
+        "CHT": "天地的剛風",
         "DE": "Schneidender Wind",
         "EN": "Sweeping Gust",
         "ES": "Torbellino arrebatador",
@@ -337,6 +358,7 @@
     },
     "2963680761": {
         "CHS": "眷护的和风",
+        "CHT": "眷顧的和風",
         "DE": "Fürsorglicher Wind",
         "EN": "Cherishing Breezes",
         "ES": "Brisa protectora",
@@ -353,6 +375,7 @@
     },
     "1400173321": {
         "CHS": "群星的涡风",
+        "CHT": "群星的渦風",
         "DE": "Vortex Stellaris",
         "EN": "Vortex Stellaris",
         "ES": "Vórtice Stellaris",
@@ -369,6 +392,7 @@
     },
     "3558611633": {
         "CHS": "纠缠的信风",
+        "CHT": "糾纏的信風",
         "DE": "Verworrener Wind",
         "EN": "Intertwined Winds",
         "ES": "Vientos entrelazados",
@@ -385,6 +409,7 @@
     },
     "3120087313": {
         "CHS": "巍然的青岩",
+        "CHT": "巍然的青岩",
         "DE": "Hoher Steinwall",
         "EN": "Invincible Stonewall",
         "ES": "Muro inquebrantable",
@@ -401,6 +426,7 @@
     },
     "1377520009": {
         "CHS": "不稳的熔岩",
+        "CHT": "不穩的熔岩",
         "DE": "Instabiler Kern",
         "EN": "Rockcore Meltdown",
         "ES": "Fusión de lava",
@@ -417,6 +443,7 @@
     },
     "622533617": {
         "CHS": "八方之岩",
+        "CHT": "八方之岩",
         "DE": "Felsen ringsumher",
         "EN": "Will of the Rock",
         "ES": "Voluntad pétrea",
@@ -433,6 +460,7 @@
     },
     "161259209": {
         "CHS": "险峻的重岩",
+        "CHT": "險峻的重岩",
         "DE": "Schroffer Felsen",
         "EN": "Reaction Force",
         "ES": "Fuerza de reacción",
@@ -449,6 +477,7 @@
     },
     "4177873769": {
         "CHS": "天坠之岩",
+        "CHT": "天墜之岩",
         "DE": "Meteoriteneinschlag",
         "EN": "Meteorite Impact",
         "ES": "Impacto meteórico",
@@ -465,6 +494,7 @@
     },
     "4065853553": {
         "CHS": "永世的磐岩",
+        "CHT": "永世的磐岩",
         "DE": "Unvergänglicher Felsbrocken",
         "EN": "Everlasting Boulder",
         "ES": "Bloque eterno",
@@ -481,6 +511,7 @@
     },
     "712206481": {
         "CHS": "丰穰的春雷",
+        "CHT": "豐穰的春雷",
         "DE": "Frühlingsgewitter bei der Ernte",
         "EN": "Spring Thunder of Fertility",
         "ES": "Trueno de la cosecha primaveral",
@@ -497,6 +528,7 @@
     },
     "23741097": {
         "CHS": "震怒的苍雷",
+        "CHT": "震怒的蒼雷",
         "DE": "Wucht des Wetters",
         "EN": "Violet Vehemence",
         "ES": "Rayo vehemente",
@@ -513,6 +545,7 @@
     },
     "3477728697": {
         "CHS": "连延的远雷",
+        "CHT": "連延的遠雷",
         "DE": "Entfernter Donner",
         "EN": "Distant Crackling",
         "ES": "Restallido lejano",
@@ -529,6 +562,7 @@
     },
     "2462745745": {
         "CHS": "难测的云雷",
+        "CHT": "難測的雲雷",
         "DE": "Unberechenbares Unwetter",
         "EN": "Fickle Cloudstrike",
         "ES": "Relámpago súbito",
@@ -545,6 +579,7 @@
     },
     "2241540777": {
         "CHS": "荒野的霆雷",
+        "CHT": "荒野的霆雷",
         "DE": "Getöne in der Wildnis",
         "EN": "Clamor in the Wilds",
         "ES": "Naturaleza eléctrica",
@@ -561,6 +596,7 @@
     },
     "1885207465": {
         "CHS": "撼世的神雷",
+        "CHT": "撼世的神雷",
         "DE": "Erschütternde Blitze",
         "EN": "World-Shaker",
         "ES": "Sacudida celestial",
@@ -577,6 +613,7 @@
     },
     "1600504857": {
         "CHS": "寄身的倚草",
+        "CHT": "寄身的倚草",
         "DE": "Parasitäres Gras",
         "EN": "Symbiotic Creeper",
         "ES": "Enredadera simbiótica",
@@ -593,6 +630,7 @@
     },
     "3553177833": {
         "CHS": "健韧的劲草",
+        "CHT": "健韌的勁草",
         "DE": "Beharrliches Gras",
         "EN": "Green Resilience",
         "ES": "Planta tenaz",
@@ -609,6 +647,7 @@
     },
     "2493239665": {
         "CHS": "婆娑的瑶草",
+        "CHT": "婆娑的瑤草",
         "DE": "Tänzelndes Gras",
         "EN": "Whirling Weeds",
         "ES": "Mecer de las praderas",
@@ -625,6 +664,7 @@
     },
     "997796193": {
         "CHS": "如饴的蜜草",
+        "CHT": "如飴的蜜草",
         "DE": "Zuckersüßes Gras",
         "EN": "Treacle Grass",
         "ES": "Melaza herbácea",
@@ -641,6 +681,7 @@
     },
     "2090706953": {
         "CHS": "迅生的丰草",
+        "CHT": "迅生的豐草",
         "DE": "Sprießendes Gras",
         "EN": "Viridian Transience",
         "ES": "Fugacidad veridiana",
@@ -657,6 +698,7 @@
     },
     "712474025": {
         "CHS": "蕴思的霜草",
+        "CHT": "蘊思的霜草",
         "DE": "Grübelndes Gras",
         "EN": "Withering Aggregation",
         "ES": "Marcescencia congregada",
@@ -673,6 +715,7 @@
     },
     "464807465": {
         "CHS": "微澜的湖水",
+        "CHT": "微瀾的湖水",
         "DE": "Plätscherndes Seewasser",
         "EN": "Swelling Lake",
         "ES": "Lagos undosos",
@@ -689,6 +732,7 @@
     },
     "2736315841": {
         "CHS": "潺涓的碧水",
+        "CHT": "潺涓的碧水",
         "DE": "Rieselndes Wasser",
         "EN": "Trickling Purity",
         "ES": "Arroyos borboteantes",
@@ -705,6 +749,7 @@
     },
     "3914394073": {
         "CHS": "激荡的波水",
+        "CHT": "激蕩的波水",
         "DE": "Wogende Wellen",
         "EN": "Turbulent Ripples",
         "ES": "Olas furibundas",
@@ -721,6 +766,7 @@
     },
     "663820225": {
         "CHS": "倾落的迸水",
+        "CHT": "傾落的迸水",
         "DE": "Strömender Wasserfall",
         "EN": "Pouring Descent",
         "ES": "Aluviones precipitantes",
@@ -737,6 +783,7 @@
     },
     "110055385": {
         "CHS": "洄旋的曲水",
+        "CHT": "洄旋的曲水",
         "DE": "Wirbelnder Strudel",
         "EN": "Churning Whirlpool",
         "ES": "Meandros serpenteantes",
@@ -753,6 +800,7 @@
     },
     "4220874993": {
         "CHS": "公义的潮水",
+        "CHT": "公義的潮水",
         "DE": "Gezeiten der Gerechtigkeit",
         "EN": "Tides of Justice",
         "ES": "Mareas de la justicia",
@@ -769,6 +817,7 @@
     },
     "696499609": {
         "CHS": "彩色歌谣",
+        "CHT": "彩色歌謠",
         "DE": "Bunte Ballade",
         "EN": "Gleeful Songs",
         "ES": "Canción de júbilo",
@@ -785,6 +834,7 @@
     },
     "3458095841": {
         "CHS": "元气迸发",
+        "CHT": "元氣迸發",
         "DE": "Explosion der Lebenskraft",
         "EN": "Vitality Burst",
         "ES": "Explosión de vitalidad",
@@ -801,6 +851,7 @@
     },
     "929991257": {
         "CHS": "明日之星",
+        "CHT": "明日之星",
         "DE": "Stern von Morgen",
         "EN": "Star of Tomorrow",
         "ES": "Estrella del mañana",
@@ -817,6 +868,7 @@
     },
     "2093148473": {
         "CHS": "努力即魔法",
+        "CHT": "努力即魔法",
         "DE": "Fleiß ist Magie",
         "EN": "Attentiveness Be My Power",
         "ES": "El esfuerzo será mi magia",
@@ -833,6 +885,7 @@
     },
     "3139814905": {
         "CHS": "纯真的羁绊",
+        "CHT": "純真的羈絆",
         "DE": "Wahre Freundschaft",
         "EN": "The Purest Companionship",
         "ES": "Vínculo de inocencia",
@@ -849,6 +902,7 @@
     },
     "2183173281": {
         "CHS": "将一切美好献给你",
+        "CHT": "將一切美好獻給你",
         "DE": "Nur das Beste für dich",
         "EN": "Dedicating Everything to You",
         "ES": "Dedicándotelo todo",
@@ -865,6 +919,7 @@
     },
     "1478938545": {
         "CHS": "卓越的血脉",
+        "CHT": "卓越的血脈",
         "DE": "Brillantes Blut",
         "EN": "Excellent Blood",
         "ES": "Sangre excelente",
@@ -881,6 +936,7 @@
     },
     "1425365945": {
         "CHS": "无尽的霜舞",
+        "CHT": "無盡的霜舞",
         "DE": "Endlose Vorführung",
         "EN": "Never-Ending Performance",
         "ES": "Actuación eterna",
@@ -897,6 +953,7 @@
     },
     "1397996209": {
         "CHS": "凛冽的冰戏",
+        "CHT": "凜冽的冰戲",
         "DE": "Bitterkaltes Schauspiel",
         "EN": "Dance of Frost",
         "ES": "Baile de escarcha",
@@ -913,6 +970,7 @@
     },
     "1595754497": {
         "CHS": "极寒的轻吻",
+        "CHT": "極寒的輕吻",
         "DE": "Eiskalter Kuss",
         "EN": "Frozen Kiss",
         "ES": "Beso congelado",
@@ -929,6 +987,7 @@
     },
     "1102683585": {
         "CHS": "至冷的拥抱",
+        "CHT": "至冷的擁抱",
         "DE": "Frostige Umarmung",
         "EN": "Frostbiting Embrace",
         "ES": "Abrazo helado",
@@ -945,6 +1004,7 @@
     },
     "2310553705": {
         "CHS": "轮旋的冰凌",
+        "CHT": "輪旋的冰凌",
         "DE": "Kreisender Eiszapfen",
         "EN": "Glacial Whirlwind",
         "ES": "Torbellino helado",
@@ -961,6 +1021,7 @@
     },
     "1050836105": {
         "CHS": "罪罚裁断",
+        "CHT": "罪罰裁斷",
         "DE": "Schuldspruch",
         "EN": "Conviction",
         "ES": "Condena",
@@ -977,6 +1038,7 @@
     },
     "610672953": {
         "CHS": "炙热余烬",
+        "CHT": "炙熱餘燼",
         "DE": "Heiße Asche",
         "EN": "Searing Ember",
         "ES": "Ardor incesante",
@@ -993,6 +1055,7 @@
     },
     "4084228505": {
         "CHS": "钢铁炽焰",
+        "CHT": "鋼鐵熾焰",
         "DE": "Stahl und Feuer",
         "EN": "Fire and Steel",
         "ES": "Fuego y acero",
@@ -1009,6 +1072,7 @@
     },
     "1732979729": {
         "CHS": "流火焦灼",
+        "CHT": "流火焦灼",
         "DE": "Fließende Flamme",
         "EN": "Flowing Flame",
         "ES": "Flujo llameante",
@@ -1025,6 +1089,7 @@
     },
     "2293832361": {
         "CHS": "昭告黎明的火之鸟",
+        "CHT": "昭告黎明的火之鳥",
         "DE": "Phönix, Bote der Dämmerung",
         "EN": "Phoenix, Harbinger of Dawn",
         "ES": "Fénix, heraldo del amanecer",
@@ -1041,6 +1106,7 @@
     },
     "4215692089": {
         "CHS": "清算黑暗的炎之剑",
+        "CHT": "清算黑暗的炎之劍",
         "DE": "Flammendes Schwert, Vernichter der Dunkelheit",
         "EN": "Flaming Sword, Nemesis of the Dark",
         "ES": "Espada llameante, némesis de la oscuridad",
@@ -1057,6 +1123,7 @@
     },
     "456119193": {
         "CHS": "狼性",
+        "CHT": "狼性",
         "DE": "Wolfsinstinkte",
         "EN": "Wolf's Instinct",
         "ES": "Naturaleza del lobo",
@@ -1073,6 +1140,7 @@
     },
     "3370625609": {
         "CHS": "压制",
+        "CHT": "壓制",
         "DE": "Einschüchtern",
         "EN": "Suppression",
         "ES": "Represión",
@@ -1089,6 +1157,7 @@
     },
     "3366391689": {
         "CHS": "兽魂",
+        "CHT": "獸魂",
         "DE": "Tierische Seele",
         "EN": "Soul Companion",
         "ES": "Alma de la bestia",
@@ -1105,6 +1174,7 @@
     },
     "770839401": {
         "CHS": "撕咬",
+        "CHT": "撕咬",
         "DE": "Biss",
         "EN": "Bite",
         "ES": "Mordisco",
@@ -1121,6 +1191,7 @@
     },
     "1781683177": {
         "CHS": "利爪",
+        "CHT": "利爪",
         "DE": "Scharfe Klauen",
         "EN": "Sharpened Claws",
         "ES": "Garras afiladas",
@@ -1137,6 +1208,7 @@
     },
     "4050704465": {
         "CHS": "天狼",
+        "CHT": "天狼",
         "DE": "Lupus Fulguris",
         "EN": "Lupus Fulguris",
         "ES": "Lupus fulguris",
@@ -1153,6 +1225,7 @@
     },
     "1803598873": {
         "CHS": "一箭双丘丘！",
+        "CHT": "一箭雙丘丘！",
         "DE": "Zwei auf einen Streich!",
         "EN": "One Arrow to Rule Them All",
         "ES": "¡Una flecha para gobernarlos a todos!",
@@ -1169,6 +1242,7 @@
     },
     "2183507145": {
         "CHS": "一触即发",
+        "CHT": "一觸即發",
         "DE": "Manuelle Explosion",
         "EN": "Bunny Triggered",
         "ES": "Lanzamiento de Barón Bunny",
@@ -1185,6 +1259,7 @@
     },
     "1196596641": {
         "CHS": "烧起来啦！",
+        "CHT": "燒起來啦！",
         "DE": "Das wird brennen!",
         "EN": "It Burns!",
         "ES": "¡Quémalo todo!",
@@ -1201,6 +1276,7 @@
     },
     "2969048825": {
         "CHS": "才不是普通的布偶",
+        "CHT": "才不是普通的布偶",
         "DE": "Nicht einfach nur eine Puppe",
         "EN": "It's Not Just Any Doll...",
         "ES": "No es un muñeco cualquiera...",
@@ -1217,6 +1293,7 @@
     },
     "1752633193": {
         "CHS": "是兔兔伯爵！",
+        "CHT": "是兔兔伯爵！",
         "DE": "Häschen hüpf!",
         "EN": "It's Baron Bunny!",
         "ES": "¡Es Barón Bunny!",
@@ -1233,6 +1310,7 @@
     },
     "1429105737": {
         "CHS": "疾如野火",
+        "CHT": "疾如野火",
         "DE": "Wildes Feuer",
         "EN": "Wildfire",
         "ES": "Fuego salvaje",
@@ -1249,6 +1327,7 @@
     },
     "2201097153": {
         "CHS": "弦发的苍风",
+        "CHT": "弦發的蒼風",
         "DE": "Gespaltener Hagel",
         "EN": "Splitting Gales",
         "ES": "Vendaval feroz",
@@ -1265,6 +1344,7 @@
     },
     "509053297": {
         "CHS": "眷恋的泠风",
+        "CHT": "眷戀的泠風",
         "DE": "Brise der Sehnsucht",
         "EN": "Breeze of Reminiscence",
         "ES": "Brisa de reminiscencia",
@@ -1281,6 +1361,7 @@
     },
     "1436400889": {
         "CHS": "千风的诗篇",
+        "CHT": "千風的詩篇",
         "DE": "Ode an die Tausend Winde",
         "EN": "Ode to Thousand Winds",
         "ES": "Oda a los Mil Vientos",
@@ -1297,6 +1378,7 @@
     },
     "2667025441": {
         "CHS": "自由的凛风",
+        "CHT": "自由的凜風",
         "DE": "Gewitter der Freiheit",
         "EN": "Hurricane of Freedom",
         "ES": "Huracán de la libertad",
@@ -1313,6 +1395,7 @@
     },
     "3652037273": {
         "CHS": "高天的协奏",
+        "CHT": "高天的協奏",
         "DE": "Concerto dal Cielo",
         "EN": "Concerto dal Cielo",
         "ES": "Concierto celestial",
@@ -1329,6 +1412,7 @@
     },
     "544150889": {
         "CHS": "抗争的暴风",
+        "CHT": "抗爭的暴風",
         "DE": "Sturm des Widerstands",
         "EN": "Storm of Defiance",
         "ES": "Tormenta de la rebelión",
@@ -1345,6 +1429,7 @@
     },
     "1194445449": {
         "CHS": "外酥里嫩",
+        "CHT": "外酥裡嫩",
         "DE": "Außen knusprig, innen zart",
         "EN": "Crispy Outside, Tender Inside",
         "ES": "Crujiente por fuera, tierno por dentro",
@@ -1361,6 +1446,7 @@
     },
     "1745094577": {
         "CHS": "大火宽油",
+        "CHT": "大火寬油",
         "DE": "Öl auf Feuer",
         "EN": "Oil Meets Fire",
         "ES": "Aceite y fuego",
@@ -1377,6 +1463,7 @@
     },
     "2414003921": {
         "CHS": "武火急烹",
+        "CHT": "武火急烹",
         "DE": "Scharf angebraten",
         "EN": "Deepfry",
         "ES": "Que quede bien frito",
@@ -1393,6 +1480,7 @@
     },
     "2365969361": {
         "CHS": "文火慢煨",
+        "CHT": "文火慢煨",
         "DE": "Langsam gegart",
         "EN": "Slowbake",
         "ES": "A fuego lento",
@@ -1409,6 +1497,7 @@
     },
     "4257441793": {
         "CHS": "锅巴凶猛",
+        "CHT": "鍋巴兇猛",
         "DE": "Guoba sauer",
         "EN": "Guoba Mad",
         "ES": "Guoba furioso",
@@ -1425,6 +1514,7 @@
     },
     "2739862033": {
         "CHS": "大龙卷旋火轮",
+        "CHT": "大龍捲旋火輪",
         "DE": "Feuertornado",
         "EN": "Condensed Pyronado",
         "ES": "Pyronado condensado",
@@ -1441,6 +1531,7 @@
     },
     "1598246073": {
         "CHS": "鱼龙沉四方",
+        "CHT": "魚龍沉四方",
         "DE": "Untergang der Ungeheuer",
         "EN": "Sea Beast's Scourge",
         "ES": "Cazadora de ictiosaurios",
@@ -1457,6 +1548,7 @@
     },
     "2620399769": {
         "CHS": "赫赫雷涌起",
+        "CHT": "赫赫雷湧起",
         "DE": "Aufziehendes Unwetter",
         "EN": "Upon the Turbulent Sea, the Thunder Arises",
         "ES": "Tormenta sobre el mar turbulento",
@@ -1473,6 +1565,7 @@
     },
     "2741836993": {
         "CHS": "潮奔蓦引电",
+        "CHT": "潮奔驀引電",
         "DE": "Spontane Induktion",
         "EN": "Summoner of Storm",
         "ES": "Invocadora de la tormenta",
@@ -1489,6 +1582,7 @@
     },
     "1523101409": {
         "CHS": "牵星觅乡岸",
+        "CHT": "牽星覓鄉岸",
         "DE": "Überwältigender Gegenschlag",
         "EN": "Stunning Revenge",
         "ES": "Venganza súbita",
@@ -1505,6 +1599,7 @@
     },
     "2181637521": {
         "CHS": "踏浪霞连阶",
+        "CHT": "踏浪霞連階",
         "DE": "Gezeitenwanderer",
         "EN": "Crimson Tidewalker",
         "ES": "Caminante de mareas carmesí",
@@ -1521,6 +1616,7 @@
     },
     "688452449": {
         "CHS": "北斗祓幽孽",
+        "CHT": "北斗祓幽孽",
         "DE": "Schrecken des Bösen",
         "EN": "Bane of Evil",
         "ES": "Flagelo del mal",
@@ -1537,6 +1633,7 @@
     },
     "792197377": {
         "CHS": "重帘留香",
+        "CHT": "重簾留香",
         "DE": "Nachgeschmack",
         "EN": "The Scent Remained",
         "ES": "Lluvia sobre mojado",
@@ -1553,6 +1650,7 @@
     },
     "4158193737": {
         "CHS": "天青现虹",
+        "CHT": "天青現虹",
         "DE": "Klarer Himmel",
         "EN": "Rainbow Upon the Azure Sky",
         "ES": "Arcoíris brillante",
@@ -1569,6 +1667,7 @@
     },
     "3515928625": {
         "CHS": "织诗成锦",
+        "CHT": "織詩成錦",
         "DE": "Reimemacher",
         "EN": "Weaver of Verses",
         "ES": "Tejedor de versos",
@@ -1585,6 +1684,7 @@
     },
     "3998346513": {
         "CHS": "孤舟斩蛟",
+        "CHT": "孤舟斬蛟",
         "DE": "Vernichter des Bösen",
         "EN": "Evilsoother",
         "ES": "Pacificador del mal",
@@ -1601,6 +1701,7 @@
     },
     "2024007257": {
         "CHS": "雨深闭门",
+        "CHT": "雨深閉門",
         "DE": "Tanz im Regen",
         "EN": "Embrace of Rain",
         "ES": "Baile bajo la lluvia",
@@ -1617,6 +1718,7 @@
     },
     "4055521313": {
         "CHS": "万文集此",
+        "CHT": "萬文集此",
         "DE": "Gesammelte Werke",
         "EN": "Hence, Call Them My Own Verses",
         "ES": "Colección de poesía",
@@ -1633,6 +1735,7 @@
     },
     "3656758641": {
         "CHS": "坏劫·毁坏三界",
+        "CHT": "壞劫·毀壞三界",
         "DE": "Untergang – Zerstörung der Welten",
         "EN": "Dissolution Eon: Destroyer of Worlds",
         "ES": "Desintegración: Destructor de mundos",
@@ -1649,6 +1752,7 @@
     },
     "1959296641": {
         "CHS": "空劫·虚空华开敷变",
+        "CHT": "空劫·虛空華開敷變",
         "DE": "Vernichtung – Ausweitung der Leere",
         "EN": "Annihilation Eon: Blossom of Kaleidos",
         "ES": "Aniquilación: Flor de Kaleidos",
@@ -1665,6 +1769,7 @@
     },
     "2385509657": {
         "CHS": "降魔·忿怒显相",
+        "CHT": "降魔·忿怒顯相",
         "DE": "Eroberung – Ausdruck des Zorns",
         "EN": "Conqueror of Evil: Wrath Deity",
         "ES": "Conquista del mal: Deidad de la ira",
@@ -1681,6 +1786,7 @@
     },
     "3724086753": {
         "CHS": "神通·诸苦灭尽",
+        "CHT": "神通·諸苦滅盡",
         "DE": "Transzendenz – Auslöschung des Leids",
         "EN": "Transcension: Extinction of Suffering",
         "ES": "Trascendencia: Fin del sufrimiento",
@@ -1697,6 +1803,7 @@
     },
     "4032000625": {
         "CHS": "成劫·无明增长",
+        "CHT": "成劫·無明增長",
         "DE": "Evolution – Ausbreitung der Unwissenheit",
         "EN": "Evolution Eon: Origin of Ignorance",
         "ES": "Evolución: Origen de la ignorancia",
@@ -1713,6 +1820,7 @@
     },
     "998328113": {
         "CHS": "降魔·护法夜叉",
+        "CHT": "降魔·護法夜叉",
         "DE": "Eroberung – Schutz des Yaksha",
         "EN": "Conqueror of Evil: Guardian Yaksha",
         "ES": "Conquista del mal: Guardián Yaksha",
@@ -1729,6 +1837,7 @@
     },
     "2798083633": {
         "CHS": "悬星尽散击云碎",
+        "CHT": "懸星盡散擊雲碎",
         "DE": "Berstende Splitter",
         "EN": "Piercing Fragments",
         "ES": "Fragmentos perforadores",
@@ -1745,6 +1854,7 @@
     },
     "3383823929": {
         "CHS": "璇玑合璧镇昆仑",
+        "CHT": "璇璣合璧鎮昆侖",
         "DE": "Erschütterung",
         "EN": "Shock Effect",
         "ES": "Efecto choque",
@@ -1761,6 +1871,7 @@
     },
     "2150334649": {
         "CHS": "星罗宿列天权临",
+        "CHT": "星羅宿列天權臨",
         "DE": "Anordnung der Sterne",
         "EN": "Majesty Be the Array of Stars",
         "ES": "Su Majestad, el Equilibrio Celestial",
@@ -1777,6 +1888,7 @@
     },
     "900430793": {
         "CHS": "攻守易形著神机",
+        "CHT": "攻守易形著神機",
         "DE": "Verteidigungsformation",
         "EN": "Exquisite be the Jade, Outshining All Beneath",
         "ES": "Excelente sea el jade, que eclipsa todo a sus pies",
@@ -1793,6 +1905,7 @@
     },
     "276636521": {
         "CHS": "琼屏千扇正天衡",
+        "CHT": "瓊屏千扇正天衡",
         "DE": "Majestätischer Jadeschirm",
         "EN": "Invincible Be the Jade Screen",
         "ES": "Invencible sea la pantalla de jade",
@@ -1809,6 +1922,7 @@
     },
     "637125593": {
         "CHS": "七星璨璨凝流光",
+        "CHT": "七星璨璨凝流光",
         "DE": "Leuchten der Sieben Sterne",
         "EN": "Grandeur Be the Seven Stars",
         "ES": "Grandiosas sean las Siete Estrellas",
@@ -1825,6 +1939,7 @@
     },
     "600240137": {
         "CHS": "连环轰隆",
+        "CHT": "連環轟隆",
         "DE": "Kettenreaktion",
         "EN": "Chained Reactions",
         "ES": "Explosión en cadena",
@@ -1841,6 +1956,7 @@
     },
     "328772169": {
         "CHS": "破破弹片",
+        "CHT": "破破彈片",
         "DE": "Splitterbombe",
         "EN": "Explosive Frags",
         "ES": "Fragmentos de metralla",
@@ -1857,6 +1973,7 @@
     },
     "1369435161": {
         "CHS": "可莉特调",
+        "CHT": "可莉特調",
         "DE": "Klees Sonderanfertigung",
         "EN": "Exquisite Compound",
         "ES": "Mezcla especial de Klee",
@@ -1873,6 +1990,7 @@
     },
     "1327047857": {
         "CHS": "一触即发",
+        "CHT": "一觸即發",
         "DE": "Manuelle Explosion",
         "EN": "Sparkly Explosion",
         "ES": "¡Bomba va!",
@@ -1889,6 +2007,7 @@
     },
     "3317796233": {
         "CHS": "轰击之星",
+        "CHT": "轟擊之星",
         "DE": "Explodierender Stern",
         "EN": "Nova Burst",
         "ES": "Estrella de los bombardeos",
@@ -1905,6 +2024,7 @@
     },
     "1554210529": {
         "CHS": "火力全开",
+        "CHT": "火力全開",
         "DE": "Feuer frei!",
         "EN": "Blazing Delight",
         "ES": "¡Klee a la carga!",
@@ -1921,6 +2041,7 @@
     },
     "3111572937": {
         "CHS": "岩者，六合引之为骨",
+        "CHT": "岩者，六合引之為骨",
         "DE": "Skelett der Erde",
         "EN": "Rock, the Backbone of Earth",
         "ES": "Roca, el núcleo de la tierra",
@@ -1937,6 +2058,7 @@
     },
     "519733529": {
         "CHS": "石者，八荒韫玉而明",
+        "CHT": "石者，八荒韞玉而明",
         "DE": "Heimat der Jade",
         "EN": "Stone, the Cradle of Jade",
         "ES": "Piedra, el origen del jade",
@@ -1953,6 +2075,7 @@
     },
     "1427308897": {
         "CHS": "圭璋，暝仍不移其晖",
+        "CHT": "圭璋，暝仍不移其暉",
         "DE": "Funkelnd und doch dunkel",
         "EN": "Jade, Shimmering through Darkness",
         "ES": "Jade, el brillo del crepúsculo",
@@ -1969,6 +2092,7 @@
     },
     "583045657": {
         "CHS": "黄琮，破而不夺其坚",
+        "CHT": "黃琮，破而不奪其堅",
         "DE": "Gebrochen und doch hart",
         "EN": "Topaz, Unbreakable and Fearless",
         "ES": "Topacio, indestructible e intrépido",
@@ -1985,6 +2109,7 @@
     },
     "3586646841": {
         "CHS": "苍璧，驱之长昭天理",
+        "CHT": "蒼璧，驅之長昭天理",
         "DE": "Verkünder der Ordnung",
         "EN": "Lazuli, Herald of the Order",
         "ES": "Lapislázuli, el heraldo del orden",
@@ -2001,6 +2126,7 @@
     },
     "2555647321": {
         "CHS": "金玉，礼予天地四方",
+        "CHT": "金玉，禮予天地四方",
         "DE": "Geschenk des Bodens",
         "EN": "Chrysos, Bounty of Dominator",
         "ES": "Chrysos, la generosidad del dominador",
@@ -2017,6 +2143,7 @@
     },
     "5726609": {
         "CHS": "幽邃鸦眼",
+        "CHT": "幽邃鴉眼",
         "DE": "Blick aus der Finsternis",
         "EN": "Gaze of the Deep",
         "ES": "Ojo de cuervo penetrante",
@@ -2033,6 +2160,7 @@
     },
     "899523649": {
         "CHS": "圣裁影羽",
+        "CHT": "聖裁影羽",
         "DE": "Federn der Vollstreckung",
         "EN": "Devourer of All Sins",
         "ES": "Devorador de pecados",
@@ -2049,6 +2177,7 @@
     },
     "1999125225": {
         "CHS": "渊色黑翼",
+        "CHT": "淵色黑翼",
         "DE": "Tiefschwarze Flügel",
         "EN": "Wings of Nightmare",
         "ES": "Alas sombrías",
@@ -2065,6 +2194,7 @@
     },
     "469910073": {
         "CHS": "皇女幻绮谭",
+        "CHT": "皇女幻綺譚",
         "DE": "Fantastereien der Prinzessin",
         "EN": "Her Pilgrimage of Bleak",
         "ES": "Fantasía de la princesa",
@@ -2081,6 +2211,7 @@
     },
     "3322353681": {
         "CHS": "至夜默示录",
+        "CHT": "至夜默示錄",
         "DE": "Offenbarung der Nacht",
         "EN": "Against the Fleeing Light",
         "ES": "Noche silenciosa",
@@ -2097,6 +2228,7 @@
     },
     "2314026161": {
         "CHS": "永夜之禽",
+        "CHT": "永夜之禽",
         "DE": "Vogel der ewigen Nacht",
         "EN": "Evernight Raven",
         "ES": "Ave de la Noche Eterna",
@@ -2113,6 +2245,7 @@
     },
     "804447537": {
         "CHS": "冒险憧憬",
+        "CHT": "冒險憧憬",
         "DE": "Lust auf Abenteuer",
         "EN": "Grand Expectation",
         "ES": "Visión de aventura",
@@ -2129,6 +2262,7 @@
     },
     "2431201553": {
         "CHS": "踏破绝境",
+        "CHT": "踏破絕境",
         "DE": "Flucht aus der Trostlosigkeit",
         "EN": "Impasse Conqueror",
         "ES": "Huida desesperada",
@@ -2145,6 +2279,7 @@
     },
     "698148913": {
         "CHS": "火热激情",
+        "CHT": "火熱激情",
         "DE": "Inbrunst",
         "EN": "Unstoppable Fervor",
         "ES": "Pasión ardiente",
@@ -2161,6 +2296,7 @@
     },
     "3306938097": {
         "CHS": "热情不灭",
+        "CHT": "熱情不滅",
         "DE": "Unerschütterlichkeit",
         "EN": "Unexpected Odyssey",
         "ES": "Calidez inagotable",
@@ -2177,6 +2313,7 @@
     },
     "2443947665": {
         "CHS": "开拓的心魂",
+        "CHT": "開拓的心魂",
         "DE": "Entdeckergeist",
         "EN": "True Explorer",
         "ES": "Explorador verdadero",
@@ -2193,6 +2330,7 @@
     },
     "3326774305": {
         "CHS": "烈火与勇气",
+        "CHT": "烈火與勇氣",
         "DE": "Feuer in meiner Brust",
         "EN": "Fire Ventures With Me",
         "ES": "Fuego y coraje",
@@ -2209,6 +2347,7 @@
     },
     "1777276769": {
         "CHS": "魔王武装·遏浪",
+        "CHT": "魔王武裝·遏浪",
         "DE": "Dämonengewand – Wellenbrecher",
         "EN": "Foul Legacy: Tide Withholder",
         "ES": "Legado del mal: Retención de la marea",
@@ -2225,6 +2364,7 @@
     },
     "3821979753": {
         "CHS": "魔王武装·暗流",
+        "CHT": "魔王武裝·暗流",
         "DE": "Dämonengewand – Unterströmung",
         "EN": "Foul Legacy: Understream",
         "ES": "Legado del mal: Trasfondo",
@@ -2241,6 +2381,7 @@
     },
     "1562607913": {
         "CHS": "深渊之灾·纷争涡源",
+        "CHT": "深淵之災·紛爭渦源",
         "DE": "Katastrophe des Abgrunds – Strudel der Zwietracht",
         "EN": "Abyssal Mayhem: Vortex of Turmoil",
         "ES": "Calamidad del Abismo: Fuente del conflicto",
@@ -2257,6 +2398,7 @@
     },
     "3252659577": {
         "CHS": "深渊之灾·凝水盛放",
+        "CHT": "深淵之災·凝水盛放",
         "DE": "Katastrophe des Abgrunds – Sprudelndes Wasser",
         "EN": "Abyssal Mayhem: Hydrospout",
         "ES": "Calamidad del Abismo: Hidrocontención",
@@ -2273,6 +2415,7 @@
     },
     "1429851537": {
         "CHS": "极恶技·斩水斩雨",
+        "CHT": "極惡技·斬水斬雨",
         "DE": "Spezialangriff – Regenschlächter",
         "EN": "Havoc: Formless Blade",
         "ES": "Caos: Corte líquido",
@@ -2289,6 +2432,7 @@
     },
     "1479737849": {
         "CHS": "极恶技·天使灭尽",
+        "CHT": "極惡技·天使滅盡",
         "DE": "Spezialangriff – Komplette Auslöschung",
         "EN": "Havoc: Annihilation",
         "ES": "Caos: Extinción del ángel",
@@ -2305,6 +2449,7 @@
     },
     "3743570273": {
         "CHS": "支援就交给我吧",
+        "CHT": "支援就交給我吧",
         "DE": "Fürsorgliche Unterstützung",
         "EN": "I Got Your Back",
         "ES": "Yo te cubro",
@@ -2321,6 +2466,7 @@
     },
     "680992073": {
         "CHS": "旋风女仆",
+        "CHT": "旋風女僕",
         "DE": "Wirbelnde Magd",
         "EN": "Combat Maid",
         "ES": "Torbellino de la criada",
@@ -2337,6 +2483,7 @@
     },
     "4141797449": {
         "CHS": "女仆不会受伤",
+        "CHT": "女僕不會受傷",
         "DE": "Unverletzliche Magd",
         "EN": "Invulnerable Maid",
         "ES": "Sin un rasguño",
@@ -2353,6 +2500,7 @@
     },
     "50520097": {
         "CHS": "之后会扫干净的",
+        "CHT": "之後會掃乾淨的",
         "DE": "Zur Säuberung vorgesehen",
         "EN": "To Be Cleaned",
         "ES": "Limpieza obligada",
@@ -2369,6 +2517,7 @@
     },
     "976069081": {
         "CHS": "骑士团扫除专家",
+        "CHT": "騎士團掃除專家",
         "DE": "Säuberungsexpertin des Ordens",
         "EN": "Favonius Sweeper Master",
         "ES": "Experta en limpieza",
@@ -2385,6 +2534,7 @@
     },
     "79084353": {
         "CHS": "要一尘不染才行",
+        "CHT": "要一塵不染才行",
         "DE": "Putzfimmel",
         "EN": "Must Be Spotless",
         "ES": "Debe quedar impoluto",
@@ -2401,6 +2551,7 @@
     },
     "3894833521": {
         "CHS": "寒苦回向",
+        "CHT": "寒苦迴向",
         "DE": "Winterliche Ernte",
         "EN": "Ascetics of Frost",
         "ES": "Ascetismo de la escarcha",
@@ -2417,6 +2568,7 @@
     },
     "388179873": {
         "CHS": "冰寒蚀骨",
+        "CHT": "冰寒蝕骨",
         "DE": "Fröstelnde Glieder",
         "EN": "Frozen to the Bone",
         "ES": "Frío polar",
@@ -2433,6 +2585,7 @@
     },
     "1454042537": {
         "CHS": "升天宝诰",
+        "CHT": "升天寶誥",
         "DE": "Lobpreisung des Himmels",
         "EN": "Ascendant Praise",
         "ES": "Mandato celestial",
@@ -2449,6 +2602,7 @@
     },
     "3785958321": {
         "CHS": "天威压众",
+        "CHT": "天威壓眾",
         "DE": "Stärke des Himmels",
         "EN": "Divine Suppression",
         "ES": "Supresión divina",
@@ -2465,6 +2619,7 @@
     },
     "243639329": {
         "CHS": "红莲开绽",
+        "CHT": "紅蓮開綻",
         "DE": "Blüte des roten Lotos",
         "EN": "Crimson Lotus Bloom",
         "ES": "Flor de loto carmesí",
@@ -2481,6 +2636,7 @@
     },
     "1456237985": {
         "CHS": "起死回骸",
+        "CHT": "起死回骸",
         "DE": "Auferstehung",
         "EN": "Rite of Resurrection",
         "ES": "Rito de la resurrección",
@@ -2497,6 +2653,7 @@
     },
     "1859111849": {
         "CHS": "释凌咏冰",
+        "CHT": "釋凌詠冰",
         "DE": "Gesang der Eiszapfen",
         "EN": "Ice Unleashed",
         "ES": "Ventisca desatada",
@@ -2513,6 +2670,7 @@
     },
     "1016771721": {
         "CHS": "周天运转",
+        "CHT": "周天運轉",
         "DE": "Bewegungen des Sternenzelts",
         "EN": "Atmospheric Revolution",
         "ES": "Revolución atmosférica",
@@ -2529,6 +2687,7 @@
     },
     "294514897": {
         "CHS": "云尽光生",
+        "CHT": "雲盡光生",
         "DE": "Aufklaren des Himmels",
         "EN": "Cloudburst",
         "ES": "Cirro-explosión",
@@ -2545,6 +2704,7 @@
     },
     "1282888193": {
         "CHS": "浮云霜天",
+        "CHT": "浮雲霜天",
         "DE": "Gefrorene Wolken",
         "EN": "Frozen Skies",
         "ES": "Cielos congelados",
@@ -2561,6 +2721,7 @@
     },
     "1493556457": {
         "CHS": "真道正理",
+        "CHT": "真道正理",
         "DE": "Die eine Wahrheit",
         "EN": "The True Path",
         "ES": "El verdadero camino",
@@ -2577,6 +2738,7 @@
     },
     "3391919345": {
         "CHS": "四灵捧圣",
+        "CHT": "四靈捧聖",
         "DE": "Gepriesene Seelen",
         "EN": "Rally of Four Blades",
         "ES": "Ofrenda de los Cuatro Espíritus",
@@ -2593,6 +2755,7 @@
     },
     "2361723385": {
         "CHS": "饮露",
+        "CHT": "飲露",
         "DE": "Geschmack des Taus",
         "EN": "Dew-Drinker",
         "ES": "Bebedora de rocío",
@@ -2609,6 +2772,7 @@
     },
     "1383329801": {
         "CHS": "获麟",
+        "CHT": "獲麟",
         "DE": "Qilin-Jagd",
         "EN": "The Auspicious",
         "ES": "La auspiciosa",
@@ -2625,6 +2789,7 @@
     },
     "3222345473": {
         "CHS": "云行",
+        "CHT": "雲行",
         "DE": "Ziehende Wolken",
         "EN": "Cloud-Strider",
         "ES": "Jinete de las nubes",
@@ -2641,6 +2806,7 @@
     },
     "3290499593": {
         "CHS": "西狩",
+        "CHT": "西狩",
         "DE": "Aufbruch gen Westen",
         "EN": "Westward Sojourn",
         "ES": "Viaje al Oeste",
@@ -2657,6 +2823,7 @@
     },
     "1752707929": {
         "CHS": "折草",
+        "CHT": "折草",
         "DE": "Rasenstutzer",
         "EN": "The Merciful",
         "ES": "La misericordiosa",
@@ -2673,6 +2840,7 @@
     },
     "37217545": {
         "CHS": "履虫",
+        "CHT": "履蟲",
         "DE": "Nachsicht",
         "EN": "The Clement",
         "ES": "La clemente",
@@ -2689,6 +2857,7 @@
     },
     "4171208737": {
         "CHS": "伊甸之花",
+        "CHT": "伊甸之花",
         "DE": "Blume von Eden",
         "EN": "Flower of Eden",
         "ES": "Flor del Edén",
@@ -2705,6 +2874,7 @@
     },
     "151370681": {
         "CHS": "显生之宙",
+        "CHT": "顯生之宙",
         "DE": "Zeit des Lebens",
         "EN": "Opening of Phanerozoic",
         "ES": "Eón Fanerozoico",
@@ -2721,6 +2891,7 @@
     },
     "625211161": {
         "CHS": "太阳之华",
+        "CHT": "太陽之華",
         "DE": "Sonnenkranz",
         "EN": "Grace of Helios",
         "ES": "Gracia de Helios",
@@ -2737,6 +2908,7 @@
     },
     "1728244745": {
         "CHS": "神性之陨",
+        "CHT": "神性之隕",
         "DE": "Gefallene Gottheit",
         "EN": "Descent of Divinity",
         "ES": "Caída divina",
@@ -2753,6 +2925,7 @@
     },
     "3896567129": {
         "CHS": "冥古之潮",
+        "CHT": "冥古之潮",
         "DE": "Gezeiten der Unterwelt",
         "EN": "Tide of Hadean",
         "ES": "Marea del Hádico",
@@ -2769,6 +2942,7 @@
     },
     "3605875457": {
         "CHS": "无垢之土",
+        "CHT": "無垢之土",
         "DE": "Reine Erde",
         "EN": "Dust of Purification",
         "ES": "Tierra purificadora",
@@ -2785,6 +2959,7 @@
     },
     "2653503505": {
         "CHS": "特调的余韵",
+        "CHT": "特調的餘韻",
         "DE": "Empfehlung des Hauses",
         "EN": "A Lingering Flavor",
         "ES": "Cóctel de la casa",
@@ -2801,6 +2976,7 @@
     },
     "3233494081": {
         "CHS": "猫爪冰摇",
+        "CHT": "貓爪冰搖",
         "DE": "Eiskalte Pfoten",
         "EN": "Shaken, Not Purred",
         "ES": "Ronroneo glacial",
@@ -2817,6 +2993,7 @@
     },
     "1153113417": {
         "CHS": "还、还要续杯？",
+        "CHT": "還、還要續杯？",
         "DE": "Einer geht noch!",
         "EN": "A—Another Round?",
         "ES": "¿O-otra copa más?",
@@ -2833,6 +3010,7 @@
     },
     "389925129": {
         "CHS": "「酒业杀手」",
+        "CHT": "「酒業殺手」",
         "DE": "„Schrecken der Getränkewirtschaft“",
         "EN": "Wine Industry Slayer",
         "ES": "Asesina de la industria vitivinícola",
@@ -2849,6 +3027,7 @@
     },
     "2582391273": {
         "CHS": "双份加冰",
+        "CHT": "雙份加冰",
         "DE": "Doppelt auf Eis",
         "EN": "Double Shot, on the Rocks",
         "ES": "¡Doble de hielo!",
@@ -2865,6 +3044,7 @@
     },
     "3637405321": {
         "CHS": "猫尾打烊之时",
+        "CHT": "貓尾打烊之時",
         "DE": "Vorzeitiger Feierabend",
         "EN": "Cat's Tail Closing Time",
         "ES": "Hora de cerrar",
@@ -2881,6 +3061,7 @@
     },
     "3262519193": {
         "CHS": "沉没的预言",
+        "CHT": "沉沒的預言",
         "DE": "Prophezeiung des Untergangs",
         "EN": "Prophecy of Submersion",
         "ES": "Profecía de sumersión",
@@ -2897,6 +3078,7 @@
     },
     "3030801713": {
         "CHS": "星月的连珠",
+        "CHT": "星月的連珠",
         "DE": "Sternenkette",
         "EN": "Lunar Chain",
         "ES": "Cadena lunar",
@@ -2913,6 +3095,7 @@
     },
     "3782923609": {
         "CHS": "不休的天象",
+        "CHT": "不休的天象",
         "DE": "Im ewigen Umlauf",
         "EN": "Restless Revolution",
         "ES": "Revolución incesante",
@@ -2929,6 +3112,7 @@
     },
     "488631345": {
         "CHS": "灭绝的预言",
+        "CHT": "滅絕的預言",
         "DE": "Prophezeiung der Ausrottung",
         "EN": "Prophecy of Oblivion",
         "ES": "Profecía del fin",
@@ -2945,6 +3129,7 @@
     },
     "496658001": {
         "CHS": "命运的嘲弄",
+        "CHT": "命運的嘲弄",
         "DE": "Verspottung des Schicksals",
         "EN": "Mockery of Fortuna",
         "ES": "Burla del destino",
@@ -2961,6 +3146,7 @@
     },
     "300946497": {
         "CHS": "厄运的修辞",
+        "CHT": "厄運的修辭",
         "DE": "Rhetorik des Unglücks",
         "EN": "Rhetorics of Calamitas",
         "ES": "Retórica de la calamidad",
@@ -2977,6 +3163,7 @@
     },
     "3733936569": {
         "CHS": "雷厉",
+        "CHT": "雷厲",
         "DE": "Donnernde Gewalt",
         "EN": "Thundering Might",
         "ES": "Fuerza atronadora",
@@ -2993,6 +3180,7 @@
     },
     "1003272937": {
         "CHS": "苛捐",
+        "CHT": "苛捐",
         "DE": "Steuererhöhung",
         "EN": "Keen Extraction",
         "ES": "Impuestos desorbitantes",
@@ -3009,6 +3197,7 @@
     },
     "1005679025": {
         "CHS": "登楼",
+        "CHT": "登樓",
         "DE": "Turmbesteigung",
         "EN": "Foreseen Reformation",
         "ES": "Reforma anticipada",
@@ -3025,6 +3214,7 @@
     },
     "2598965033": {
         "CHS": "调律",
+        "CHT": "調律",
         "DE": "Abstimmung",
         "EN": "Attunement",
         "ES": "Sintonización",
@@ -3041,6 +3231,7 @@
     },
     "1939891865": {
         "CHS": "移灯",
+        "CHT": "移燈",
         "DE": "Treibende Lichter",
         "EN": "Beckoning Stars",
         "ES": "Luces viajeras",
@@ -3057,6 +3248,7 @@
     },
     "547902305": {
         "CHS": "廉贞",
+        "CHT": "廉貞",
         "DE": "Störrischer Stern",
         "EN": "Tenacious Star",
         "ES": "Estrella tenaz",
@@ -3073,6 +3265,7 @@
     },
     "1387979801": {
         "CHS": "堆叠真空域",
+        "CHT": "堆疊真空域",
         "DE": "Gebündeltes Vakuumfeld",
         "EN": "Clustered Vacuum Field",
         "ES": "Cúmulo de campo de vacío",
@@ -3089,6 +3282,7 @@
     },
     "412718689": {
         "CHS": "不羁型贝特",
+        "CHT": "不羈型貝特",
         "DE": "Beth – Ungezügelt",
         "EN": "Beth: Unbound Form",
         "ES": "Bet: Forma no consolidada",
@@ -3105,6 +3299,7 @@
     },
     "3504453161": {
         "CHS": "零失误少女",
+        "CHT": "零失誤少女",
         "DE": "Bestnote",
         "EN": "Flawless Alchemistress",
         "ES": "Alquimista infalible",
@@ -3121,6 +3316,7 @@
     },
     "2203237409": {
         "CHS": "炼金的偏执",
+        "CHT": "煉金的偏執",
         "DE": "Besessenheit",
         "EN": "Alchemania",
         "ES": "Alquemanía",
@@ -3137,6 +3333,7 @@
     },
     "1605290329": {
         "CHS": "认真普通瓶",
+        "CHT": "認真普通瓶",
         "DE": "Gewissenhaftes Handwerk",
         "EN": "Caution: Standard Flask",
         "ES": "Precaución: Frasco ordinario",
@@ -3153,6 +3350,7 @@
     },
     "344305449": {
         "CHS": "混元熵增论",
+        "CHT": "混元熵增論",
         "DE": "Chaotische Entropie",
         "EN": "Chaotic Entropy",
         "ES": "Entropía caótica",
@@ -3169,6 +3367,7 @@
     },
     "3068951001": {
         "CHS": "绝命的加速",
+        "CHT": "絕命的加速",
         "DE": "Tödliche Beschleunigung",
         "EN": "Fatal Acceleration",
         "ES": "Aceleración letal",
@@ -3185,6 +3384,7 @@
     },
     "2247567929": {
         "CHS": "开场即兴段",
+        "CHT": "開場即興段",
         "DE": "Explosive Stimmung",
         "EN": "Impromptu Opening",
         "ES": "Comienzo improvisado",
@@ -3201,6 +3401,7 @@
     },
     "3545262929": {
         "CHS": "摭分的指法",
+        "CHT": "摭分的指法",
         "DE": "Doppelgriff",
         "EN": "Double-Stop",
         "ES": "Dobles cuerdas",
@@ -3217,6 +3418,7 @@
     },
     "3472180281": {
         "CHS": "节奏的传染",
+        "CHT": "節奏的傳染",
         "DE": "Ansteckender Rhythmus",
         "EN": "Wildfire Rhythm",
         "ES": "Ritmo contagioso",
@@ -3233,6 +3435,7 @@
     },
     "3343552585": {
         "CHS": "返场的高呼",
+        "CHT": "安可的高呼",
         "DE": "Euphorisches Publikum",
         "EN": "Screamin' for an Encore",
         "ES": "¡Otra canción!",
@@ -3249,6 +3452,7 @@
     },
     "2632855681": {
         "CHS": "地狱里摇摆",
+        "CHT": "地獄裡搖擺",
         "DE": "Tanz in der Hölle",
         "EN": "Rockin' in a Flaming World",
         "ES": "Rockeando en el infierno",
@@ -3265,6 +3469,7 @@
     },
     "1747862233": {
         "CHS": "罪之导引",
+        "CHT": "罪之導引",
         "DE": "Lenkung der Sünden",
         "EN": "Unholy Revelation",
         "ES": "Guía de los pecadores",
@@ -3281,6 +3486,7 @@
     },
     "3870318265": {
         "CHS": "无福之地",
+        "CHT": "無福之地",
         "DE": "Land des Unheils",
         "EN": "Land Without Promise",
         "ES": "Tierra de los herejes",
@@ -3297,6 +3503,7 @@
     },
     "3057954913": {
         "CHS": "告解之仪",
+        "CHT": "告解之儀",
         "DE": "Beichtritual",
         "EN": "The Wages of Sin",
         "ES": "Sacramento de la penitencia",
@@ -3313,6 +3520,7 @@
     },
     "1072343465": {
         "CHS": "苦痛恩典",
+        "CHT": "苦痛恩典",
         "DE": "Bittere Gnade",
         "EN": "Painful Grace",
         "ES": "Consagración del sufrimiento",
@@ -3329,6 +3537,7 @@
     },
     "1802655737": {
         "CHS": "临终祈礼",
+        "CHT": "臨終祈禮",
         "DE": "Letztes Gebet",
         "EN": "Last Rites",
         "ES": "Oración final",
@@ -3345,6 +3554,7 @@
     },
     "3739872265": {
         "CHS": "代行裁判",
+        "CHT": "代行裁判",
         "DE": "Im Namen der Götter",
         "EN": "Divine Retribution",
         "ES": "Juicio divino",
@@ -3361,6 +3571,7 @@
     },
     "2081199193": {
         "CHS": "赤团开时斜飞去",
+        "CHT": "赤團開時斜飛去",
         "DE": "Roter Flug",
         "EN": "Crimson Bouquet",
         "ES": "Florecimiento carmesí",
@@ -3377,6 +3588,7 @@
     },
     "1768747369": {
         "CHS": "最不安神晴又复雨",
+        "CHT": "最不安神晴又復雨",
         "DE": "Wetterwechsel",
         "EN": "Ominous Rainfall",
         "ES": "Mal presagio",
@@ -3393,6 +3605,7 @@
     },
     "3111083697": {
         "CHS": "逗留采血色",
+        "CHT": "逗留採血色",
         "DE": "Aderlass",
         "EN": "Lingering Carmine",
         "ES": "Persistencia escarlata",
@@ -3409,6 +3622,7 @@
     },
     "4276933609": {
         "CHS": "伴君眠花房",
+        "CHT": "伴君眠花房",
         "DE": "Bettung zur ewigen Ruhe",
         "EN": "Garden of Eternal Rest",
         "ES": "Jardín del reposo eterno",
@@ -3425,6 +3639,7 @@
     },
     "658527361": {
         "CHS": "无可奈何燃花作香",
+        "CHT": "無可奈何燃花作香",
         "DE": "Blumenräucherwerk",
         "EN": "Floral Incense",
         "ES": "Ofrenda de incienso",
@@ -3441,6 +3656,7 @@
     },
     "2361886209": {
         "CHS": "幽蝶能留一缕芳",
+        "CHT": "幽蝶能留一縷芳",
         "DE": "Schmetterlingsduft",
         "EN": "Butterfly's Embrace",
         "ES": "Último suspiro",
@@ -3457,6 +3673,7 @@
     },
     "2040563073": {
         "CHS": "千山红遍",
+        "CHT": "千山紅遍",
         "DE": "Rot bedeckte Hügel",
         "EN": "Scarlet Hills",
         "ES": "Rubor de las montañas",
@@ -3473,6 +3690,7 @@
     },
     "7765353": {
         "CHS": "山岚残芯",
+        "CHT": "山嵐殘芯",
         "DE": "Yamaarashi-Rückenwind",
         "EN": "Yamaarashi Tailwind",
         "ES": "Viento en las colinas",
@@ -3489,6 +3707,7 @@
     },
     "2202533753": {
         "CHS": "枫袖奇谭",
+        "CHT": "楓袖奇譚",
         "DE": "Ahorn-Monogatari",
         "EN": "Maple Monogatari",
         "ES": "Leyenda de los arces",
@@ -3505,6 +3724,7 @@
     },
     "2888381665": {
         "CHS": "大空幻法",
+        "CHT": "大空幻法",
         "DE": "Oozora Genpou",
         "EN": "Oozora Genpou",
         "ES": "Ilusión de la nada",
@@ -3521,6 +3741,7 @@
     },
     "4207271041": {
         "CHS": "万世之集",
+        "CHT": "萬世之集",
         "DE": "Weisheit von Bansei",
         "EN": "Wisdom of Bansei",
         "ES": "Sabiduría eterna",
@@ -3537,6 +3758,7 @@
     },
     "234189249": {
         "CHS": "血赤叶红",
+        "CHT": "血赤葉紅",
         "DE": "Momiji-Jagd",
         "EN": "Crimson Momiji",
         "ES": "Hojas escarlata",
@@ -3553,6 +3775,7 @@
     },
     "690499809": {
         "CHS": "占理不饶人",
+        "CHT": "佔理不饒人",
         "DE": "Rechthaberei",
         "EN": "The Law Knows No Kindness",
         "ES": "Insisto, Señoría",
@@ -3569,6 +3792,7 @@
     },
     "886053825": {
         "CHS": "最终解释权",
+        "CHT": "最終解釋權",
         "DE": "Endgültige Auslegung vorbehalten",
         "EN": "Right of Final Interpretation",
         "ES": "Derecho de interpretación final",
@@ -3585,6 +3809,7 @@
     },
     "168010785": {
         "CHS": "真火炼宝印",
+        "CHT": "真火煉寶印",
         "DE": "Siegel in lodernder Flamme",
         "EN": "Samadhi Fire-Forged",
         "ES": "Sello pírico del samadhi",
@@ -3601,6 +3826,7 @@
     },
     "2878639121": {
         "CHS": "丹书金铁券",
+        "CHT": "丹書金鐵券",
         "DE": "Eiserner Pakt",
         "EN": "Supreme Amnesty",
         "ES": "Absolución",
@@ -3617,6 +3843,7 @@
     },
     "3698266505": {
         "CHS": "遵法切结书",
+        "CHT": "遵法切結書",
         "DE": "Eidesstattliche Versicherung",
         "EN": "Abiding Affidavit",
         "ES": "Declaración jurada",
@@ -3633,6 +3860,7 @@
     },
     "3677492353": {
         "CHS": "是额外条款",
+        "CHT": "是額外條款",
         "DE": "Extraklausel",
         "EN": "Extra Clause",
         "ES": "Cláusula adicional",
@@ -3649,6 +3877,7 @@
     },
     "106208137": {
         "CHS": "赤玉琉金",
+        "CHT": "赤玉琉金",
         "DE": "Ryuukin in Rot",
         "EN": "Agate Ryuukin",
         "ES": "Cornalina dorada",
@@ -3665,6 +3894,7 @@
     },
     "3836801473": {
         "CHS": "万灯送火",
+        "CHT": "萬燈送火",
         "DE": "Feuernder Umzug",
         "EN": "A Procession of Bonfires",
         "ES": "Procesión de las antorchas",
@@ -3681,6 +3911,7 @@
     },
     "3467544337": {
         "CHS": "鼠火戏法",
+        "CHT": "鼠火戲法",
         "DE": "Unruhiges Flackern",
         "EN": "Trickster's Flare",
         "ES": "Llama de la astucia",
@@ -3697,6 +3928,7 @@
     },
     "2352994657": {
         "CHS": "花火职人心得",
+        "CHT": "花火職人心得",
         "DE": "Versierte Pyrotechnik",
         "EN": "Pyrotechnic Professional",
         "ES": "Conocimiento pirotécnico",
@@ -3713,6 +3945,7 @@
     },
     "3785597649": {
         "CHS": "真夏宵祭锦绘",
+        "CHT": "真夏宵祭錦繪",
         "DE": "Sommerlicher Festabend",
         "EN": "A Summer Festival's Eve",
         "ES": "Noche del festival de verano",
@@ -3729,6 +3962,7 @@
     },
     "3248653433": {
         "CHS": "长野原龙势流星群",
+        "CHT": "長野原龍勢流星群",
         "DE": "Naganohara-Meteorstrom",
         "EN": "Naganohara Meteor Swarm",
         "ES": "Lluvia de meteoros Naganohara",
@@ -3745,6 +3979,7 @@
     },
     "288006665": {
         "CHS": "同袍的义理",
+        "CHT": "同袍的義理",
         "DE": "Kameradschaftliche Pflichten",
         "EN": "A Comrade's Duty",
         "ES": "El deber de un compañero",
@@ -3761,6 +3996,7 @@
     },
     "4132403369": {
         "CHS": "僚佐的才巧",
+        "CHT": "僚佐的才巧",
         "DE": "Beflissener Assistent",
         "EN": "A Subordinate's Skills",
         "ES": "Hábil sirviente",
@@ -3777,6 +4013,7 @@
     },
     "2578792073": {
         "CHS": "御敌的执定",
+        "CHT": "禦敵的執定",
         "DE": "Bestimmtheit vor dem Feind",
         "EN": "Fortified Resolve",
         "ES": "Voluntad protectora",
@@ -3793,6 +4030,7 @@
     },
     "1754888249": {
         "CHS": "用臣的久计",
+        "CHT": "用臣的久計",
         "DE": "Längerfristige Planung",
         "EN": "Long-Term Planning",
         "ES": "Plan de servicio",
@@ -3809,6 +4047,7 @@
     },
     "3609710361": {
         "CHS": "野火的豪烈",
+        "CHT": "野火的豪烈",
         "DE": "Weitreichende Flammen",
         "EN": "Raging Wildfire",
         "ES": "Fuego incontrolado",
@@ -3825,6 +4064,7 @@
     },
     "297689921": {
         "CHS": "炽烧的至心",
+        "CHT": "熾燒的至心",
         "DE": "Brennendes Herz",
         "EN": "Burning Heart",
         "ES": "Corazón fervoroso",
@@ -3841,6 +4081,7 @@
     },
     "1401913601": {
         "CHS": "光潮的幻象",
+        "CHT": "光潮的幻象",
         "DE": "Illusion der Lichtwelle",
         "EN": "Tidal Illusion",
         "ES": "Ilusión de la marea",
@@ -3857,6 +4098,7 @@
     },
     "4116602505": {
         "CHS": "海沫的少女",
+        "CHT": "海沫的少女",
         "DE": "Mädchen des Meeresschaums",
         "EN": "Lady of Seafoam",
         "ES": "Hija del mar",
@@ -3873,6 +4115,7 @@
     },
     "4017023737": {
         "CHS": "劳伦斯的血脉",
+        "CHT": "勞倫斯的血脈",
         "DE": "Blut des Lawrence-Klans",
         "EN": "Lawrence Pedigree",
         "ES": "Sangre Lawrence",
@@ -3889,6 +4132,7 @@
     },
     "260126841": {
         "CHS": "自卑者的逞强",
+        "CHT": "自卑者的逞強",
         "DE": "Kampf gegen Minderwertigkeitsgefühle",
         "EN": "The Obstinacy of One's Inferiors",
         "ES": "Obstinación de los plebeyos",
@@ -3905,6 +4149,7 @@
     },
     "3295716345": {
         "CHS": "骑士的素质",
+        "CHT": "騎士的素質",
         "DE": "Qualitäten eines Ritters",
         "EN": "Chivalric Quality",
         "ES": "Virtud de caballera",
@@ -3921,6 +4166,7 @@
     },
     "1963500825": {
         "CHS": "高贵者的义务",
+        "CHT": "高貴者的義務",
         "DE": "Pflichten der Adeligen",
         "EN": "Noble Obligation",
         "ES": "Deber aristocrático",
@@ -3937,6 +4183,7 @@
     },
     "1241899985": {
         "CHS": "恶曜卜词",
+        "CHT": "惡曜卜詞",
         "DE": "Unheilvolles Omen",
         "EN": "Ominous Inscription",
         "ES": "Inscripción ominosa",
@@ -3953,6 +4200,7 @@
     },
     "2594998721": {
         "CHS": "斩铁断金",
+        "CHT": "斬鐵斷金",
         "DE": "Stahlbrecherin",
         "EN": "Steelbreaker",
         "ES": "Asoladora del acero",
@@ -3969,6 +4217,7 @@
     },
     "250956849": {
         "CHS": "真影旧事",
+        "CHT": "真影舊事",
         "DE": "Shinkage-Geschichten",
         "EN": "Shinkage Bygones",
         "ES": "Reflejo del pasado",
@@ -3985,6 +4234,7 @@
     },
     "1996396257": {
         "CHS": "誓奉常道",
+        "CHT": "誓奉常道",
         "DE": "Gelöbnis des Anstands",
         "EN": "Pledge of Propriety",
         "ES": "Ofrenda de la eternidad",
@@ -4001,6 +4251,7 @@
     },
     "361792665": {
         "CHS": "凶将显形",
+        "CHT": "凶將顯形",
         "DE": "Erscheinen des Unheils",
         "EN": "Shogun's Descent",
         "ES": "Descenso de la Shogun",
@@ -4017,6 +4268,7 @@
     },
     "1600914409": {
         "CHS": "负愿前行",
+        "CHT": "負願前行",
         "DE": "Wunschträgerin",
         "EN": "Wishbearer",
         "ES": "Portadora de deseos",
@@ -4033,6 +4285,7 @@
     },
     "1959569841": {
         "CHS": "一心二用之术",
+        "CHT": "一心二用之術",
         "DE": "Konzentrationstechnik",
         "EN": "Multi-Task no Jutsu",
         "ES": "Técnica multitarea",
@@ -4049,6 +4302,7 @@
     },
     "2759348737": {
         "CHS": "理清逃跑路线",
+        "CHT": "理清逃跑路線",
         "DE": "Fluchtweg",
         "EN": "Egress Prep",
         "ES": "¡Fuera de mi camino!",
@@ -4065,6 +4319,7 @@
     },
     "1035025377": {
         "CHS": "都交给分身吧",
+        "CHT": "都交給分身吧",
         "DE": "Ein Fall für Doppelgänger",
         "EN": "Eh, the Bunshin Can Handle It",
         "ES": "Déjaselo al tejón",
@@ -4081,6 +4336,7 @@
     },
     "3582154129": {
         "CHS": "偷懒的新方法",
+        "CHT": "偷懶的新方法",
         "DE": "Profischwänzen",
         "EN": "Skiving: New and Improved",
         "ES": "Holgazanería innovadora",
@@ -4097,6 +4353,7 @@
     },
     "4066463977": {
         "CHS": "快是第一奥义",
+        "CHT": "快是第一奧義",
         "DE": "Schneller ist besser",
         "EN": "Speed Comes First",
         "ES": "La velocidad es lo primero",
@@ -4113,6 +4370,7 @@
     },
     "3913839841": {
         "CHS": "呼呼大睡时间",
+        "CHT": "呼呼大睡時間",
         "DE": "Schlafenszeit",
         "EN": "Sleep O'Clock",
         "ES": "Cinco minutos más...",
@@ -4129,6 +4387,7 @@
     },
     "693089601": {
         "CHS": "决水于溪",
+        "CHT": "決水於溪",
         "DE": "Am Rande des Flusses",
         "EN": "At Water's Edge",
         "ES": "Los límites del agua",
@@ -4145,6 +4404,7 @@
     },
     "3826006561": {
         "CHS": "波起云海",
+        "CHT": "波起雲海",
         "DE": "Wellen des Wolkenmeers",
         "EN": "The Clouds Like Waves Rippling",
         "ES": "Oleaje de nubes",
@@ -4161,6 +4421,7 @@
     },
     "2416690001": {
         "CHS": "海渚月舟",
+        "CHT": "海渚月舟",
         "DE": "Mondschiff auf den Meeren",
         "EN": "The Moon, A Ship O'er the Seas",
         "ES": "Luna del océano",
@@ -4177,6 +4438,7 @@
     },
     "1493731113": {
         "CHS": "月摄千川",
+        "CHT": "月攝千川",
         "DE": "Mond über den Strömen",
         "EN": "The Moon Overlooks the Waters",
         "ES": "Observadora de las aguas",
@@ -4193,6 +4455,7 @@
     },
     "2584265937": {
         "CHS": "百川集海",
+        "CHT": "百川集海",
         "DE": "Alle Ströme fließen ins Meer",
         "EN": "All Streams Flow to the Sea",
         "ES": "Convergencia hacia los mares",
@@ -4209,6 +4472,7 @@
     },
     "652576049": {
         "CHS": "珊瑚一心",
+        "CHT": "珊瑚一心",
         "DE": "Sango Isshin",
         "EN": "Sango Isshin",
         "ES": "Corazón del coral",
@@ -4225,6 +4489,7 @@
     },
     "674796161": {
         "CHS": "犬奔·疾如风",
+        "CHT": "犬奔·疾如風",
         "DE": "Laufender Hund – Schnell wie der Wind",
         "EN": "Rushing Hound: Swift as the Wind",
         "ES": "Velocidad de sabueso: Raudo como el viento",
@@ -4241,6 +4506,7 @@
     },
     "879885745": {
         "CHS": "犬坐·稳如钟",
+        "CHT": "犬坐·穩如鐘",
         "DE": "Sitzender Hund – Verlässlich wie eine Uhr",
         "EN": "Sitting Hound: Steady as a Clock",
         "ES": "Tranquilidad de sabueso: Firme como la roca",
@@ -4257,6 +4523,7 @@
     },
     "1718191057": {
         "CHS": "犬爪·势如火",
+        "CHT": "犬爪·勢如火",
         "DE": "Bellender Hund – Fauchend wie Feuer",
         "EN": "Mauling Hound: Fierce as Fire",
         "ES": "Zarpas de sabueso: Feroz como el fuego",
@@ -4273,6 +4540,7 @@
     },
     "3990139889": {
         "CHS": "犬舐·温如水",
+        "CHT": "犬舐·溫如水",
         "DE": "Schleckender Hund – Warm wie Wasser",
         "EN": "Lapping Hound: Warm as Water",
         "ES": "Lametón de sabueso: Cálido como el agua",
@@ -4289,6 +4557,7 @@
     },
     "1205827537": {
         "CHS": "犬突·动如雷",
+        "CHT": "犬突·動如雷",
         "DE": "Aufspringender Hund – Aufgebracht wie Donner",
         "EN": "Striking Hound: Thunderous Force",
         "ES": "Arremetida de sabueso: Potente como el rayo",
@@ -4305,6 +4574,7 @@
     },
     "3335516265": {
         "CHS": "犬勇·忠如山",
+        "CHT": "犬勇·忠如山",
         "DE": "Mutiger Hund – Treu wie Berg",
         "EN": "Valiant Hound: Mountainous Fealty",
         "ES": "Valentía de sabueso: Fiel como un perro",
@@ -4321,6 +4591,7 @@
     },
     "2730852953": {
         "CHS": "乌眼",
+        "CHT": "烏眼",
         "DE": "Krähenauge",
         "EN": "Crow's Eye",
         "ES": "Ojo corvino",
@@ -4337,6 +4608,7 @@
     },
     "828426713": {
         "CHS": "鸦羽",
+        "CHT": "鴉羽",
         "DE": "Schwarze Flügel",
         "EN": "Dark Wings",
         "ES": "Alas azabache",
@@ -4353,6 +4625,7 @@
     },
     "847916265": {
         "CHS": "心魔",
+        "CHT": "心魔",
         "DE": "Innerer Dämon",
         "EN": "The War Within",
         "ES": "Conflicto interno",
@@ -4369,6 +4642,7 @@
     },
     "4283074321": {
         "CHS": "彻证",
+        "CHT": "徹證",
         "DE": "Schlüssiger Beweis",
         "EN": "Conclusive Proof",
         "ES": "Prueba concluyente",
@@ -4385,6 +4659,7 @@
     },
     "747301089": {
         "CHS": "咒咏",
+        "CHT": "咒詠",
         "DE": "Beschwörungsgesang",
         "EN": "Spellsinger",
         "ES": "Canto maldito",
@@ -4401,6 +4676,7 @@
     },
     "165492609": {
         "CHS": "我界",
+        "CHT": "我界",
         "DE": "Sünde des Stolzes",
         "EN": "Sin of Pride",
         "ES": "Pecado del orgullo",
@@ -4417,6 +4693,7 @@
     },
     "1236864529": {
         "CHS": "倘若不知，我讲你听",
+        "CHT": "倘若不知，我講你聽",
         "DE": "Hör gut zu!",
         "EN": "Stay a While and Listen Up",
         "ES": "Calla y escucha",
@@ -4433,6 +4710,7 @@
     },
     "2007985425": {
         "CHS": "纠集众人，斗倒御岳",
+        "CHT": "糾集眾人，鬥倒御岳",
         "DE": "Sieh gut her!",
         "EN": "Gather 'Round, It's a Brawl!",
         "ES": "¡Todos contra todos!",
@@ -4449,6 +4727,7 @@
     },
     "4058778385": {
         "CHS": "水陆自在，牛王同行",
+        "CHT": "水陸自在，牛王同行",
         "DE": "Bulle im Anmarsch",
         "EN": "Horns Lowered, Coming Through",
         "ES": "¡El toro por los cuernos!",
@@ -4465,6 +4744,7 @@
     },
     "351727225": {
         "CHS": "奉行牢狱，茶饭之所",
+        "CHT": "奉行牢獄，茶飯之所",
         "DE": "Brot und Wasser",
         "EN": "Jailhouse Bread and Butter",
         "ES": "La cárcel es mi casa",
@@ -4481,6 +4761,7 @@
     },
     "2178273601": {
         "CHS": "十年花坂，皆知我名",
+        "CHT": "十年花坂，皆知我名",
         "DE": "Jahrzehnte des Ruhms in Hanamizaka",
         "EN": "10 Years of Hanamizaka Fame",
         "ES": "Los envidiosos dirán que no soy famoso",
@@ -4497,6 +4778,7 @@
     },
     "2138862273": {
         "CHS": "在下荒泷一斗是也",
+        "CHT": "在下荒瀧一斗是也",
         "DE": "Arataki Itto, höchstpersönlich!",
         "EN": "Arataki Itto, Present!",
         "ES": "Ante ustedes, ¡Arataki Itto!",
@@ -4513,6 +4795,7 @@
     },
     "2281393129": {
         "CHS": "野狐供真篇",
+        "CHT": "野狐供真篇",
         "DE": "Yakan-Opfer",
         "EN": "Yakan Offering",
         "ES": "Ofrenda de los yako",
@@ -4529,6 +4812,7 @@
     },
     "2254983737": {
         "CHS": "望月吼哕声",
+        "CHT": "望月吼噦聲",
         "DE": "Mondgesang der Kitsune",
         "EN": "Fox's Mooncall",
         "ES": "Aullido lunar",
@@ -4545,6 +4829,7 @@
     },
     "516586793": {
         "CHS": "七段妙变化",
+        "CHT": "七段妙變化",
         "DE": "Sieben wunderbare Variationen",
         "EN": "The Seven Glamours",
         "ES": "Heptatransformación",
@@ -4561,6 +4846,7 @@
     },
     "1524489289": {
         "CHS": "绯樱引雷章",
+        "CHT": "緋櫻引雷章",
         "DE": "Rosarote Blitzleiter",
         "EN": "Sakura Channeling",
         "ES": "Cerezo de la tormenta",
@@ -4577,6 +4863,7 @@
     },
     "3181299049": {
         "CHS": "暴恶嗤笑面",
+        "CHT": "暴惡嗤笑面",
         "DE": "Unerbittlicher Spott",
         "EN": "Mischievous Teasing",
         "ES": "Burla despiadada",
@@ -4593,6 +4880,7 @@
     },
     "913339777": {
         "CHS": "大杀生咒禁",
+        "CHT": "大殺生咒禁",
         "DE": "Daisesshou-Fluch",
         "EN": "Forbidden Art: Daisesshou",
         "ES": "Técnica prohibida: Masacre",
@@ -4609,6 +4897,7 @@
     },
     "1159663785": {
         "CHS": "称名少年事件簿",
+        "CHT": "稱名少年事件簿",
         "DE": "Fallakte eines berüchtigten jungen Mannes",
         "EN": "Named Juvenile Casebook",
         "ES": "Los casos de Shikanoin",
@@ -4625,6 +4914,7 @@
     },
     "286623921": {
         "CHS": "殊解诸因探案集",
+        "CHT": "殊解諸因探案集",
         "DE": "Aufdeckung der Hintergründe",
         "EN": "Investigative Collection",
         "ES": "Canon Shikanoiniano",
@@ -4641,6 +4931,7 @@
     },
     "2470569577": {
         "CHS": "暗文隐语谜题册",
+        "CHT": "暗文隱語謎題冊",
         "DE": "Rätselheft",
         "EN": "Esoteric Puzzle Book",
         "ES": "Acertijo inextricable",
@@ -4657,6 +4948,7 @@
     },
     "501887121": {
         "CHS": "虚言假说百物语",
+        "CHT": "虛言假說百物語",
         "DE": "Stoff, aus dem Lügen gemacht sind",
         "EN": "Tome of Lies",
         "ES": "Colección de calumnias",
@@ -4673,6 +4965,7 @@
     },
     "298040329": {
         "CHS": "禁室密所大图鉴",
+        "CHT": "禁室密所大圖鑑",
         "DE": "Geheimarchiv",
         "EN": "Secret Archive",
         "ES": "Secrétdex",
@@ -4689,6 +4982,7 @@
     },
     "2921909753": {
         "CHS": "奇想天开捕物帐",
+        "CHT": "奇想天開捕物帳",
         "DE": "Verblüffende Festnahme",
         "EN": "Curious Casefiles",
         "ES": "Detective Heizou",
@@ -4705,6 +4999,7 @@
     },
     "748294089": {
         "CHS": "与谋者，以局入局",
+        "CHT": "與謀者，以局入局",
         "DE": "Falle in der Falle",
         "EN": "Enter the Plotters",
         "ES": "Trampa anticonspiradores",
@@ -4721,6 +5016,7 @@
     },
     "1030894625": {
         "CHS": "入彀者，多多益善",
+        "CHT": "入彀者，多多益善",
         "DE": "Viel hilft viel",
         "EN": "Taking All Comers",
         "ES": "Aprisionamiento masivo",
@@ -4737,6 +5033,7 @@
     },
     "2703450625": {
         "CHS": "晃盅者，琼畟药骰",
+        "CHT": "晃盅者，瓊稷藥骰",
         "DE": "Gezinkter Würfel",
         "EN": "Beware the Trickster's Dice",
         "ES": "Dado trucado",
@@ -4753,6 +5050,7 @@
     },
     "2029790617": {
         "CHS": "诓惑者，接树移花",
+        "CHT": "誆惑者，接樹移花",
         "DE": "Täuschung des Schwindlers",
         "EN": "Bait-and-Switch",
         "ES": "Intercambio encubierto",
@@ -4769,6 +5067,7 @@
     },
     "2362082321": {
         "CHS": "坐庄者，三仙戏法",
+        "CHT": "坐莊者，三仙戲法",
         "DE": "Tricks des Bankhalters",
         "EN": "Dealer's Sleight",
         "ES": "Artificio de crupier",
@@ -4785,6 +5084,7 @@
     },
     "1272265729": {
         "CHS": "取胜者，大小通吃",
+        "CHT": "取勝者，大小通吃",
         "DE": "Alles dem Gewinner",
         "EN": "Winner Takes All",
         "ES": "Mano ganadora",
@@ -4801,6 +5101,7 @@
     },
     "1426348289": {
         "CHS": "异界之星",
+        "CHT": "異界之星",
         "DE": "Stern einer anderen Welt",
         "EN": "Star of Another World",
         "ES": "Estrella de otro mundo",
@@ -4817,6 +5118,7 @@
     },
     "3468411401": {
         "CHS": "异界之星",
+        "CHT": "異界之星",
         "DE": "Stern einer anderen Welt",
         "EN": "Star of Another World",
         "ES": "Estrella de otro mundo",
@@ -4833,6 +5135,7 @@
     },
     "2621661209": {
         "CHS": "异界之星",
+        "CHT": "異界之星",
         "DE": "Stern einer anderen Welt",
         "EN": "Star of Another World",
         "ES": "Estrella de otro mundo",
@@ -4849,6 +5152,7 @@
     },
     "890048705": {
         "CHS": "异界之星",
+        "CHT": "異界之星",
         "DE": "Stern einer anderen Welt",
         "EN": "Star of Another World",
         "ES": "Estrella de otro mundo",
@@ -4865,6 +5169,7 @@
     },
     "2013072401": {
         "CHS": "异界之星",
+        "CHT": "異界之星",
         "DE": "Stern einer anderen Welt",
         "EN": "Star of Another World",
         "ES": "Estrella de otro mundo",
@@ -4881,6 +5186,7 @@
     },
     "3578739209": {
         "CHS": "异界之星",
+        "CHT": "異界之星",
         "DE": "Stern einer anderen Welt",
         "EN": "Star of Another World",
         "ES": "Estrella de otro mundo",
@@ -4897,6 +5203,7 @@
     },
     "4149849577": {
         "CHS": "心斋",
+        "CHT": "心齋",
         "DE": "Klarheiten im Herzen",
         "EN": "Clarity of Heart",
         "ES": "Corazón puro",
@@ -4913,6 +5220,7 @@
     },
     "865989105": {
         "CHS": "定蒙",
+        "CHT": "定蒙",
         "DE": "Fixierung des Geistes",
         "EN": "Centered Spirit",
         "ES": "Concentración espiritual",
@@ -4929,6 +5237,7 @@
     },
     "1441248001": {
         "CHS": "潜虚",
+        "CHT": "潛虛",
         "DE": "Zurückgezogenheit",
         "EN": "Seclusion",
         "ES": "Reclusión",
@@ -4945,6 +5254,7 @@
     },
     "2316341393": {
         "CHS": "洞观",
+        "CHT": "洞觀",
         "DE": "Durchdringender Blick",
         "EN": "Insight",
         "ES": "Clarividencia",
@@ -4961,6 +5271,7 @@
     },
     "2221287353": {
         "CHS": "化神",
+        "CHT": "化神",
         "DE": "Erlangung von Göttlichkeit",
         "EN": "Divine Attainment",
         "ES": "Divinización",
@@ -4977,6 +5288,7 @@
     },
     "1596851281": {
         "CHS": "忘玄",
+        "CHT": "忘玄",
         "DE": "Mystische Verlassenheit",
         "EN": "Mystical Abandon",
         "ES": "Abandono místico",
@@ -4993,6 +5305,7 @@
     },
     "3266663729": {
         "CHS": "飞身趟马",
+        "CHT": "飛身趟馬",
         "DE": "Fliegender Gallopp",
         "EN": "Thespian Gallop",
         "ES": "Galope dramático",
@@ -5009,6 +5322,7 @@
     },
     "3949157249": {
         "CHS": "诸般切末",
+        "CHT": "諸般切末",
         "DE": "Unzählige Requisiten",
         "EN": "Myriad Mise-En-Scène",
         "ES": "Atrezo",
@@ -5025,6 +5339,7 @@
     },
     "3536888569": {
         "CHS": "牙纛探海",
+        "CHT": "牙纛探海",
         "DE": "Flagge auf dem Mast",
         "EN": "Seafaring General",
         "ES": "Bandera marítima",
@@ -5041,6 +5356,7 @@
     },
     "2785617601": {
         "CHS": "昇堂吊云",
+        "CHT": "昇堂吊雲",
         "DE": "Auf in die Wolken",
         "EN": "Flower and a Fighter",
         "ES": "Pose bélica",
@@ -5057,6 +5373,7 @@
     },
     "1985942201": {
         "CHS": "翘楚名坤",
+        "CHT": "翹楚名坤",
         "DE": "Überall bekannt",
         "EN": "Famed Throughout the Land",
         "ES": "Fama internacional",
@@ -5073,6 +5390,7 @@
     },
     "2696040833": {
         "CHS": "庄谐并举",
+        "CHT": "莊諧並舉",
         "DE": "Gemeinsame Unternehmung",
         "EN": "Decorous Harmony",
         "ES": "Armonía y decoro",
@@ -5089,6 +5407,7 @@
     },
     "3845919769": {
         "CHS": "割舍怜悯之心",
+        "CHT": "割捨憐憫之心",
         "DE": "Verzicht auf Mitleid",
         "EN": "To Cloister Compassion",
         "ES": "Reniego de la compasión",
@@ -5105,6 +5424,7 @@
     },
     "1476645953": {
         "CHS": "割舍侥幸之心",
+        "CHT": "割捨僥倖之心",
         "DE": "Verzicht auf Trägheit",
         "EN": "To Forsake Fortune",
         "ES": "Reniego de la fortuna",
@@ -5121,6 +5441,7 @@
     },
     "969784713": {
         "CHS": "割舍痛苦之心",
+        "CHT": "割捨痛苦之心",
         "DE": "Verzicht auf Empfindlichkeit",
         "EN": "To Sequester Sorrow",
         "ES": "Reniego del sufrimiento",
@@ -5137,6 +5458,7 @@
     },
     "1870557153": {
         "CHS": "割舍封闭之心",
+        "CHT": "割捨封閉之心",
         "DE": "Verzicht auf Verschlossenheit",
         "EN": "To Sever Sealing",
         "ES": "Reniego de la reclusión",
@@ -5153,6 +5475,7 @@
     },
     "2031120145": {
         "CHS": "割舍逢迎之心",
+        "CHT": "割捨逢迎之心",
         "DE": "Verzicht auf Anbiederung",
         "EN": "To Cease Courtesies",
         "ES": "Reniego de la adulación",
@@ -5169,6 +5492,7 @@
     },
     "856483153": {
         "CHS": "割舍软弱之心",
+        "CHT": "割捨軟弱之心",
         "DE": "Verzicht auf Weichheit",
         "EN": "To Ward Weakness",
         "ES": "Reniego de la debilidad",
@@ -5185,6 +5509,7 @@
     },
     "2715418569": {
         "CHS": "镜华风姿",
+        "CHT": "鏡華風姿",
         "DE": "Kyouka Fuushi",
         "EN": "Kyouka Fuushi",
         "ES": "Reflejo grácil",
@@ -5201,6 +5526,7 @@
     },
     "4259062785": {
         "CHS": "世有源泉",
+        "CHT": "世有源泉",
         "DE": "Quelle der Welt",
         "EN": "World Source",
         "ES": "Manantial de la tierra",
@@ -5217,6 +5543,7 @@
     },
     "2402833929": {
         "CHS": "无意弄花",
+        "CHT": "無意弄花",
         "DE": "Bewunderung der Blumen",
         "EN": "To Admire the Flowers",
         "ES": "Admiración floral",
@@ -5233,6 +5560,7 @@
     },
     "517644137": {
         "CHS": "不厌细流",
+        "CHT": "不厭細流",
         "DE": "Ewiger Fluss",
         "EN": "Endless Flow",
         "ES": "Flujo inagotable",
@@ -5249,6 +5577,7 @@
     },
     "993707681": {
         "CHS": "万水一露",
+        "CHT": "萬水一露",
         "DE": "Bansui Ichiro",
         "EN": "Bansui Ichiro",
         "ES": "Rocío pluvial",
@@ -5265,6 +5594,7 @@
     },
     "1168376425": {
         "CHS": "滥觞无底",
+        "CHT": "濫觴無底",
         "DE": "Unerschöpfliche Quelle",
         "EN": "Boundless Origin",
         "ES": "Fuente infinita",
@@ -5281,6 +5611,7 @@
     },
     "2655987137": {
         "CHS": "巡护深林",
+        "CHT": "巡護深林",
         "DE": "Hüterin im tiefen Wald",
         "EN": "Deepwood Patrol",
         "ES": "Patrulla forestal",
@@ -5297,6 +5628,7 @@
     },
     "3472492497": {
         "CHS": "漫行山薮",
+        "CHT": "漫行山藪",
         "DE": "Wanderin zwischen Bergen und Seen",
         "EN": "Through Hill and Copse",
         "ES": "A través de los árboles",
@@ -5313,6 +5645,7 @@
     },
     "1426971073": {
         "CHS": "夏堇芳菲",
+        "CHT": "夏堇芳菲",
         "DE": "Blütenduft im Sommer",
         "EN": "Scent of Summer",
         "ES": "Fragancia estival",
@@ -5329,6 +5662,7 @@
     },
     "3753636729": {
         "CHS": "骞林馈遗",
+        "CHT": "騫林饋遺",
         "DE": "Waldgeschenk unterm Mond",
         "EN": "Gift of the Woods",
         "ES": "Obsequio de la naturaleza",
@@ -5345,6 +5679,7 @@
     },
     "2500538945": {
         "CHS": "俱象残火",
+        "CHT": "俱象殘火",
         "DE": "Schwelendes Feuer aus Illusionen",
         "EN": "All Embers",
         "ES": "Plenitud de las ascuas",
@@ -5361,6 +5696,7 @@
     },
     "1091837217": {
         "CHS": "坠镞为林",
+        "CHT": "墜鏃為林",
         "DE": "Stählerner Wald aus Pfeilen",
         "EN": "Forest of Falling Arrows",
         "ES": "Bosque de flechas",
@@ -5377,6 +5713,7 @@
     },
     "1156598585": {
         "CHS": "追加投资",
+        "CHT": "追加投資",
         "DE": "Zusatzinvestition",
         "EN": "Additional Investment",
         "ES": "Inversión adicional",
@@ -5393,6 +5730,7 @@
     },
     "3136137929": {
         "CHS": "特许经营",
+        "CHT": "特許經營",
         "DE": "Sonderfranchise",
         "EN": "Special Franchise",
         "ES": "Franquicia singular",
@@ -5409,6 +5747,7 @@
     },
     "4285795529": {
         "CHS": "百巧千奇",
+        "CHT": "百巧千奇",
         "DE": "Wunder wie Wasserfälle",
         "EN": "Wonders Never Cease",
         "ES": "Maravillas sinfín",
@@ -5425,6 +5764,7 @@
     },
     "3498425217": {
         "CHS": "酌盈剂虚",
+        "CHT": "酌盈劑虛",
         "DE": "Zuschlag für Defizite",
         "EN": "Discretionary Supplement",
         "ES": "Compensación de pérdidas",
@@ -5441,6 +5781,7 @@
     },
     "3715110481": {
         "CHS": "物超所值",
+        "CHT": "物超所值",
         "DE": "Mehrwert für Mora",
         "EN": "Value for Mora",
         "ES": "Relación calidad-precio",
@@ -5457,6 +5798,7 @@
     },
     "1782869129": {
         "CHS": "漫掷万镒",
+        "CHT": "漫擲萬鎰",
         "DE": "Saus und Braus",
         "EN": "Sprinkling Weight",
         "ES": "Peso ligero",
@@ -5473,6 +5815,7 @@
     },
     "3505971089": {
         "CHS": "由根须断定肇始",
+        "CHT": "由根鬚斷定肇始",
         "DE": "Wurzeln bestimmen Anfänge",
         "EN": "Beginnings Determined at the Roots",
         "ES": "Raíz primigenia",
@@ -5489,6 +5832,7 @@
     },
     "2309081673": {
         "CHS": "由茎干剖析来缘",
+        "CHT": "由莖幹剖析來源",
         "DE": "Stämme verraten Herkünfte",
         "EN": "Origins Known From the Stem",
         "ES": "Tallo primordial",
@@ -5505,6 +5849,7 @@
     },
     "3708646913": {
         "CHS": "由枝节知晓造化",
+        "CHT": "由枝節知曉造化",
         "DE": "Zweige kennen Schicksale",
         "EN": "Fortunes Read Amongst the Branches",
         "ES": "Ramas creadoras",
@@ -5521,6 +5866,7 @@
     },
     "376580577": {
         "CHS": "由片叶管窥枯荣",
+        "CHT": "由片葉管窺枯榮",
         "DE": "Blätter bezeugen das Auf und Ab",
         "EN": "Withering Glimpsed in the Leaves",
         "ES": "Hojas marchitas",
@@ -5537,6 +5883,7 @@
     },
     "3499024713": {
         "CHS": "由繁花明了悟觉",
+        "CHT": "由繁花明瞭悟覺",
         "DE": "Blüten hegen Einsichten",
         "EN": "Comprehension Amidst the Flowers",
         "ES": "Despertar de las flores",
@@ -5553,6 +5900,7 @@
     },
     "2750929897": {
         "CHS": "由硕实品论应果",
+        "CHT": "由碩實品論應果",
         "DE": "Früchte tragen Karma",
         "EN": "Karma Adjudged From the Leaden Fruit",
         "ES": "Fruto kármico",
@@ -5569,6 +5917,7 @@
     },
     "3475888113": {
         "CHS": "却月的轻舞",
+        "CHT": "卻月的輕舞",
         "DE": "Tanz des abnehmenden Mondes",
         "EN": "Dance of the Waning Moon",
         "ES": "Danza de la luna menguante",
@@ -5585,6 +5934,7 @@
     },
     "318992601": {
         "CHS": "星天的花雨",
+        "CHT": "星天的花雨",
         "DE": "Blumenregen des Sternenhimmels",
         "EN": "The Starry Skies Their Flowers Rain",
         "ES": "Lluvia florestelar",
@@ -5601,6 +5951,7 @@
     },
     "4083203921": {
         "CHS": "倾影的莲步",
+        "CHT": "傾影的蓮步",
         "DE": "Schattenschritt des Lotos",
         "EN": "Beguiling Shadowstep",
         "ES": "Loto embelesador",
@@ -5617,6 +5968,7 @@
     },
     "3019515057": {
         "CHS": "挽漪的节音",
+        "CHT": "挽漪的節音",
         "DE": "Ruckender Rhythmus",
         "EN": "Fricative Pulse",
         "ES": "Sonido ondulante",
@@ -5633,6 +5985,7 @@
     },
     "4211988457": {
         "CHS": "翩旋的流光",
+        "CHT": "翩旋的流光",
         "DE": "Glanz der Pirouette",
         "EN": "Twirling Light",
         "ES": "Pirueta luminosa",
@@ -5649,6 +6002,7 @@
     },
     "684061273": {
         "CHS": "断霜的弦歌",
+        "CHT": "斷霜的弦歌",
         "DE": "Melodie des Frostbrechers",
         "EN": "Frostbreaker's Melody",
         "ES": "Canción rompescarcha",
@@ -5665,6 +6019,7 @@
     },
     "748102489": {
         "CHS": "立仪·俯览昼冥",
+        "CHT": "立儀·俯覽晝冥",
         "DE": "Ordnungsritus – Unermüdliche Wachsamkeit",
         "EN": "Ordinance: Unceasing Vigil",
         "ES": "Decreto: Vigilancia incansable",
@@ -5681,6 +6036,7 @@
     },
     "3035895129": {
         "CHS": "令仪·引谒归灵",
+        "CHT": "令儀·引謁歸靈",
         "DE": "Zeremonienritus – Heimkehrende Seelen",
         "EN": "Ceremony: Homecoming of Spirits",
         "ES": "Ceremonia: Retorno de las almas",
@@ -5697,6 +6053,7 @@
     },
     "3680254705": {
         "CHS": "律仪·行度誓惩",
+        "CHT": "律儀·行度誓懲",
         "DE": "Gebotsritus – Gesetzestreuer Vollstrecker",
         "EN": "Precept: Lawful Enforcer",
         "ES": "Edicto: Castigo de la ley",
@@ -5713,6 +6070,7 @@
     },
     "1630701449": {
         "CHS": "巡仪·蒇护禁罔",
+        "CHT": "巡儀·蕆護禁罔",
         "DE": "Austeritätsritus – Beschützender Verbotswächter",
         "EN": "Austerity: Forbidding Guard",
         "ES": "Inspección: Defensa intimidante",
@@ -5729,6 +6087,7 @@
     },
     "1368859857": {
         "CHS": "幽仪·逝往星芒",
+        "CHT": "幽儀·逝往星芒",
         "DE": "Grabritus – Vergehendes Sternenlicht",
         "EN": "Funerary Rite: The Passing of Starlight",
         "ES": "Exequias: Luz del tránsito",
@@ -5745,6 +6104,7 @@
     },
     "2479658985": {
         "CHS": "羽仪·裁落钧衡",
+        "CHT": "羽儀·裁落鈞衡",
         "DE": "Federritus – Gerechte Waage",
         "EN": "Raiment: Just Scales",
         "ES": "Liturgia: Balanza del juicio",
@@ -5761,6 +6121,7 @@
     },
     "449508113": {
         "CHS": "赤沙的归嗣",
+        "CHT": "赤沙的歸嗣",
         "DE": "Wiederkehrende Erbin der roten Sande",
         "EN": "Returning Heiress of the Scarlet Sands",
         "ES": "Heredera de las arenas escarlata",
@@ -5777,6 +6138,7 @@
     },
     "3442281625": {
         "CHS": "贯月的耀锋",
+        "CHT": "貫月的耀鋒",
         "DE": "Monddurchdringender Glanz",
         "EN": "Moon-Piercing Brilliance",
         "ES": "Brillo perforalunas",
@@ -5793,6 +6155,7 @@
     },
     "3256412025": {
         "CHS": "织狩的奉祀",
+        "CHT": "織狩的奉祀",
         "DE": "Bittgesuch der Jäger",
         "EN": "Hunter's Supplication",
         "ES": "Devoción por la caza",
@@ -5809,6 +6172,7 @@
     },
     "984253913": {
         "CHS": "守戍的誓命",
+        "CHT": "守戍的誓命",
         "DE": "Eid der Grenzwächter",
         "EN": "Sentinel Oath",
         "ES": "Juramento de la guardiana",
@@ -5825,6 +6189,7 @@
     },
     "2382311049": {
         "CHS": "萦金的苍瞳",
+        "CHT": "縈金的蒼瞳",
         "DE": "Goldene Iris",
         "EN": "Heterochromatic Gaze",
         "ES": "Mirada heterocromática",
@@ -5841,6 +6206,7 @@
     },
     "955051961": {
         "CHS": "衍溢的汐潮",
+        "CHT": "衍溢的汐潮",
         "DE": "Überlaufende Abendflut",
         "EN": "The Overflow",
         "ES": "Marea inundatoria",
@@ -5857,6 +6223,7 @@
     },
     "552761193": {
         "CHS": "心识蕴藏之种",
+        "CHT": "心識蘊藏之種",
         "DE": "Samen des bewahrten Wissens",
         "EN": "The Seed of Stored Knowledge",
         "ES": "Semillas del conocimiento",
@@ -5873,6 +6240,7 @@
     },
     "3200237953": {
         "CHS": "正等善见之根",
+        "CHT": "正等善見之根",
         "DE": "Wurzel der Erfülltheit",
         "EN": "The Root of All Fullness",
         "ES": "Raíces de la plenitud",
@@ -5889,6 +6257,7 @@
     },
     "2629291377": {
         "CHS": "熏习成就之芽",
+        "CHT": "薰習成就之芽",
         "DE": "Spross des bewussten Erlangens",
         "EN": "The Shoot of Conscious Attainment",
         "ES": "Brotes del karma",
@@ -5905,6 +6274,7 @@
     },
     "2649754961": {
         "CHS": "比量现行之茎",
+        "CHT": "比量現行之莖",
         "DE": "Stiel der manifesten Inferenz",
         "EN": "The Stem of Manifest Inference",
         "ES": "Tallos de la acción manifiesta",
@@ -5921,6 +6291,7 @@
     },
     "762504897": {
         "CHS": "妙谛破愚之叶",
+        "CHT": "妙諦破愚之葉",
         "DE": "Blätter der erleuchtenden Rede",
         "EN": "The Leaves of Enlightening Speech",
         "ES": "Hojas de la iluminación discursiva",
@@ -5937,6 +6308,7 @@
     },
     "2904102233": {
         "CHS": "大辨圆成之实",
+        "CHT": "大辨圓成之實",
         "DE": "Frucht der Kulmination der Vernunft",
         "EN": "The Fruit of Reason's Culmination",
         "ES": "Frutos de la culminación racional",
@@ -5953,6 +6325,7 @@
     },
     "624034681": {
         "CHS": "寐领围垣",
+        "CHT": "寐領圍垣",
         "DE": "Festung der Fantasie",
         "EN": "Fortress of Fantasy",
         "ES": "Fortaleza fantástica",
@@ -5969,6 +6342,7 @@
     },
     "1108627585": {
         "CHS": "归芒携信",
+        "CHT": "歸芒攜信",
         "DE": "Entstendung des Lichts",
         "EN": "Light's Remit",
         "ES": "Remisión estelar",
@@ -5985,6 +6359,7 @@
     },
     "1578144217": {
         "CHS": "长宵宣秘",
+        "CHT": "長宵宣秘",
         "DE": "Geheimnisse der Nacht",
         "EN": "Secrets of the Night",
         "ES": "Secretos de la noche",
@@ -6001,6 +6376,7 @@
     },
     "886256817": {
         "CHS": "星示昭明",
+        "CHT": "星示昭明",
         "DE": "Astrale Illumination",
         "EN": "Starry Illumination",
         "ES": "Revelación astral",
@@ -6017,6 +6393,7 @@
     },
     "1129381953": {
         "CHS": "悬神系流",
+        "CHT": "懸神繫流",
         "DE": "Fluss des Bewusstseins",
         "EN": "Stream of Consciousness",
         "ES": "Flujo de consciencia",
@@ -6033,6 +6410,7 @@
     },
     "1961053441": {
         "CHS": "曜光灵炬",
+        "CHT": "曜光靈炬",
         "DE": "Strahlendes Seelenfeuer",
         "EN": "Radiant Soulfire",
         "ES": "Fulgor espirituardiente",
@@ -6049,6 +6427,7 @@
     },
     "868773065": {
         "CHS": "初番·茂风流羽行",
+        "CHT": "初番·茂風流羽行",
         "DE": "Shoban – Pompöses Gefieder",
         "EN": "Shoban: Ostentatious Plumage",
         "ES": "Primer acto: Plumaje ostentoso",
@@ -6065,6 +6444,7 @@
     },
     "2086697681": {
         "CHS": "二番·箙岛廓白浪",
+        "CHT": "二番·箙島廓白浪",
         "DE": "Niban – Insel inmitten weißer Wellen",
         "EN": "Niban: Isle Amidst White Waves",
         "ES": "Segundo acto: La luna en el mar riela",
@@ -6081,6 +6461,7 @@
     },
     "215651225": {
         "CHS": "三番·久世舞夕颜",
+        "CHT": "三番·久世舞夕顏",
         "DE": "Sanban – Mondblumen-Kusemai",
         "EN": "Sanban: Moonflower Kusemai",
         "ES": "Tercer acto: Kusemai del ocaso",
@@ -6097,6 +6478,7 @@
     },
     "3961952345": {
         "CHS": "四番·花月歌浮舟",
+        "CHT": "四番·花月歌浮舟",
         "DE": "Yonban – Aufbruch ins Frühjahr",
         "EN": "Yonban: Set Adrift into Spring",
         "ES": "Cuarto acto: Barco a la deriva",
@@ -6113,6 +6495,7 @@
     },
     "1037858905": {
         "CHS": "末番·今昔渡来殿",
+        "CHT": "末番·今昔渡來殿",
         "DE": "Matsuban – Erleuchtung aus der Ferne",
         "EN": "Matsuban: Ancient Illuminator From Abroad",
         "ES": "Acto final: Ilustrado en el pasado",
@@ -6129,6 +6512,7 @@
     },
     "3600134161": {
         "CHS": "祝言·霞幕倾松风",
+        "CHT": "祝言·霞幕傾松風",
         "DE": "Shugen – Traurig schwingender Vorhang",
         "EN": "Shugen: The Curtains' Melancholic Sway",
         "ES": "Agradecimientos: Telón del Matsukaze",
@@ -6145,6 +6529,7 @@
     },
     "2013089553": {
         "CHS": "舍径求真",
+        "CHT": "捨徑求真",
         "DE": "Pilgerin der Wahrheit",
         "EN": "Truth by Any Means",
         "ES": "Búsqueda de la verdad",
@@ -6161,6 +6546,7 @@
     },
     "4140551721": {
         "CHS": "忘形炼智",
+        "CHT": "忘形煉智",
         "DE": "Eifer des Wissens",
         "EN": "Overzealous Intellect",
         "ES": "Sabiduría informe",
@@ -6177,6 +6563,7 @@
     },
     "1613893961": {
         "CHS": "漫行灵圃",
+        "CHT": "漫行靈圃",
         "DE": "Spaziergang durch den Garten des Gottes",
         "EN": "Spirit-Orchard Stroll",
         "ES": "Sosiego en el jardín",
@@ -6193,6 +6580,7 @@
     },
     "1099441465": {
         "CHS": "神机明悟",
+        "CHT": "神機明悟",
         "DE": "Einsicht der Einmaligkeit",
         "EN": "Divine Comprehension",
         "ES": "Comprensión divina",
@@ -6209,6 +6597,7 @@
     },
     "2879411097": {
         "CHS": "繁想奇境",
+        "CHT": "繁想奇境",
         "DE": "Wunderland des Nachdenkens",
         "EN": "Wonderland of Rumination",
         "ES": "Plano de la reflexión",
@@ -6225,6 +6614,7 @@
     },
     "1813996249": {
         "CHS": "妙道合真",
+        "CHT": "妙道合真",
         "DE": "Wundersamer Pfad der Wahrheit",
         "EN": "The Wondrous Path of Truth",
         "ES": "Esencia de la verdad",
@@ -6241,6 +6631,7 @@
     },
     "2088049169": {
         "CHS": "妙受琼阁",
+        "CHT": "妙受瓊閣",
         "DE": "Lehre der Adepten",
         "EN": "Adeptus' Tutelage",
         "ES": "Tutelaje adéptico",
@@ -6257,6 +6648,7 @@
     },
     "1185801489": {
         "CHS": "正思无邪",
+        "CHT": "正思無邪",
         "DE": "Rechtschaffene Unschuld",
         "EN": "Innocent",
         "ES": "Rectitud inocente",
@@ -6273,6 +6665,7 @@
     },
     "1513031537": {
         "CHS": "墩墩善道",
+        "CHT": "墩墩善道",
         "DE": "Liebevolle Loyalität",
         "EN": "Loyal and Kind",
         "ES": "Lealtad bondadosa",
@@ -6289,6 +6682,7 @@
     },
     "2674638561": {
         "CHS": "爰爰可亲",
+        "CHT": "爰爰可親",
         "DE": "Knuddelig",
         "EN": "Winsome",
         "ES": "Tierna dulzura",
@@ -6305,6 +6699,7 @@
     },
     "738869801": {
         "CHS": "恻隐本义",
+        "CHT": "惻隱本義",
         "DE": "Mitfühlend",
         "EN": "Compassionate",
         "ES": "Compasión pura",
@@ -6321,6 +6716,7 @@
     },
     "4046679753": {
         "CHS": "慈惠仁心",
+        "CHT": "慈惠仁心",
         "DE": "Wohlwollend",
         "EN": "Beneficent",
         "ES": "Benevolente caridad",
@@ -6337,6 +6733,7 @@
     },
     "1459644873": {
         "CHS": "直观",
+        "CHT": "直觀",
         "DE": "Intuition",
         "EN": "Intuition",
         "ES": "Intuición",
@@ -6353,6 +6750,7 @@
     },
     "3637950009": {
         "CHS": "辩章",
+        "CHT": "辯章",
         "DE": "Debatte",
         "EN": "Debate",
         "ES": "Retórica",
@@ -6369,6 +6767,7 @@
     },
     "2621846313": {
         "CHS": "遮诠",
+        "CHT": "遮詮",
         "DE": "Antithese",
         "EN": "Negation",
         "ES": "Antítesis",
@@ -6385,6 +6784,7 @@
     },
     "1055939881": {
         "CHS": "义贯",
+        "CHT": "義貫",
         "DE": "Erläuterung",
         "EN": "Elucidation",
         "ES": "Elucidación",
@@ -6401,6 +6801,7 @@
     },
     "3387153385": {
         "CHS": "智度",
+        "CHT": "智度",
         "DE": "Scharfsinn",
         "EN": "Sagacity",
         "ES": "Entendimiento",
@@ -6417,6 +6818,7 @@
     },
     "540494281": {
         "CHS": "正理",
+        "CHT": "正理",
         "DE": "Strukturierung",
         "EN": "Structuration",
         "ES": "Razón",
@@ -6433,6 +6835,7 @@
     },
     "975929929": {
         "CHS": "皎洁之火铓辉灿漫",
+        "CHT": "皎潔之火鋩輝燦漫",
         "DE": "Glühend helle Flamme",
         "EN": "The Flame Incandescent",
         "ES": "Filoígneo impoluto",
@@ -6449,6 +6852,7 @@
     },
     "1063269113": {
         "CHS": "净沙利刃明映万乘",
+        "CHT": "淨沙利刃明映萬乘",
         "DE": "Das Glänzen der Sandklinge",
         "EN": "The Sand-Blades Glittering",
         "ES": "Hoja de las arenas rutilantes",
@@ -6465,6 +6869,7 @@
     },
     "3309645225": {
         "CHS": "怒势疾迅如焚掠地",
+        "CHT": "怒勢疾迅如焚掠地",
         "DE": "Wut, einem Lauffeuer gleich",
         "EN": "A Rage Swift as Fire",
         "ES": "Furia calcinadora",
@@ -6481,6 +6886,7 @@
     },
     "1318685825": {
         "CHS": "服膺誓禁恪守无失",
+        "CHT": "服膺誓禁恪守無失",
         "DE": "Dem Eid treu ergeben",
         "EN": "An Oath Abiding",
         "ES": "Juramento inquebrantable",
@@ -6497,6 +6903,7 @@
     },
     "2001862177": {
         "CHS": "猎兽魁首卓荦不羁",
+        "CHT": "獵獸魁首卓犖不羈",
         "DE": "Entfesselte Bestienjägerin",
         "EN": "The Alpha Unleashed",
         "ES": "Leona desmelenada",
@@ -6513,6 +6920,7 @@
     },
     "2802373841": {
         "CHS": "燎燃利爪裂帛斫金",
+        "CHT": "燎燃利爪裂帛斫金",
         "DE": "Brennende reißende Klauen",
         "EN": "The Burning Claws Cleaving",
         "ES": "Zarpazo flamígero",
@@ -6529,6 +6937,7 @@
     },
     "896455753": {
         "CHS": "遇合的因缘",
+        "CHT": "遇合的因緣",
         "DE": "Chaos der Eventualitäten",
         "EN": "Factor Confluence",
         "ES": "Amistad predestinada",
@@ -6545,6 +6954,7 @@
     },
     "1491617321": {
         "CHS": "伴行的旅路",
+        "CHT": "伴行的旅路",
         "DE": "Eine Reise in Begleitung",
         "EN": "Companion's Ingress",
         "ES": "El camino que nos une",
@@ -6561,6 +6971,7 @@
     },
     "973254489": {
         "CHS": "游击的心得",
+        "CHT": "游擊的心得",
         "DE": "Guerilla-Erfahrung",
         "EN": "Reconnaissance Experience",
         "ES": "Batidor veterano",
@@ -6577,6 +6988,7 @@
     },
     "3408467449": {
         "CHS": "晴霜的祝念",
+        "CHT": "晴霜的祝念",
         "DE": "Sonnenfrost-Segen",
         "EN": "Sunfrost Encomium",
         "ES": "Alabanza de la cencellada",
@@ -6593,6 +7005,7 @@
     },
     "101621505": {
         "CHS": "引示的铃箭",
+        "CHT": "引示的鈴箭",
         "DE": "Glockenpfeil",
         "EN": "Signal Arrow",
         "ES": "Flecha tintineante",
@@ -6609,6 +7022,7 @@
     },
     "1784924817": {
         "CHS": "依随的策援",
+        "CHT": "依隨的策援",
         "DE": "Unterstützung von Mitstreitern",
         "EN": "Companion's Counsel",
         "ES": "Asistencia táctica",
@@ -6625,6 +7039,7 @@
     },
     "3110332641": {
         "CHS": "高门的谒礼",
+        "CHT": "高門的謁禮",
         "DE": "Erhabener Gruß",
         "EN": "Sublime Salutations",
         "ES": "Modales pudientes",
@@ -6641,6 +7056,7 @@
     },
     "20172977": {
         "CHS": "御驿的径迹",
+        "CHT": "御驛的徑跡",
         "DE": "Erhabene Straßen",
         "EN": "Grace of Royal Roads",
         "ES": "Camino del Gran Tronco",
@@ -6657,6 +7073,7 @@
     },
     "2730015409": {
         "CHS": "金塔的香献",
+        "CHT": "金塔的香獻",
         "DE": "Opfergabe von Dur Untash",
         "EN": "Profferings of Dur Untash",
         "ES": "Oblación de Dur Untash",
@@ -6673,6 +7090,7 @@
     },
     "2860814489": {
         "CHS": "百柱的酣宴",
+        "CHT": "百柱的酣宴",
         "DE": "Festmahl von Apadana",
         "EN": "Feast of Apadana",
         "ES": "Festín hipóstilo",
@@ -6689,6 +7107,7 @@
     },
     "1755584449": {
         "CHS": "圣古的库藏",
+        "CHT": "聖古的庫藏",
         "DE": "Schätze von Bonkhanak",
         "EN": "Treasures of Bonkhanak",
         "ES": "Galería sagrada",
@@ -6705,6 +7124,7 @@
     },
     "2892000521": {
         "CHS": "天园的理想",
+        "CHT": "天園的理想",
         "DE": "Träume von Pairidaeza",
         "EN": "Pairidaeza's Dreams",
         "ES": "Canon del paraíso",
@@ -6721,6 +7141,7 @@
     },
     "858748369": {
         "CHS": "呿吟至微",
+        "CHT": "呿吟至微",
         "DE": "Binnen eines Atemzugs",
         "EN": "Attentive Observation",
         "ES": "Cuidados intensivos",
@@ -6737,6 +7158,7 @@
     },
     "1849398401": {
         "CHS": "动静精明",
+        "CHT": "動靜精明",
         "DE": "Flink und geschickt",
         "EN": "Incisive Discernment",
         "ES": "Discernimiento maestro",
@@ -6753,6 +7175,7 @@
     },
     "2410139081": {
         "CHS": "八正定气",
+        "CHT": "八正定氣",
         "DE": "Alle Symptome stabilisiert",
         "EN": "All Aspects Stabilized",
         "ES": "Homeostasis omnímoda",
@@ -6769,6 +7192,7 @@
     },
     "4262913073": {
         "CHS": "法古观冥",
+        "CHT": "法古觀冥",
         "DE": "Uralte Heilkunst",
         "EN": "Ancient Art of Perception",
         "ES": "Contemplación atávica",
@@ -6785,6 +7209,7 @@
     },
     "63855777": {
         "CHS": "盈虚藏象",
+        "CHT": "盈虛藏象",
         "DE": "Verborgene Ebbe und Flut",
         "EN": "The Hidden Ebb and Flow",
         "ES": "Síntomas variables",
@@ -6801,6 +7226,7 @@
     },
     "1293460177": {
         "CHS": "真邪合离",
+        "CHT": "真邪合離",
         "DE": "Austreibung negativer Energie",
         "EN": "Elimination of Malicious Qi",
         "ES": "Disipación del chi maligno",
@@ -6817,6 +7243,7 @@
     },
     "3502158873": {
         "CHS": "物器流转",
+        "CHT": "物器流轉",
         "DE": "Materialkreislauf",
         "EN": "Material Circulation",
         "ES": "Circulación logística",
@@ -6833,6 +7260,7 @@
     },
     "3954516065": {
         "CHS": "八尖裹术",
+        "CHT": "八尖裹術",
         "DE": "Perfekt verpackt",
         "EN": "Perfectly Packaged",
         "ES": "Embalaje perfecto",
@@ -6849,6 +7277,7 @@
     },
     "3397892401": {
         "CHS": "万户门牌通识",
+        "CHT": "萬戶門牌通識",
         "DE": "Universelle Erkennung",
         "EN": "Universal Recognition",
         "ES": "Conoce a tu vecino",
@@ -6865,6 +7294,7 @@
     },
     "3551684865": {
         "CHS": "韦驮骏足",
+        "CHT": "韋馱駿足",
         "DE": "Skanda-Ross",
         "EN": "Steed of Skanda",
         "ES": "Corcel de Skanda",
@@ -6881,6 +7311,7 @@
     },
     "34942769": {
         "CHS": "千里一日",
+        "CHT": "千里一日",
         "DE": "Tausend Meilen jeden Tag",
         "EN": "A Thousand Miles in a Day",
         "ES": "Periplo diario",
@@ -6897,6 +7328,7 @@
     },
     "2439940993": {
         "CHS": "沿途百景会心",
+        "CHT": "沿途百景會心",
         "DE": "Unzählige Sehenswürdigkeiten",
         "EN": "Countless Sights to See",
         "ES": "Infinidad paisajística",
@@ -6913,6 +7345,7 @@
     },
     "2471765961": {
         "CHS": "如影流露的冷刃",
+        "CHT": "如影流露的冷刃",
         "DE": "Schattenhafte kalte Klinge",
         "EN": "A Cold Blade Like a Shadow",
         "ES": "Filo revelasombras",
@@ -6929,6 +7362,7 @@
     },
     "1377369345": {
         "CHS": "层见叠出的谜象",
+        "CHT": "層見疊出的謎象",
         "DE": "Endlose Mysterien",
         "EN": "Endless Mysteries",
         "ES": "Enigmas sin fin",
@@ -6945,6 +7379,7 @@
     },
     "4173595889": {
         "CHS": "倒错知能的视度",
+        "CHT": "倒錯知能的視度",
         "DE": "Kognitionsumkehrende Blickrichtung",
         "EN": "Cognition-Inverting Gaze",
         "ES": "Cognición ilusoria",
@@ -6961,6 +7396,7 @@
     },
     "1475870801": {
         "CHS": "灵犀默应的配合",
+        "CHT": "靈犀默應的配合",
         "DE": "Stillschweigende Koordination",
         "EN": "Tacit Coordination",
         "ES": "Sincronía perfecta",
@@ -6977,6 +7413,7 @@
     },
     "1789577793": {
         "CHS": "暗昧遮目的障法",
+        "CHT": "暗昧遮目的障法",
         "DE": "Raffiniertes Ablenkungsmanöver",
         "EN": "Obscuring Ambiguity",
         "ES": "Oscuridad obstaculizadora",
@@ -6993,6 +7430,7 @@
     },
     "2746616153": {
         "CHS": "示辨真意的眼",
+        "CHT": "示辨真意的眼",
         "DE": "Enthüllende Einsicht",
         "EN": "Watchful Eye",
         "ES": "El ojo de la verdad",
@@ -7009,6 +7447,7 @@
     },
     "1235684201": {
         "CHS": "空取奇思的手艺",
+        "CHT": "空取奇思的手藝",
         "DE": "Bizarre Wunder",
         "EN": "Whimsical Wonders",
         "ES": "Truco telequinético",
@@ -7025,6 +7464,7 @@
     },
     "4294085417": {
         "CHS": "巧言贴耳的诱引",
+        "CHT": "巧言貼耳的誘引",
         "DE": "Verlockender Köder",
         "EN": "Loquacious Cajoling",
         "ES": "Trampa de atención",
@@ -7041,6 +7481,7 @@
     },
     "2593991761": {
         "CHS": "玄迷灵敏的指法",
+        "CHT": "玄迷靈敏的指法",
         "DE": "Taschenspielertrick",
         "EN": "Prestidigitation",
         "ES": "Mímica ingeniosa",
@@ -7057,6 +7498,7 @@
     },
     "2932106129": {
         "CHS": "熟稔习练的筹谋",
+        "CHT": "熟稔習練的籌謀",
         "DE": "Bewandert und erprobt",
         "EN": "Well-Versed, Well-Rehearsed",
         "ES": "Estrategia ensayada",
@@ -7073,6 +7515,7 @@
     },
     "2035233753": {
         "CHS": "穿越隐秘的通术",
+        "CHT": "穿越隱秘的通術",
         "DE": "Des Rätsels Lösung",
         "EN": "To Pierce Enigmas",
         "ES": "Magia abscóndita",
@@ -7089,6 +7532,7 @@
     },
     "3525594449": {
         "CHS": "违心的笑",
+        "CHT": "違心的笑",
         "DE": "Ein gezwungenes Lächeln",
         "EN": "Guarded Smile",
         "ES": "Sonrisa engañosa",
@@ -7105,6 +7549,7 @@
     },
     "2267561625": {
         "CHS": "深水与泡沫之梦",
+        "CHT": "深水與泡沫之夢",
         "DE": "Träume tiefen und schäumenden Wassers",
         "EN": "Dreams of the Foamy Deep",
         "ES": "Efervescencia onírica",
@@ -7121,6 +7566,7 @@
     },
     "2404188193": {
         "CHS": "企鹅与丰渥之国",
+        "CHT": "企鵝與豐渥之國",
         "DE": "Von Pinguinen und dem Reich des Überflusses",
         "EN": "Penguins and the Land of Plenty",
         "ES": "Pingüinotopía",
@@ -7137,6 +7583,7 @@
     },
     "2569900185": {
         "CHS": "洑流与白砂之歌",
+        "CHT": "洑流與白砂之歌",
         "DE": "Ein Lied von Strömung und weißem Sand",
         "EN": "Song of the Eddies and Bleached Sands",
         "ES": "Melodía del torbellino y la arena",
@@ -7153,6 +7600,7 @@
     },
     "2906179801": {
         "CHS": "雪月与芦笛之舞",
+        "CHT": "雪月與蘆笛之舞",
         "DE": "Tanz des frostigen Mondes und der Flöte",
         "EN": "Dance of the Snowy Moon and Flute",
         "ES": "Danza luniflautina",
@@ -7169,6 +7617,7 @@
     },
     "2128995113": {
         "CHS": "炉火与欢笑之夜",
+        "CHT": "爐火與歡笑之夜",
         "DE": "Nächte voll behaglichem Herdfeuer und Fröhlichkeit",
         "EN": "Nights of Hearth and Happiness",
         "ES": "Noche de hogueras y júbilo",
@@ -7185,6 +7634,7 @@
     },
     "2077326505": {
         "CHS": "梦晓与决意之刻",
+        "CHT": "夢曉與決意之刻",
         "DE": "Moment des Erwachens und der Entschlossenheit",
         "EN": "Moment of Waking and Resolve",
         "ES": "Resolución del alba",
@@ -7201,6 +7651,7 @@
     },
     "4114524601": {
         "CHS": "予行恶者以惩惧",
+        "CHT": "予行惡者以懲懼",
         "DE": "Angst den Übeltätern",
         "EN": "Terror for the Evildoers",
         "ES": "Aterrorizar a los facinerosos",
@@ -7217,6 +7668,7 @@
     },
     "2190383313": {
         "CHS": "予骄暴者以镣锁",
+        "CHT": "予驕暴者以鐐鎖",
         "DE": "Fesseln den Hochmütigen",
         "EN": "Shackles for the Arrogant",
         "ES": "Engrilletar a los arrogantes",
@@ -7233,6 +7685,7 @@
     },
     "1926021769": {
         "CHS": "予婪诈者以谴罚",
+        "CHT": "予婪詐者以譴罰",
         "DE": "Bestrafung den Betrügern",
         "EN": "Punishment for the Frauds",
         "ES": "Condenar a los embaucadores",
@@ -7249,6 +7702,7 @@
     },
     "2263893849": {
         "CHS": "予贞苦者以拯赎",
+        "CHT": "予貞苦者以拯贖",
         "DE": "Erlösung den Leidenden",
         "EN": "Redemption for the Suffering",
         "ES": "Redimir a los diligentes",
@@ -7265,6 +7719,7 @@
     },
     "2419244785": {
         "CHS": "予冤诉者以怜恕",
+        "CHT": "予冤訴者以憐恕",
         "DE": "Vergebung den zu Unrecht Beschuldigten",
         "EN": "Mercy for the Wronged",
         "ES": "Exculpar a los inculpados",
@@ -7281,6 +7736,7 @@
     },
     "126955769": {
         "CHS": "予无罪者以念抚",
+        "CHT": "予無罪者以念撫",
         "DE": "Trost den Unschuldigen",
         "EN": "Esteem for the Innocent",
         "ES": "Confortar a los inocentes",
@@ -7297,6 +7753,7 @@
     },
     "3840366369": {
         "CHS": "尊荣的创定",
+        "CHT": "尊榮的創定",
         "DE": "Erschaffung von Amt und Würde",
         "EN": "Venerable Institution",
         "ES": "Eminente ordenanza",
@@ -7313,6 +7770,7 @@
     },
     "2437610633": {
         "CHS": "律法的命诫",
+        "CHT": "律法的命誡",
         "DE": "Das Gesetz gebietet",
         "EN": "Juridical Exhortation",
         "ES": "Mandato legal",
@@ -7329,6 +7787,7 @@
     },
     "2720290529": {
         "CHS": "溯古的拟制",
+        "CHT": "溯古的擬制",
         "DE": "Uralte Gebote",
         "EN": "Ancient Postulation",
         "ES": "Ficción pretérita",
@@ -7345,6 +7804,7 @@
     },
     "1561601289": {
         "CHS": "悲悯的冠冕",
+        "CHT": "悲憫的冠冕",
         "DE": "Gekrönt in Gnade",
         "EN": "Crown of Commiseration",
         "ES": "Clemencia culminante",
@@ -7361,6 +7821,7 @@
     },
     "4222513497": {
         "CHS": "公理的决裁",
+        "CHT": "公理的決裁",
         "DE": "Axiomatisches Urteil",
         "EN": "Axiomatic Judgment",
         "ES": "Fallo axiomático",
@@ -7377,6 +7838,7 @@
     },
     "1739750817": {
         "CHS": "忿怒的报偿",
+        "CHT": "忿怒的報償",
         "DE": "Wütende Vergeltung",
         "EN": "Wrathful Recompense",
         "ES": "Retribución atrabiliaria",
@@ -7393,6 +7855,7 @@
     },
     "2993271985": {
         "CHS": "以核实为约束",
+        "CHT": "以核實為約束",
         "DE": "Notwendigkeit der Überprüfung",
         "EN": "A Need to Verify Facts",
         "ES": "Mi obligación: Verificar",
@@ -7409,6 +7872,7 @@
     },
     "2781039769": {
         "CHS": "以求真为职守",
+        "CHT": "以求真為職守",
         "DE": "Pflicht der Wahrheitssuche",
         "EN": "A Duty to Pursue Truth",
         "ES": "Mi deber: Buscar la verdad",
@@ -7425,6 +7889,7 @@
     },
     "2635170905": {
         "CHS": "以独立为先决",
+        "CHT": "以獨立為先決",
         "DE": "Gebot der Unabhängigkeit",
         "EN": "An Imperative to Independence",
         "ES": "Mi exigencia: Ser independiente",
@@ -7441,6 +7906,7 @@
     },
     "1687165865": {
         "CHS": "以督促为责任",
+        "CHT": "以督促為責任",
         "DE": "Verantwortung der Ermahnung",
         "EN": "A Responsibility to Oversee",
         "ES": "Mi responsabilidad: Supervisar",
@@ -7457,6 +7923,7 @@
     },
     "3847359465": {
         "CHS": "以良知为原则",
+        "CHT": "以良知為原則",
         "DE": "Prinzip des Gewissens",
         "EN": "A Principle of Conscience",
         "ES": "Mi máxima: La ética",
@@ -7473,6 +7940,7 @@
     },
     "445668929": {
         "CHS": "以有趣相关为要义",
+        "CHT": "以有趣相關為要義",
         "DE": "Gleichgewicht von Sachlichkeit und Sensation",
         "EN": "A Summation of Interest",
         "ES": "Mi condición: Ser de interés",
@@ -7489,6 +7957,7 @@
     },
     "1796785": {
         "CHS": "「爱是难驯鸟，哀乞亦无用。」",
+        "CHT": "「愛是難馴鳥，哀乞亦無用。」",
         "DE": "„Wie ein widerspenstiger Vogel ist die Liebe taub gegenüber dem Flehen“",
         "EN": "\"Love Is a Rebellious Bird That None Can Tame\"",
         "ES": "El amor es como un pájaro rebelde",
@@ -7505,6 +7974,7 @@
     },
     "3119753889": {
         "CHS": "「女人皆善变，仿若水中萍。」",
+        "CHT": "「女人皆善變，彷若水中萍。」",
         "DE": "„Frauen sind feinfühlig wie Wasserlinsen im Teich“",
         "EN": "\"A Woman Adapts Like Duckweed in Water\"",
         "ES": "Una mujer cambiante como el agua",
@@ -7521,6 +7991,7 @@
     },
     "3349664969": {
         "CHS": "「秘密藏心间，无人知我名。」",
+        "CHT": "「秘密藏心間，無人知我名。」",
         "DE": "„Meine Geheimnisse verberge ich, meinen Namen kennt niemand“",
         "EN": "\"My Secret Is Hidden Within Me, No One Will Know My Name\"",
         "ES": "Escondo secretos que nadie conoce",
@@ -7537,6 +8008,7 @@
     },
     "3047423481": {
         "CHS": "「若非处幽冥，怎知生可贵！」",
+        "CHT": "「若非處幽冥，怎知生可貴！」",
         "DE": "„Wer nicht in der Unterwelt wohnt, kennt das Leben nicht!“",
         "EN": "\"They Know Not Life, Who Dwelt in the Netherworld Not!\"",
         "ES": "Vive el infierno y apreciarás la vida",
@@ -7553,6 +8025,7 @@
     },
     "2146750841": {
         "CHS": "「我已有觉察，他名即是…！」",
+        "CHT": "「我已有覺察，他名即是…！」",
         "DE": "„Sein Name, den kenne ich jetzt, er lautet ...!“",
         "EN": "\"His Name I Now Know, It Is...!\"",
         "ES": "Ahora sé su nombre, y es...",
@@ -7569,6 +8042,7 @@
     },
     "3889320921": {
         "CHS": "「诸君听我颂，共举爱之杯！」",
+        "CHT": "「諸君聽我頌，共舉愛之杯！」",
         "DE": "„Hört meinen Lobgesang und erhebt die Becher der Liebe!“",
         "EN": "\"Hear Me — Let Us Raise the Chalice of Love!\"",
         "ES": "¡Escuchen mis alabanzas y alcemos nuestras copas de amor!",
@@ -7585,6 +8059,7 @@
     },
     "398920769": {
         "CHS": "稳固阵线的魄力",
+        "CHT": "穩固陣線的魄力",
         "DE": "Die Frontlinie stabilisierende Entschlossenheit",
         "EN": "Stable Front Line's Resolve",
         "ES": "Temple estabilizador en el frente",
@@ -7601,6 +8076,7 @@
     },
     "2697538289": {
         "CHS": "诱导殉爆的狙击",
+        "CHT": "誘導殉爆的狙擊",
         "DE": "Zur Explosion führender Schuss",
         "EN": "Sniper Induced Explosion",
         "ES": "Detonación de francotirador",
@@ -7617,6 +8093,7 @@
     },
     "2071053617": {
         "CHS": "娴熟复装的技巧",
+        "CHT": "嫻熟復裝的技巧",
         "DE": "Das Überleben sichernde Schlachtfeldtechnik",
         "EN": "Practiced Field Stripping Technique",
         "ES": "Recarga artificiosa",
@@ -7633,6 +8110,7 @@
     },
     "737124137": {
         "CHS": "多重速射的秘诀",
+        "CHT": "多重速射的秘訣",
         "DE": "Geheimnis für schnelle Multischüsse",
         "EN": "The Secret to Rapid-Fire Multishots",
         "ES": "Técnica: Multidisparo rápido",
@@ -7649,6 +8127,7 @@
     },
     "4209804241": {
         "CHS": "增量火力的毁伤",
+        "CHT": "增量火力的毀傷",
         "DE": "Zerstörung verursachende verstärkte Feuerkraft",
         "EN": "Enhanced Incendiary Firepower",
         "ES": "Potencia de fuego incremental",
@@ -7665,6 +8144,7 @@
     },
     "3915841073": {
         "CHS": "终结罪恶的追缉",
+        "CHT": "終結罪惡的追緝",
         "DE": "Das Böse beendende Verfolgung",
         "EN": "In Pursuit of Ending Evil",
         "ES": "Persecución fenecedora del mal",
@@ -7681,6 +8161,7 @@
     },
     "3689024969": {
         "CHS": "淑女的距离感守则",
+        "CHT": "淑女的距離感守則",
         "DE": "Die Regeln einer Dame zur Aufrechterhaltung einer höflichen Distanz",
         "EN": "A Lady's Rules for Keeping a Courteous Distance",
         "ES": "Distancia de seguridad para una dama",
@@ -7697,6 +8178,7 @@
     },
     "4246729273": {
         "CHS": "总指挥的乘胜追击",
+        "CHT": "總指揮的乘勝追擊",
         "DE": "Das Streben der Chefin nach dem Sieg",
         "EN": "The President's Pursuit of Victory",
         "ES": "Comandante bélica",
@@ -7713,6 +8195,7 @@
     },
     "4008218041": {
         "CHS": "经营家的开阔视野",
+        "CHT": "經營家的開闊視野",
         "DE": "Der weitreichende Horizont einer Geschäftsfrau",
         "EN": "Businesswoman's Broad Vision",
         "ES": "Visión de empresaria",
@@ -7729,6 +8212,7 @@
     },
     "3461445297": {
         "CHS": "铭誓者的绝不姑息",
+        "CHT": "銘誓者的絕不姑息",
         "DE": "Die Eidverpflichtete kapituliert nie",
         "EN": "The Oathsworn Never Capitulate",
         "ES": "Tolerancia cero",
@@ -7745,6 +8229,7 @@
     },
     "3983244161": {
         "CHS": "协商人的坚决谈判",
+        "CHT": "協商人的堅決談判",
         "DE": "Entschlossene Verhandlungen der Unterhändlerin",
         "EN": "Negotiator's Resolute Negotiations",
         "ES": "Negociante férrea",
@@ -7761,6 +8246,7 @@
     },
     "4110233153": {
         "CHS": "刺玫会长的灵活手腕",
+        "CHT": "刺玫會長的靈活手腕",
         "DE": "Die flexible Finesse der Chefin der Spina",
         "EN": "The Flexible Finesse of the Spina's President",
         "ES": "Avezada presidenta de Spina di Rosula",
@@ -7777,6 +8263,7 @@
     },
     "4018877873": {
         "CHS": "通明庇佑",
+        "CHT": "通明庇佑",
         "DE": "Bringer des Segens",
         "EN": "Bringer of Blessing",
         "ES": "Bendición refulgente",
@@ -7793,6 +8280,7 @@
     },
     "246603977": {
         "CHS": "步踏梅花",
+        "CHT": "步踏梅花",
         "DE": "Pflaumenblüten unter den Füßen",
         "EN": "Plum Blossoms Underfoot",
         "ES": "Paseo entre cerezos",
@@ -7809,6 +8297,7 @@
     },
     "4116318089": {
         "CHS": "醒灵擂震",
+        "CHT": "醒靈擂震",
         "DE": "Erweckung des Willens",
         "EN": "Awakening Spirit",
         "ES": "Despertar espiritual",
@@ -7825,6 +8314,7 @@
     },
     "4187766889": {
         "CHS": "云里翻山",
+        "CHT": "雲裡翻山",
         "DE": "Über Berge und Wolken",
         "EN": "Soar Across Mountains",
         "ES": "Surcador de montañas",
@@ -7841,6 +8331,7 @@
     },
     "3549980385": {
         "CHS": "吼法怖魔",
+        "CHT": "吼法怖魔",
         "DE": "Dämonenjagendes Brüllen",
         "EN": "Evil-Daunting Roar",
         "ES": "Rugido acechademonios",
@@ -7857,6 +8348,7 @@
     },
     "3486976633": {
         "CHS": "百兽俱驯",
+        "CHT": "百獸俱馴",
         "DE": "Zähmer aller Bestien",
         "EN": "To Tame All Beasts",
         "ES": "Domador de todas las bestias",
@@ -7873,6 +8365,7 @@
     },
     "1584930553": {
         "CHS": "借风洗尘缘",
+        "CHT": "借風洗塵緣",
         "DE": "Läuternder Wind",
         "EN": "Purifying Wind",
         "ES": "Vientos del destino",
@@ -7889,6 +8382,7 @@
     },
     "94680617": {
         "CHS": "鹤唳远人间",
+        "CHT": "鶴唳遠人間",
         "DE": "Ausgestiegen aus der Welt",
         "EN": "Aloof From the World",
         "ES": "Graznido ermitaño",
@@ -7905,6 +8399,7 @@
     },
     "3143851073": {
         "CHS": "造化有星月",
+        "CHT": "造化有星月",
         "DE": "Schöpfung von Stern und Mond",
         "EN": "Creations of Star and Moon",
         "ES": "Creaciones lunastrales",
@@ -7921,6 +8416,7 @@
     },
     "301585425": {
         "CHS": "奥妙烹黍珠",
+        "CHT": "奧妙烹黍珠",
         "DE": "Mysteriöser Hirse-Gourmet",
         "EN": "Mystery Millet Gourmet",
         "ES": "Maravillas del sorgo",
@@ -7937,6 +8433,7 @@
     },
     "2080335137": {
         "CHS": "旋步霞蔚上",
+        "CHT": "旋步霞蔚上",
         "DE": "Wanderin über den rosigen Wolken",
         "EN": "Astride Rose-Colored Clouds",
         "ES": "Celaje arrebol",
@@ -7953,6 +8450,7 @@
     },
     "3383313401": {
         "CHS": "知是留云僊",
+        "CHT": "知是留雲僊",
         "DE": "Die mit den Wolken tanzt",
         "EN": "They Call Her Cloud Retainer",
         "ES": "Custodia de las nubes",
@@ -7969,6 +8467,7 @@
     },
     "689897337": {
         "CHS": "正绢六通",
+        "CHT": "正絹六通",
         "DE": "Sechs Pfade der Seidigkeit",
         "EN": "Six Paths of Sage Silkcraft",
         "ES": "Maestría de la seda",
@@ -7985,6 +8484,7 @@
     },
     "2112971153": {
         "CHS": "落染五色",
+        "CHT": "落染五色",
         "DE": "Fünffarbige Färbung",
         "EN": "In Five Colors Dyed",
         "ES": "Tintura polícroma",
@@ -8001,6 +8501,7 @@
     },
     "645847961": {
         "CHS": "缀锦四分",
+        "CHT": "綴錦四分",
         "DE": "Vier Brokatverzierungen",
         "EN": "Four Brocade Embellishments",
         "ES": "Bordado y rematado",
@@ -8017,6 +8518,7 @@
     },
     "6373505": {
         "CHS": "衣裁三礼",
+        "CHT": "衣裁三禮",
         "DE": "Drei Rituale der Schneiderei",
         "EN": "A Tailor's Three Courtesies",
         "ES": "Protocolo de sastre",
@@ -8033,6 +8535,7 @@
     },
     "167855529": {
         "CHS": "绫羽二重",
+        "CHT": "綾羽二重",
         "DE": "Zwei seidene Federn",
         "EN": "Two Silken Plumules",
         "ES": "Seda habutai",
@@ -8049,6 +8552,7 @@
     },
     "94228129": {
         "CHS": "万理一空",
+        "CHT": "萬理一空",
         "DE": "Verfolgung des einen Prinzips",
         "EN": "Sole Principle Pursuit",
         "ES": "Convicción y ambición",
@@ -8065,6 +8569,7 @@
     },
     "1931573609": {
         "CHS": "「所有的仇与债皆由我偿…」",
+        "CHT": "「所有的仇與債皆由我償…」",
         "DE": "„Jeden Groll und alle Schulden werde ich begleichen ...“",
         "EN": "\"All Reprisals and Arrears, Mine to Bear...\"",
         "ES": "Yo cargaré con todas las deudas y el odio",
@@ -8081,6 +8586,7 @@
     },
     "2743280569": {
         "CHS": "「所有的赏与罚皆自我出…」",
+        "CHT": "「所有的賞與罰皆自我出…」",
         "DE": "„Jede Belohnung und Vergeltung wird von mir vergeben ...“",
         "EN": "\"All Rewards and Retribution, Mine to Bestow...\"",
         "ES": "Yo otorgaré toda recompensa y castigo",
@@ -8097,6 +8603,7 @@
     },
     "1222541609": {
         "CHS": "「你将成为我们新的家人…」",
+        "CHT": "#「{F#妳}{M#你}將成為我們新的家人…」",
         "DE": "„Du wirst Teil unserer Familie werden ...“",
         "EN": "\"You Shall Become a New Member of Our Family...\"",
         "ES": "Tú serás el nuevo miembro de nuestra familia",
@@ -8113,6 +8620,7 @@
     },
     "2103473001": {
         "CHS": "「此后，你们须相爱相护…」",
+        "CHT": "#「此後，{F#妳}{M#你}們須相愛相護…」",
         "DE": "„Von nun an müsst ihr euch gegenseitig lieben und beschützen ...“",
         "EN": "\"You Shall Love and Protect Each Other Henceforth...\"",
         "ES": "Entonces, se amarán y se protegerán",
@@ -8129,6 +8637,7 @@
     },
     "3475324945": {
         "CHS": "「我们已孑然一身，与死无异…」",
+        "CHT": "「我們已孑然一身，與死無異…」",
         "DE": "„Allein sind wir so gut wie tot ...“",
         "EN": "\"For Alone, We Are as Good as Dead...\"",
         "ES": "Nuestra soledad se equipara a la muerte",
@@ -8145,6 +8654,7 @@
     },
     "585561937": {
         "CHS": "「自此以后，我们将共飨新生。」",
+        "CHT": "「自此以後，我們將共饗新生。」",
         "DE": "„Von nun an werden wir gemeinsam ein neues Leben führen.“",
         "EN": "\"From This Day On, We Shall Delight in New Life Together.\"",
         "ES": "Así pues, disfrutemos de una nueva vida",

@@ -1,6 +1,7 @@
 {
     "2410593283": {
         "CHS": "无锋剑",
+        "CHT": "無鋒劍",
         "DE": "Stumpfes Schwert",
         "EN": "Dull Blade",
         "ES": "Hoja Desafilada",
@@ -17,6 +18,7 @@
     },
     "2125206395": {
         "CHS": "银剑",
+        "CHT": "銀劍",
         "DE": "Silberschwert",
         "EN": "Silver Sword",
         "ES": "Espada Plateada",
@@ -33,6 +35,7 @@
     },
     "479076483": {
         "CHS": "冷刃",
+        "CHT": "冷刃",
         "DE": "Kühle Klinge",
         "EN": "Cool Steel",
         "ES": "Hoja Fría",
@@ -49,6 +52,7 @@
     },
     "1608953539": {
         "CHS": "黎明神剑",
+        "CHT": "黎明神劍",
         "DE": "Schwert der Dämmerung",
         "EN": "Harbinger of Dawn",
         "ES": "Espada del Alba",
@@ -65,6 +69,7 @@
     },
     "3673792067": {
         "CHS": "旅行剑",
+        "CHT": "旅行劍",
         "DE": "Reiseschwert",
         "EN": "Traveler's Handy Sword",
         "ES": "Espada del Viajero",
@@ -81,6 +86,7 @@
     },
     "160493219": {
         "CHS": "暗铁剑",
+        "CHT": "暗鐵劍",
         "DE": "Dunkles Eisenschwert",
         "EN": "Dark Iron Sword",
         "ES": "Espada de Hierro Oscuro",
@@ -97,6 +103,7 @@
     },
     "3421967235": {
         "CHS": "吃虎鱼刀",
+        "CHT": "吃虎魚刀",
         "DE": "Filetiermesser",
         "EN": "Fillet Blade",
         "ES": "Hoja de Filetear",
@@ -113,6 +120,7 @@
     },
     "1388004931": {
         "CHS": "飞天御剑",
+        "CHT": "飛天御劍",
         "DE": "Himmelsflug-Schwert",
         "EN": "Skyrider Sword",
         "ES": "Espada Surcacielos",
@@ -129,6 +137,7 @@
     },
     "2474354867": {
         "CHS": "西风剑",
+        "CHT": "西風劍",
         "DE": "Favonius-Schwert",
         "EN": "Favonius Sword",
         "ES": "Espada de Favonius",
@@ -145,6 +154,7 @@
     },
     "3587621259": {
         "CHS": "笛剑",
+        "CHT": "笛劍",
         "DE": "Flöte",
         "EN": "The Flute",
         "ES": "Flauta",
@@ -161,6 +171,7 @@
     },
     "1990641987": {
         "CHS": "祭礼剑",
+        "CHT": "祭禮劍",
         "DE": "Opferschwert",
         "EN": "Sacrificial Sword",
         "ES": "Espada de Sacrificio",
@@ -177,6 +188,7 @@
     },
     "2375993851": {
         "CHS": "宗室长剑",
+        "CHT": "宗室長劍",
         "DE": "Königliches Langschwert",
         "EN": "Royal Longsword",
         "ES": "Espada Real Larga",
@@ -193,6 +205,7 @@
     },
     "1321135667": {
         "CHS": "匣里龙吟",
+        "CHT": "匣裡龍吟",
         "DE": "Drachenschrei",
         "EN": "Lion's Roar",
         "ES": "Rugido del León",
@@ -209,6 +222,7 @@
     },
     "1991707099": {
         "CHS": "试作斩岩",
+        "CHT": "試作斬岩",
         "DE": "Steinschneider-Prototyp",
         "EN": "Prototype Rancour",
         "ES": "Prototipo Rencor",
@@ -225,6 +239,7 @@
     },
     "4103022435": {
         "CHS": "铁蜂刺",
+        "CHT": "鐵蜂刺",
         "DE": "Eisenstich",
         "EN": "Iron Sting",
         "ES": "Espina de Hierro",
@@ -241,6 +256,7 @@
     },
     "3378007475": {
         "CHS": "黑岩长剑",
+        "CHT": "黑岩長劍",
         "DE": "Schwarzstein-Langschwert",
         "EN": "Blackcliff Longsword",
         "ES": "Espada Larga del Peñasco Oscuro",
@@ -257,6 +273,7 @@
     },
     "3796905611": {
         "CHS": "黑剑",
+        "CHT": "黑劍",
         "DE": "Schwarzes Schwert",
         "EN": "The Black Sword",
         "ES": "Espada Negra",
@@ -273,6 +290,7 @@
     },
     "2947140987": {
         "CHS": "暗巷闪光",
+        "CHT": "暗巷閃光",
         "DE": "Gassenleuchte",
         "EN": "The Alley Flash",
         "ES": "Destello en la Oscuridad",
@@ -289,6 +307,7 @@
     },
     "1135130229": {
         "CHS": "",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
@@ -305,6 +324,7 @@
     },
     "1773425155": {
         "CHS": "降临之剑",
+        "CHT": "降臨之劍",
         "DE": "Schwert der Niederkunft",
         "EN": "Sword of Descension",
         "ES": "Espada del Descenso",
@@ -321,6 +341,7 @@
     },
     "2749853923": {
         "CHS": "腐殖之剑",
+        "CHT": "腐殖之劍",
         "DE": "Schwert der Verderbnis",
         "EN": "Festering Desire",
         "ES": "Deseo Ponzoñoso",
@@ -337,6 +358,7 @@
     },
     "1990820123": {
         "CHS": "天目影打刀",
+        "CHT": "天目影打刀",
         "DE": "Amenoma Kageuchi",
         "EN": "Amenoma Kageuchi",
         "ES": "Espada Amenoma Gemela",
@@ -353,6 +375,7 @@
     },
     "342097547": {
         "CHS": "辰砂之纺锤",
+        "CHT": "辰砂之紡錘",
         "DE": "Zinnoberspindel",
         "EN": "Cinnabar Spindle",
         "ES": "Huso de Cinabrio",
@@ -369,6 +392,7 @@
     },
     "1012170803": {
         "CHS": "笼钓瓶一心",
+        "CHT": "籠釣瓶一心",
         "DE": "Kagotsurube Isshin",
         "EN": "Kagotsurube Isshin",
         "ES": "Kagotsurube Isshin",
@@ -385,6 +409,7 @@
     },
     "313300315": {
         "CHS": "原木刀",
+        "CHT": "原木刀",
         "DE": "Stammklinge",
         "EN": "Sapwood Blade",
         "ES": "Espada de Madera",
@@ -401,6 +426,7 @@
     },
     "143051931": {
         "CHS": "西福斯的月光",
+        "CHT": "西福斯的月光",
         "DE": "Mondlicht von Xiphos",
         "EN": "Xiphos' Moonlight",
         "ES": "Luz Lunar de Xifos",
@@ -417,6 +443,7 @@
     },
     "1499745907": {
         "CHS": "「一心传」名刀",
+        "CHT": "「一心傳」名刀",
         "DE": "Berühmtes Schwert der „Isshin-Schule“",
         "EN": "Prized Isshin Blade",
         "ES": "Espada Egregia de Isshin",
@@ -433,6 +460,7 @@
     },
     "1538092267": {
         "CHS": "「一心传」名刀",
+        "CHT": "「一心傳」名刀",
         "DE": "Berühmtes Schwert der „Isshin-Schule“",
         "EN": "Prized Isshin Blade",
         "ES": "Espada Egregia de Isshin",
@@ -449,6 +477,7 @@
     },
     "3464027035": {
         "CHS": "「一心传」名刀",
+        "CHT": "「一心傳」名刀",
         "DE": "Berühmtes Schwert der „Isshin-Schule“",
         "EN": "Prized Isshin Blade",
         "ES": "Espada Egregia de Isshin",
@@ -465,6 +494,7 @@
     },
     "2448629019": {
         "CHS": "东花坊时雨",
+        "CHT": "東花坊時雨",
         "DE": "Toukabou Shigure",
         "EN": "Toukabou Shigure",
         "ES": "Diluvio Florífero",
@@ -481,6 +511,7 @@
     },
     "2265792579": {
         "CHS": "狼牙",
+        "CHT": "狼牙",
         "DE": "Wolfszahn",
         "EN": "Wolf-Fang",
         "ES": "Colmillo Lupino",
@@ -497,6 +528,7 @@
     },
     "800766043": {
         "CHS": "海渊终曲",
+        "CHT": "海淵終曲",
         "DE": "Finale in der Tiefe",
         "EN": "Finale of the Deep",
         "ES": "Réquiem Abisal",
@@ -513,6 +545,7 @@
     },
     "1921306659": {
         "CHS": "灰河渡手",
+        "CHT": "灰河渡手",
         "DE": "Schiffer des Fleuve Cendré",
         "EN": "Fleuve Cendre Ferryman",
         "ES": "Vado del Río Ceniciento",
@@ -529,6 +562,7 @@
     },
     "1790067483": {
         "CHS": "船坞长剑",
+        "CHT": "船塢長劍",
         "DE": "Werftklinge",
         "EN": "The Dockhand's Assistant",
         "ES": "Sable de la Dársena",
@@ -545,6 +579,7 @@
     },
     "3016493955": {
         "CHS": "水仙十字之剑",
+        "CHT": "水仙十字之劍",
         "DE": "Schwert des Narzissenkreuzes",
         "EN": "Sword of Narzissenkreuz",
         "ES": "Espada Cruz de los Narcisos",
@@ -561,6 +596,7 @@
     },
     "594850707": {
         "CHS": "水仙十字之剑",
+        "CHT": "水仙十字之劍",
         "DE": "Schwert des Narzissenkreuzes",
         "EN": "Sword of Narzissenkreuz",
         "ES": "Espada Cruz de los Narcisos",
@@ -577,6 +613,7 @@
     },
     "902264035": {
         "CHS": "风鹰剑",
+        "CHT": "風鷹劍",
         "DE": "Windfalke",
         "EN": "Aquila Favonia",
         "ES": "Aquila Favonia",
@@ -593,6 +630,7 @@
     },
     "4055003299": {
         "CHS": "天空之刃",
+        "CHT": "天空之刃",
         "DE": "Himmelsklinge",
         "EN": "Skyward Blade",
         "ES": "Hoja Afilada Celestial",
@@ -609,6 +647,7 @@
     },
     "2949448555": {
         "CHS": "苍古自由之誓",
+        "CHT": "蒼古自由之誓",
         "DE": "Blasser Schwur der Freiheit",
         "EN": "Freedom-Sworn",
         "ES": "Juramento por la Libertad",
@@ -625,6 +664,7 @@
     },
     "944332883": {
         "CHS": "斫峰之刃",
+        "CHT": "斫峰之刃",
         "DE": "Gipfelbrecher",
         "EN": "Summit Shaper",
         "ES": "Rompemontañas",
@@ -641,6 +681,7 @@
     },
     "1345343763": {
         "CHS": "磐岩结绿",
+        "CHT": "磐岩結綠",
         "DE": "Moosgrüner Fels",
         "EN": "Primordial Jade Cutter",
         "ES": "Cortador de Jade Primordial",
@@ -657,6 +698,7 @@
     },
     "231836963": {
         "CHS": "",
+        "CHT": "磐岩結綠",
         "DE": "Moosgrüner Fels",
         "EN": "Primordial Jade Cutter",
         "ES": "Cortador de Jade Primordial",
@@ -673,6 +715,7 @@
     },
     "3780343147": {
         "CHS": "",
+        "CHT": "憑虛",
         "DE": "Gefäß der Leere",
         "EN": "One Side",
         "ES": "Destino Vacío",
@@ -689,6 +732,7 @@
     },
     "1664039091": {
         "CHS": "",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
@@ -705,6 +749,7 @@
     },
     "4124851547": {
         "CHS": "雾切之回光",
+        "CHT": "霧切之回光",
         "DE": "Widerschein des Nebelsplitters",
         "EN": "Mistsplitter Reforged",
         "ES": "Reflejo de las Tinieblas",
@@ -721,6 +766,7 @@
     },
     "1600275315": {
         "CHS": "波乱月白经津",
+        "CHT": "波亂月白經津",
         "DE": "Haran Geppaku Futsu",
         "EN": "Haran Geppaku Futsu",
         "ES": "Luna Ondulante de Futsu",
@@ -737,6 +783,7 @@
     },
     "454086795": {
         "CHS": "圣显之钥",
+        "CHT": "聖顯之鑰",
         "DE": "Khaj-Nisut-Schlüssel",
         "EN": "Key of Khaj-Nisut",
         "ES": "Llave de la Coronación",
@@ -753,6 +800,7 @@
     },
     "275622963": {
         "CHS": "裁叶萃光",
+        "CHT": "裁葉萃光",
         "DE": "Licht der schneidenden Blätter",
         "EN": "Light of Foliar Incision",
         "ES": "Clorofilo Refulgente",
@@ -769,6 +817,7 @@
     },
     "1473399443": {
         "CHS": "静水流涌之辉",
+        "CHT": "靜水流湧之輝",
         "DE": "Pracht des stillen Wassers",
         "EN": "Splendor of Tranquil Waters",
         "ES": "Fulgor de las Aguas Calmas",
@@ -785,6 +834,7 @@
     },
     "1818340435": {
         "CHS": "有乐御簾切",
+        "CHT": "有樂御簾切",
         "DE": "Uraku Misugiri",
         "EN": "Uraku Misugiri",
         "ES": "Cortatelones de Urakusai",
@@ -801,6 +851,7 @@
     },
     "2666951267": {
         "CHS": "训练大剑",
+        "CHT": "訓練大劍",
         "DE": "Übungsgroßschwert",
         "EN": "Waster Greatsword",
         "ES": "Gran Espada del Guerrero",
@@ -817,6 +868,7 @@
     },
     "1182966603": {
         "CHS": "佣兵重剑",
+        "CHT": "傭兵重劍",
         "DE": "Söldnerzweihänder",
         "EN": "Old Merc's Pal",
         "ES": "Espada del Mercenario",
@@ -833,6 +885,7 @@
     },
     "1479961579": {
         "CHS": "铁影阔剑",
+        "CHT": "鐵影闊劍",
         "DE": "Eiserner Schatten",
         "EN": "Ferrous Shadow",
         "ES": "Sombra Férrea",
@@ -849,6 +902,7 @@
     },
     "4090429643": {
         "CHS": "沐浴龙血的剑",
+        "CHT": "沐浴龍血的劍",
         "DE": "Drachenblutschwert",
         "EN": "Bloodtainted Greatsword",
         "ES": "Gran Espada Sangrienta",
@@ -865,6 +919,7 @@
     },
     "850802171": {
         "CHS": "白铁大剑",
+        "CHT": "白鐵大劍",
         "DE": "Weißes Eisengroßschwert",
         "EN": "White Iron Greatsword",
         "ES": "Espada de Hierro Blanco",
@@ -881,6 +936,7 @@
     },
     "1516554699": {
         "CHS": "石英大剑",
+        "CHT": "石英大劍",
         "DE": "Quarzgroßschwert",
         "EN": "Quartz",
         "ES": "Espada de Cuarzo",
@@ -897,6 +953,7 @@
     },
     "3097441915": {
         "CHS": "以理服人",
+        "CHT": "以理服人",
         "DE": "Schlagfestes Argument",
         "EN": "Debate Club",
         "ES": "Garrote del Debate",
@@ -913,6 +970,7 @@
     },
     "2614170427": {
         "CHS": "飞天大御剑",
+        "CHT": "飛天大御劍",
         "DE": "Himmelsflug-Großschwert",
         "EN": "Skyrider Greatsword",
         "ES": "Gran Espada Surcacielos",
@@ -929,6 +987,7 @@
     },
     "735056795": {
         "CHS": "西风大剑",
+        "CHT": "西風大劍",
         "DE": "Favonius-Großschwert",
         "EN": "Favonius Greatsword",
         "ES": "Gran Espada de Favonius",
@@ -945,6 +1004,7 @@
     },
     "930640955": {
         "CHS": "钟剑",
+        "CHT": "鐘劍",
         "DE": "Glocke",
         "EN": "The Bell",
         "ES": "Espada del Tiempo",
@@ -961,6 +1021,7 @@
     },
     "1675686363": {
         "CHS": "祭礼大剑",
+        "CHT": "祭禮大劍",
         "DE": "Opfergroßschwert",
         "EN": "Sacrificial Greatsword",
         "ES": "Gran Espada de Sacrificio",
@@ -977,6 +1038,7 @@
     },
     "877751435": {
         "CHS": "宗室大剑",
+        "CHT": "宗室大劍",
         "DE": "Königliches Großschwert",
         "EN": "Royal Greatsword",
         "ES": "Gran Espada Real",
@@ -993,6 +1055,7 @@
     },
     "3684723963": {
         "CHS": "雨裁",
+        "CHT": "雨裁",
         "DE": "Regenschnitter",
         "EN": "Rainslasher",
         "ES": "Segadora de la Lluvia",
@@ -1009,6 +1072,7 @@
     },
     "3722933411": {
         "CHS": "试作古华",
+        "CHT": "試作古華",
         "DE": "Guhua-Prototyp",
         "EN": "Prototype Archaic",
         "ES": "Prototipo Arcaico",
@@ -1025,6 +1089,7 @@
     },
     "680510411": {
         "CHS": "白影剑",
+        "CHT": "白影劍",
         "DE": "Weißer Schatten",
         "EN": "Whiteblind",
         "ES": "Sombra Blanca",
@@ -1041,6 +1106,7 @@
     },
     "20848859": {
         "CHS": "黑岩斩刀",
+        "CHT": "黑岩斬刀",
         "DE": "Schwarzstein-Schneide",
         "EN": "Blackcliff Slasher",
         "ES": "Gran Hoja del Peñasco Oscuro",
@@ -1057,6 +1123,7 @@
     },
     "1437658243": {
         "CHS": "螭骨剑",
+        "CHT": "螭骨劍",
         "DE": "Knochenschwert",
         "EN": "Serpent Spine",
         "ES": "Médula de la Serpiente Marina",
@@ -1073,6 +1140,7 @@
     },
     "2006422931": {
         "CHS": "千岩古剑",
+        "CHT": "千岩古劍",
         "DE": "Antikes Millelithenschwert",
         "EN": "Lithic Blade",
         "ES": "Espada Lítica",
@@ -1089,6 +1157,7 @@
     },
     "2753539619": {
         "CHS": "雪葬的星银",
+        "CHT": "雪葬的星銀",
         "DE": "Unter Schnee begrabenes Sternsilber",
         "EN": "Snow-Tombed Starsilver",
         "ES": "Argento Estelar de las Nieves",
@@ -1105,6 +1174,7 @@
     },
     "346510395": {
         "CHS": "衔珠海皇",
+        "CHT": "銜珠海皇",
         "DE": "Luxuriöser Seekönig",
         "EN": "Luxurious Sea-Lord",
         "ES": "Rey de los Mares",
@@ -1121,6 +1191,7 @@
     },
     "4193089947": {
         "CHS": "桂木斩长正",
+        "CHT": "桂木斬長正",
         "DE": "Katsuragikiri Nagamasa",
         "EN": "Katsuragikiri Nagamasa",
         "ES": "Asesinato de Katsuragi",
@@ -1137,6 +1208,7 @@
     },
     "3073454867": {
         "CHS": "玛海菈的水色",
+        "CHT": "瑪海菈的水色",
         "DE": "Makhaira-Aquamarin",
         "EN": "Makhaira Aquamarine",
         "ES": "Májaira Aguamarina",
@@ -1153,6 +1225,7 @@
     },
     "2359799475": {
         "CHS": "恶王丸",
+        "CHT": "惡王丸",
         "DE": "Akuoumaru",
         "EN": "Akuoumaru",
         "ES": "Rey del Mal",
@@ -1169,6 +1242,7 @@
     },
     "902184579": {
         "CHS": "森林王器",
+        "CHT": "森林王器",
         "DE": "Waldkönigsschwert",
         "EN": "Forest Regalia",
         "ES": "Espada Real del Bosque",
@@ -1185,6 +1259,7 @@
     },
     "1200948859": {
         "CHS": "饰铁之花",
+        "CHT": "飾鐵之花",
         "DE": "Eiserne Blume",
         "EN": "Mailed Flower",
         "ES": "Fierro Floriorlado",
@@ -1201,6 +1276,7 @@
     },
     "3459616011": {
         "CHS": "聊聊棒",
+        "CHT": "聊聊棒",
         "DE": "Lass uns reden",
         "EN": "Talking Stick",
         "ES": "Garrote del Diálogo",
@@ -1217,6 +1293,7 @@
     },
     "2077869763": {
         "CHS": "浪影阔剑",
+        "CHT": "浪影闊劍",
         "DE": "Gezeitenschatten",
         "EN": "Tidal Shadow",
         "ES": "Sombra de la Marea",
@@ -1233,6 +1310,7 @@
     },
     "933442195": {
         "CHS": "「究极霸王超级魔剑」",
+        "CHT": "「究極霸王超級魔劍」",
         "DE": "„Megamagisches Schwert des ultimativen Oberherrn“",
         "EN": "\"Ultimate Overlord's Mega Magic Sword\"",
         "ES": "Superespada Mágica Suprema",
@@ -1249,6 +1327,7 @@
     },
     "3693117451": {
         "CHS": "便携动力锯",
+        "CHT": "便攜動力鋸",
         "DE": "Tragbare motorisierte Säge",
         "EN": "Portable Power Saw",
         "ES": "Motosierra Transportable",
@@ -1265,6 +1344,7 @@
     },
     "1089950259": {
         "CHS": "天空之傲",
+        "CHT": "天空之傲",
         "DE": "Stolz des Himmels",
         "EN": "Skyward Pride",
         "ES": "Orgullo Celestial",
@@ -1281,6 +1361,7 @@
     },
     "3995710363": {
         "CHS": "狼的末路",
+        "CHT": "狼的末路",
         "DE": "Wolfsgrab",
         "EN": "Wolf's Gravestone",
         "ES": "Lápida del Lobo",
@@ -1297,6 +1378,7 @@
     },
     "1075647299": {
         "CHS": "松籁响起之时",
+        "CHT": "松籟響起之時",
         "DE": "Kiefernklang",
         "EN": "Song of Broken Pines",
         "ES": "Oda de los Pinos",
@@ -1313,6 +1395,7 @@
     },
     "2792766467": {
         "CHS": "无工之剑",
+        "CHT": "無工之劍",
         "DE": "Grobes Schwert",
         "EN": "The Unforged",
         "ES": "Espada de la Desidia",
@@ -1329,6 +1412,7 @@
     },
     "977648923": {
         "CHS": "",
+        "CHT": "砥厄魚",
         "DE": "Urzeitliches Jadeschwert",
         "EN": "Primordial Jade Greatsword",
         "ES": "Espada de Jade Inicial",
@@ -1345,6 +1429,7 @@
     },
     "2597527627": {
         "CHS": "",
+        "CHT": "異史",
         "DE": "Anderer Verlauf",
         "EN": "The Other Side",
         "ES": "Historia Diferente",
@@ -1361,6 +1446,7 @@
     },
     "759708203": {
         "CHS": "",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
@@ -1377,6 +1463,7 @@
     },
     "2507837467": {
         "CHS": "",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
@@ -1393,6 +1480,7 @@
     },
     "3914951691": {
         "CHS": "赤角石溃杵",
+        "CHT": "赤角石潰杵",
         "DE": "Rothorn-Steinbrecher",
         "EN": "Redhorn Stonethresher",
         "ES": "Espadón Cornirrojo",
@@ -1409,6 +1497,7 @@
     },
     "2834063555": {
         "CHS": "苇海信标",
+        "CHT": "葦海信標",
         "DE": "Schilfmeer-Bake",
         "EN": "Beacon of the Reed Sea",
         "ES": "Emblema del Mar de Juncos",
@@ -1425,6 +1514,7 @@
     },
     "3812523339": {
         "CHS": "裁断",
+        "CHT": "裁斷",
         "DE": "Urteilsspruch",
         "EN": "Verdict",
         "ES": "Sentenciadora",
@@ -1441,6 +1531,7 @@
     },
     "2796697027": {
         "CHS": "新手长枪",
+        "CHT": "新手長槍",
         "DE": "Anfängerlanze",
         "EN": "Beginner's Protector",
         "ES": "Lanza del Principiante",
@@ -1457,6 +1548,7 @@
     },
     "3070169307": {
         "CHS": "铁尖枪",
+        "CHT": "鐵尖槍",
         "DE": "Eisenlanze",
         "EN": "Iron Point",
         "ES": "Punta de Hierro",
@@ -1473,6 +1565,7 @@
     },
     "1390797107": {
         "CHS": "白缨枪",
+        "CHT": "白纓槍",
         "DE": "Weiße Quaste",
         "EN": "White Tassel",
         "ES": "Borla Blanca",
@@ -1489,6 +1582,7 @@
     },
     "618786571": {
         "CHS": "钺矛",
+        "CHT": "鉞矛",
         "DE": "Hellebarde",
         "EN": "Halberd",
         "ES": "Alabarda",
@@ -1505,6 +1599,7 @@
     },
     "4103766499": {
         "CHS": "黑缨枪",
+        "CHT": "黑纓槍",
         "DE": "Schwarze Quaste",
         "EN": "Black Tassel",
         "ES": "Borla Negra",
@@ -1521,6 +1616,7 @@
     },
     "500612819": {
         "CHS": "「旗杆」",
+        "CHT": "「旗桿」",
         "DE": "Fahnenmast",
         "EN": "The Flagstaff",
         "ES": "Asta de Bandera",
@@ -1537,6 +1633,7 @@
     },
     "2664629131": {
         "CHS": "匣里灭辰",
+        "CHT": "匣裡滅辰",
         "DE": "Drachenschreck",
         "EN": "Dragon's Bane",
         "ES": "Perdición del Dragón",
@@ -1553,6 +1650,7 @@
     },
     "1154009435": {
         "CHS": "试作星镰",
+        "CHT": "試作星鐮",
         "DE": "Sternsichel-Prototyp",
         "EN": "Prototype Starglitter",
         "ES": "Prototipo Estelar",
@@ -1569,6 +1667,7 @@
     },
     "578575283": {
         "CHS": "流月针",
+        "CHT": "流月針",
         "DE": "Mondpike",
         "EN": "Crescent Pike",
         "ES": "Pica Luna Creciente",
@@ -1585,6 +1684,7 @@
     },
     "481755219": {
         "CHS": "黑岩刺枪",
+        "CHT": "黑岩刺槍",
         "DE": "Schwarzsteinlanze",
         "EN": "Blackcliff Pole",
         "ES": "Lanza del Peñasco Oscuro",
@@ -1601,6 +1701,7 @@
     },
     "4049410651": {
         "CHS": "决斗之枪",
+        "CHT": "決鬥之槍",
         "DE": "Duelllanze",
         "EN": "Deathmatch",
         "ES": "Lanza del Duelo",
@@ -1617,6 +1718,7 @@
     },
     "716252627": {
         "CHS": "千岩长枪",
+        "CHT": "千岩長槍",
         "DE": "Millelithenlanze",
         "EN": "Lithic Spear",
         "ES": "Lanza Lítica",
@@ -1633,6 +1735,7 @@
     },
     "3755004051": {
         "CHS": "西风长枪",
+        "CHT": "西風長槍",
         "DE": "Favonius-Lanze",
         "EN": "Favonius Lance",
         "ES": "Lanza de Favonius",
@@ -1649,6 +1752,7 @@
     },
     "2935286715": {
         "CHS": "宗室猎枪",
+        "CHT": "宗室獵槍",
         "DE": "Königlicher Jagdspeer",
         "EN": "Royal Spear",
         "ES": "Lanza de Caza Real",
@@ -1665,6 +1769,7 @@
     },
     "3443142923": {
         "CHS": "龙脊长枪",
+        "CHT": "龍脊長槍",
         "DE": "Drachengratspeer",
         "EN": "Dragonspine Spear",
         "ES": "Lanza de Espinadragón",
@@ -1681,6 +1786,7 @@
     },
     "2491797315": {
         "CHS": "喜多院十文字",
+        "CHT": "喜多院十文字",
         "DE": "Kitain-Kreuzlanze",
         "EN": "Kitain Cross Spear",
         "ES": "Cruz de Kitain",
@@ -1697,6 +1803,7 @@
     },
     "1148024603": {
         "CHS": "「渔获」",
+        "CHT": "「漁獲」",
         "DE": "„Der Fang“",
         "EN": "\"The Catch\"",
         "ES": "La Captura",
@@ -1713,6 +1820,7 @@
     },
     "4122509083": {
         "CHS": "断浪长鳍",
+        "CHT": "斷浪長鰭",
         "DE": "Wellenbrecherflosse",
         "EN": "Wavebreaker's Fin",
         "ES": "Aleta Cortaolas",
@@ -1729,6 +1837,7 @@
     },
     "452357939": {
         "CHS": "贯月矢",
+        "CHT": "貫月矢",
         "DE": "Monddurchbohrer",
         "EN": "Moonpiercer",
         "ES": "Perforalunas",
@@ -1745,6 +1854,7 @@
     },
     "1470442731": {
         "CHS": "风信之锋",
+        "CHT": "風信之鋒",
         "DE": "Spitze der klingenden Winde",
         "EN": "Missive Windspear",
         "ES": "Alabarda del Viento Epistolar",
@@ -1761,6 +1871,7 @@
     },
     "449192923": {
         "CHS": "峡湾长歌",
+        "CHT": "峽灣長歌",
         "DE": "Ballade der Fjorde",
         "EN": "Ballad of the Fjords",
         "ES": "Balada de los Fiordos",
@@ -1777,6 +1888,7 @@
     },
     "4158971171": {
         "CHS": "公义的酬报",
+        "CHT": "公義的酬報",
         "DE": "Rechtmäßige Belohnung",
         "EN": "Rightful Reward",
         "ES": "Retribución de la Justicia",
@@ -1793,6 +1905,7 @@
     },
     "2847771107": {
         "CHS": "沙中伟贤的对答",
+        "CHT": "沙中偉賢的對答",
         "DE": "Dialoge der Weisen der Wüste",
         "EN": "Dialogues of the Desert Sages",
         "ES": "Discusión de los Sabios del Desierto",
@@ -1809,6 +1922,7 @@
     },
     "882305891": {
         "CHS": "勘探钻机",
+        "CHT": "勘探鑽機",
         "DE": "Erkundungsbohrer",
         "EN": "Prospector's Drill",
         "ES": "Taladradora de Prospección",
@@ -1825,6 +1939,7 @@
     },
     "3235324891": {
         "CHS": "护摩之杖",
+        "CHT": "護摩之杖",
         "DE": "Homa-Stab",
         "EN": "Staff of Homa",
         "ES": "Báculo de Homa",
@@ -1841,6 +1956,7 @@
     },
     "4158505619": {
         "CHS": "天空之脊",
+        "CHT": "天空之脊",
         "DE": "Himmelsgrat",
         "EN": "Skyward Spine",
         "ES": "Púa Celestial",
@@ -1857,6 +1973,7 @@
     },
     "469555475": {
         "CHS": "",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
@@ -1873,6 +1990,7 @@
     },
     "197755235": {
         "CHS": "贯虹之槊",
+        "CHT": "貫虹之槊",
         "DE": "Regenbogenstecher",
         "EN": "Vortex Vanquisher",
         "ES": "Lanza Perforanubes",
@@ -1889,6 +2007,7 @@
     },
     "1997709467": {
         "CHS": "和璞鸢",
+        "CHT": "和璞鳶",
         "DE": "Urzeitlicher Jadespeer",
         "EN": "Primordial Jade Winged-Spear",
         "ES": "Halcón de Jade",
@@ -1905,6 +2024,7 @@
     },
     "3532343811": {
         "CHS": "",
+        "CHT": "弑主",
         "DE": "Göttermörder",
         "EN": "Deicide",
         "ES": "Cazador de Dioses",
@@ -1921,6 +2041,7 @@
     },
     "688991243": {
         "CHS": "息灾",
+        "CHT": "息災",
         "DE": "Ende des Unheils",
         "EN": "Calamity Queller",
         "ES": "Pacificadora del Desastre",
@@ -1937,6 +2058,7 @@
     },
     "3717849275": {
         "CHS": "薙草之稻光",
+        "CHT": "薙草之稻光",
         "DE": "Grasschnittstrahl",
         "EN": "Engulfing Lightning",
         "ES": "Luz del Segador",
@@ -1953,6 +2075,7 @@
     },
     "4238339131": {
         "CHS": "赤沙之杖",
+        "CHT": "赤沙之杖",
         "DE": "Stab der roten Sande",
         "EN": "Staff of the Scarlet Sands",
         "ES": "Báculo de las Arenas Escarlatas",
@@ -1969,6 +2092,7 @@
     },
     "2944936683": {
         "CHS": "赤月之形",
+        "CHT": "赤月之形",
         "DE": "Form des scharlachroten Mondes",
         "EN": "Crimson Moon's Semblance",
         "ES": "Semblante de la Luna Carmesí",
@@ -1985,6 +2109,7 @@
     },
     "3584825427": {
         "CHS": "学徒笔记",
+        "CHT": "學徒筆記",
         "DE": "Aufzeichnungen eines Lehrlings",
         "EN": "Apprentice's Notes",
         "ES": "Apuntes del Aprendiz",
@@ -2001,6 +2126,7 @@
     },
     "2705029563": {
         "CHS": "口袋魔导书",
+        "CHT": "口袋魔導書",
         "DE": "Taschenzauberbuch",
         "EN": "Pocket Grimoire",
         "ES": "Grimorio de Bolsillo",
@@ -2017,6 +2143,7 @@
     },
     "2279290283": {
         "CHS": "魔导绪论",
+        "CHT": "魔導緒論",
         "DE": "Magieführer",
         "EN": "Magic Guide",
         "ES": "Guía Mágica",
@@ -2033,6 +2160,7 @@
     },
     "3500935003": {
         "CHS": "讨龙英杰谭",
+        "CHT": "討龍英傑譚",
         "DE": "Von den Heldentaten der Drachenbezwinger",
         "EN": "Thrilling Tales of Dragon Slayers",
         "ES": "Cuentos de Cazadores de Dragones",
@@ -2049,6 +2177,7 @@
     },
     "1406746947": {
         "CHS": "异世界行记",
+        "CHT": "異世界行記",
         "DE": "Geschichten einer anderen Welt",
         "EN": "Otherworldly Story",
         "ES": "Historias de Otros Mundos",
@@ -2065,6 +2194,7 @@
     },
     "2963220587": {
         "CHS": "翡玉法球",
+        "CHT": "翡玉法球",
         "DE": "Jadekugel",
         "EN": "Emerald Orb",
         "ES": "Orbe Esmeralda",
@@ -2081,6 +2211,7 @@
     },
     "3719372715": {
         "CHS": "甲级宝珏",
+        "CHT": "甲級寶玨",
         "DE": "Zwillingsnephrit",
         "EN": "Twin Nephrite",
         "ES": "Nefrita Gemela",
@@ -2097,6 +2228,7 @@
     },
     "302691299": {
         "CHS": "琥珀玥",
+        "CHT": "琥珀玥",
         "DE": "Bernsteinkatalysator",
         "EN": "Amber Bead",
         "ES": "Catalizador de Ámbar",
@@ -2113,6 +2245,7 @@
     },
     "623534363": {
         "CHS": "西风秘典",
+        "CHT": "西風秘典",
         "DE": "Favonius-Kodex",
         "EN": "Favonius Codex",
         "ES": "Códice de Favonius",
@@ -2129,6 +2262,7 @@
     },
     "1163263227": {
         "CHS": "流浪乐章",
+        "CHT": "流浪樂章",
         "DE": "Landstreichernoten",
         "EN": "The Widsith",
         "ES": "Sinfonía de los Merodeadores",
@@ -2145,6 +2279,7 @@
     },
     "2195665683": {
         "CHS": "祭礼残章",
+        "CHT": "祭禮殘章",
         "DE": "Opferrituale",
         "EN": "Sacrificial Fragments",
         "ES": "Memorias de Sacrificios",
@@ -2161,6 +2296,7 @@
     },
     "3827789435": {
         "CHS": "宗室秘法录",
+        "CHT": "宗室秘法錄",
         "DE": "Königliches Zauberbuch",
         "EN": "Royal Grimoire",
         "ES": "Grimorio Real",
@@ -2177,6 +2313,7 @@
     },
     "37147251": {
         "CHS": "匣里日月",
+        "CHT": "匣裡日月",
         "DE": "Sonne und Mond",
         "EN": "Solar Pearl",
         "ES": "Perla Solar",
@@ -2193,6 +2330,7 @@
     },
     "2521338131": {
         "CHS": "试作金珀",
+        "CHT": "試作金珀",
         "DE": "Bernstein-Prototyp",
         "EN": "Prototype Amber",
         "ES": "Prototipo Ámbar",
@@ -2209,6 +2347,7 @@
     },
     "1072884907": {
         "CHS": "万国诸海图谱",
+        "CHT": "萬國諸海圖譜",
         "DE": "Illustrationen von Landen und Wassern",
         "EN": "Mappa Mare",
         "ES": "Carta Náutica",
@@ -2225,6 +2364,7 @@
     },
     "3273999011": {
         "CHS": "黑岩绯玉",
+        "CHT": "黑岩緋玉",
         "DE": "Schwarzstein-Achat",
         "EN": "Blackcliff Agate",
         "ES": "Ágata del Peñasco Oscuro",
@@ -2241,6 +2381,7 @@
     },
     "3156385731": {
         "CHS": "昭心",
+        "CHT": "昭心",
         "DE": "Herzensblick",
         "EN": "Eye of Perception",
         "ES": "Ojo de la Perspicacia",
@@ -2257,6 +2398,7 @@
     },
     "3090373787": {
         "CHS": "暗巷的酒与诗",
+        "CHT": "暗巷的酒與詩",
         "DE": "Wein und Gesang in den Gassen",
         "EN": "Wine and Song",
         "ES": "Vino y Poesía",
@@ -2273,6 +2415,7 @@
     },
     "415851979": {
         "CHS": "",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
@@ -2289,6 +2432,7 @@
     },
     "2587614459": {
         "CHS": "忍冬之果",
+        "CHT": "忍冬之果",
         "DE": "Permafrostfrucht",
         "EN": "Frostbearer",
         "ES": "Frío Eterno",
@@ -2305,6 +2449,7 @@
     },
     "3456986819": {
         "CHS": "嘟嘟可故事集",
+        "CHT": "嘟嘟可故事集",
         "DE": "Dodoco-Geschichten",
         "EN": "Dodoco Tales",
         "ES": "Cuentos de Dodoco",
@@ -2321,6 +2466,7 @@
     },
     "2324146259": {
         "CHS": "白辰之环",
+        "CHT": "白辰之環",
         "DE": "Hakushin-Ring",
         "EN": "Hakushin Ring",
         "ES": "Anillo de Hakushin",
@@ -2337,6 +2483,7 @@
     },
     "2539208459": {
         "CHS": "证誓之明瞳",
+        "CHT": "證誓之明瞳",
         "DE": "Auge des Gelöbnisses",
         "EN": "Oathsworn Eye",
         "ES": "Ojo del Juramento",
@@ -2353,6 +2500,7 @@
     },
     "426363739": {
         "CHS": "流浪的晚星",
+        "CHT": "流浪的晚星",
         "DE": "Wandernder Abendstern",
         "EN": "Wandering Evenstar",
         "ES": "Estrella Errabunda",
@@ -2369,6 +2517,7 @@
     },
     "2267978875": {
         "CHS": "盈满之实",
+        "CHT": "盈滿之實",
         "DE": "Vollmondfrucht",
         "EN": "Fruit of Fulfillment",
         "ES": "Fruto de la Culminación",
@@ -2385,6 +2534,7 @@
     },
     "2275710883": {
         "CHS": "遗祀玉珑",
+        "CHT": "遺祀玉瓏",
         "DE": "Zeremonielle Jade",
         "EN": "Sacrificial Jade",
         "ES": "Jade Sacrificial",
@@ -2401,6 +2551,7 @@
     },
     "2432865507": {
         "CHS": "纯水流华",
+        "CHT": "純水流華",
         "DE": "Fließende Reinheit",
         "EN": "Flowing Purity",
         "ES": "Fluencia Impoluta",
@@ -2417,6 +2568,7 @@
     },
     "2722902043": {
         "CHS": "无垠蔚蓝之歌",
+        "CHT": "無垠蔚藍之歌",
         "DE": "Ballade des unendlichen Blaus",
         "EN": "Ballad of the Boundless Blue",
         "ES": "Oda al Vasto Azul",
@@ -2433,6 +2585,7 @@
     },
     "807607555": {
         "CHS": "天空之卷",
+        "CHT": "天空之卷",
         "DE": "Himmelsatlas",
         "EN": "Skyward Atlas",
         "ES": "Pergamino Celestial",
@@ -2449,6 +2602,7 @@
     },
     "1455107995": {
         "CHS": "四风原典",
+        "CHT": "四風原典",
         "DE": "Gebete der Vier Winde",
         "EN": "Lost Prayer to the Sacred Winds",
         "ES": "Oración Perdida a los Vientos Sagrados",
@@ -2465,6 +2619,7 @@
     },
     "452043283": {
         "CHS": "",
+        "CHT": "散佚的敘事詩",
         "DE": "Ballade des Verlusts",
         "EN": "Lost Ballade",
         "ES": "Balada Perdida",
@@ -2481,6 +2636,7 @@
     },
     "693354267": {
         "CHS": "尘世之锁",
+        "CHT": "塵世之鎖",
         "DE": "Ketten des Diesseits",
         "EN": "Memory of Dust",
         "ES": "Candado Terrenal",
@@ -2497,6 +2653,7 @@
     },
     "4007372867": {
         "CHS": "碧落之珑",
+        "CHT": "碧落之瓏",
         "DE": "Jadesturz-Pracht",
         "EN": "Jadefall's Splendor",
         "ES": "Centelleo Jadecaído",
@@ -2513,6 +2670,7 @@
     },
     "1890163363": {
         "CHS": "不灭月华",
+        "CHT": "不滅月華",
         "DE": "Ewiger Mondschein",
         "EN": "Everlasting Moonglow",
         "ES": "Luna Inalterable",
@@ -2529,6 +2687,7 @@
     },
     "4123950051": {
         "CHS": "",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
@@ -2545,6 +2704,7 @@
     },
     "310247243": {
         "CHS": "神乐之真意",
+        "CHT": "神樂之真意",
         "DE": "Kaguras Wahrheit",
         "EN": "Kagura's Verity",
         "ES": "Axioma de la Kagura",
@@ -2561,6 +2721,7 @@
     },
     "1201790667": {
         "CHS": "千夜浮梦",
+        "CHT": "千夜浮夢",
         "DE": "Fließende Träume von tausend Nächten",
         "EN": "A Thousand Floating Dreams",
         "ES": "Sueños de las Mil Noches",
@@ -2577,6 +2738,7 @@
     },
     "359484419": {
         "CHS": "图莱杜拉的回忆",
+        "CHT": "圖萊杜拉的回憶",
         "DE": "Tulaytullahs Erinnerung",
         "EN": "Tulaytullah's Remembrance",
         "ES": "Reminiscencia de Tulaytulah",
@@ -2593,6 +2755,7 @@
     },
     "724881171": {
         "CHS": "金流监督",
+        "CHT": "金流監督",
         "DE": "Monetäre Aufsichtseinheit",
         "EN": "Cashflow Supervision",
         "ES": "Supervisor Flujoáurico",
@@ -2609,6 +2772,7 @@
     },
     "4176923379": {
         "CHS": "万世流涌大典",
+        "CHT": "萬世流湧大典",
         "DE": "Lehre des ewigen Flusses",
         "EN": "Tome of the Eternal Flow",
         "ES": "Escrituras del Fluir Sempiterno",
@@ -2625,6 +2789,7 @@
     },
     "3660626387": {
         "CHS": "鹤鸣余音",
+        "CHT": "鶴鳴餘音",
         "DE": "Widerhallender Ruf des Kranichs",
         "EN": "Crane's Echoing Call",
         "ES": "Reverberación de la Grulla",
@@ -2641,6 +2806,7 @@
     },
     "3600623979": {
         "CHS": "猎弓",
+        "CHT": "獵弓",
         "DE": "Jagdbogen",
         "EN": "Hunter's Bow",
         "ES": "Arco del Cazador",
@@ -2657,6 +2823,7 @@
     },
     "2340970067": {
         "CHS": "历练的猎弓",
+        "CHT": "歷練的獵弓",
         "DE": "Alter Jagdbogen",
         "EN": "Seasoned Hunter's Bow",
         "ES": "Arco del Cazador Estacional",
@@ -2673,6 +2840,7 @@
     },
     "3975746731": {
         "CHS": "鸦羽弓",
+        "CHT": "鴉羽弓",
         "DE": "Rabenbogen",
         "EN": "Raven Bow",
         "ES": "Arco de Cuervo",
@@ -2689,6 +2857,7 @@
     },
     "656120259": {
         "CHS": "神射手之誓",
+        "CHT": "神射手之誓",
         "DE": "Eid des Scharfschützen",
         "EN": "Sharpshooter's Oath",
         "ES": "Juramento del Arquero",
@@ -2705,6 +2874,7 @@
     },
     "4267718859": {
         "CHS": "反曲弓",
+        "CHT": "反曲弓",
         "DE": "Reflexbogen",
         "EN": "Recurve Bow",
         "ES": "Arco Recurvo",
@@ -2721,6 +2891,7 @@
     },
     "1021898539": {
         "CHS": "弹弓",
+        "CHT": "彈弓",
         "DE": "Steinschleuder",
         "EN": "Slingshot",
         "ES": "Tirachinas",
@@ -2737,6 +2908,7 @@
     },
     "4139294531": {
         "CHS": "信使",
+        "CHT": "信使",
         "DE": "Überbringer",
         "EN": "Messenger",
         "ES": "Mensajero",
@@ -2753,6 +2925,7 @@
     },
     "2242027395": {
         "CHS": "黑檀弓",
+        "CHT": "黑檀弓",
         "DE": "Ebenholzbogen",
         "EN": "Ebony Bow",
         "ES": "Arco de Ébano",
@@ -2769,6 +2942,7 @@
     },
     "1240067179": {
         "CHS": "西风猎弓",
+        "CHT": "西風獵弓",
         "DE": "Favonius-Jagdbogen",
         "EN": "Favonius Warbow",
         "ES": "Arco de Favonius",
@@ -2785,6 +2959,7 @@
     },
     "2556914683": {
         "CHS": "绝弦",
+        "CHT": "絕弦",
         "DE": "Der Sehnenlose",
         "EN": "The Stringless",
         "ES": "Último Acorde",
@@ -2801,6 +2976,7 @@
     },
     "2400012995": {
         "CHS": "祭礼弓",
+        "CHT": "祭禮弓",
         "DE": "Opferbogen",
         "EN": "Sacrificial Bow",
         "ES": "Arco del Sacrificio",
@@ -2817,6 +2993,7 @@
     },
     "2832648187": {
         "CHS": "宗室长弓",
+        "CHT": "宗室長弓",
         "DE": "Königlicher Langbogen",
         "EN": "Royal Bow",
         "ES": "Arco Real",
@@ -2833,6 +3010,7 @@
     },
     "3169209451": {
         "CHS": "弓藏",
+        "CHT": "弓藏",
         "DE": "Rostiger Bogen",
         "EN": "Rust",
         "ES": "Herrumbre",
@@ -2849,6 +3027,7 @@
     },
     "3625393819": {
         "CHS": "试作澹月",
+        "CHT": "試作澹月",
         "DE": "Mondschein-Prototyp",
         "EN": "Prototype Crescent",
         "ES": "Prototipo Luz de Luna",
@@ -2865,6 +3044,7 @@
     },
     "411685275": {
         "CHS": "钢轮弓",
+        "CHT": "鋼輪弓",
         "DE": "Compoundbogen",
         "EN": "Compound Bow",
         "ES": "Arco Compuesto",
@@ -2881,6 +3061,7 @@
     },
     "3447737235": {
         "CHS": "黑岩战弓",
+        "CHT": "黑岩戰弓",
         "DE": "Schwarzstein-Kriegsbogen",
         "EN": "Blackcliff Warbow",
         "ES": "Arco del Peñasco Oscuro",
@@ -2897,6 +3078,7 @@
     },
     "3439749859": {
         "CHS": "苍翠猎弓",
+        "CHT": "蒼翠獵弓",
         "DE": "Grasgrüner Jagdbogen",
         "EN": "The Viridescent Hunt",
         "ES": "Arco de la Cazadora Esmeralda",
@@ -2913,6 +3095,7 @@
     },
     "2417717595": {
         "CHS": "暗巷猎手",
+        "CHT": "暗巷獵手",
         "DE": "Gassenjäger",
         "EN": "Alley Hunter",
         "ES": "Cazador del Callejón",
@@ -2929,6 +3112,7 @@
     },
     "2425414923": {
         "CHS": "落霞",
+        "CHT": "落霞",
         "DE": "Ausklingende Dämmerung",
         "EN": "Fading Twilight",
         "ES": "Desvanecimiento del Crepúsculo",
@@ -2945,6 +3129,7 @@
     },
     "3949653579": {
         "CHS": "幽夜华尔兹",
+        "CHT": "幽夜華爾滋",
         "DE": "Mitternachtswalzer",
         "EN": "Mitternachts Waltz",
         "ES": "Vals Nocturno",
@@ -2961,6 +3146,7 @@
     },
     "650049651": {
         "CHS": "风花之颂",
+        "CHT": "風花之頌",
         "DE": "Windblumenode",
         "EN": "Windblume Ode",
         "ES": "Oda a las Flores de Viento",
@@ -2977,6 +3163,7 @@
     },
     "4186179883": {
         "CHS": "破魔之弓",
+        "CHT": "破魔之弓",
         "DE": "Hamayumi",
         "EN": "Hamayumi",
         "ES": "Masacrademonios",
@@ -2993,6 +3180,7 @@
     },
     "540938627": {
         "CHS": "掠食者",
+        "CHT": "掠食者",
         "DE": "Raubtier",
         "EN": "Predator",
         "ES": "Depredador",
@@ -3009,6 +3197,7 @@
     },
     "1860795787": {
         "CHS": "曚云之月",
+        "CHT": "曚雲之月",
         "DE": "Mouun-Mond",
         "EN": "Mouun's Moon",
         "ES": "Luna de Mouun",
@@ -3025,6 +3214,7 @@
     },
     "3176599083": {
         "CHS": "王下近侍",
+        "CHT": "王下近侍",
         "DE": "Gefolgsfrau des Königs",
         "EN": "King's Squire",
         "ES": "Vasalla del Rey",
@@ -3041,6 +3231,7 @@
     },
     "3063191787": {
         "CHS": "竭泽",
+        "CHT": "竭澤",
         "DE": "Schwertfischer",
         "EN": "End of the Line",
         "ES": "Fin de las Aguas",
@@ -3057,6 +3248,7 @@
     },
     "316078811": {
         "CHS": "鹮穿之喙",
+        "CHT": "䴉穿之喙",
         "DE": "Durchdringer der Ibisse",
         "EN": "Ibis Piercer",
         "ES": "Perforaibis",
@@ -3073,6 +3265,7 @@
     },
     "2958179435": {
         "CHS": "烈阳之嗣",
+        "CHT": "烈陽之嗣",
         "DE": "Spross der flammenden Sonne",
         "EN": "Scion of the Blazing Sun",
         "ES": "Descendientes del Sol Abrasador",
@@ -3089,6 +3282,7 @@
     },
     "2600875323": {
         "CHS": "静谧之曲",
+        "CHT": "靜謐之曲",
         "DE": "Gesang der Stille",
         "EN": "Song of Stillness",
         "ES": "Serenata del Sosiego",
@@ -3105,6 +3299,7 @@
     },
     "1055195035": {
         "CHS": "测距规",
+        "CHT": "測距規",
         "DE": "Entfernungsmesser",
         "EN": "Range Gauge",
         "ES": "Medidor Telemétrico",
@@ -3121,6 +3316,7 @@
     },
     "3933622347": {
         "CHS": "天空之翼",
+        "CHT": "天空之翼",
         "DE": "Himmelsflügel",
         "EN": "Skyward Harp",
         "ES": "Alas Celestiales",
@@ -3137,6 +3333,7 @@
     },
     "828711395": {
         "CHS": "阿莫斯之弓",
+        "CHT": "阿莫斯之弓",
         "DE": "Amos’ Bogen",
         "EN": "Amos' Bow",
         "ES": "Arco de Amos",
@@ -3153,6 +3350,7 @@
     },
     "3112679155": {
         "CHS": "终末嗟叹之诗",
+        "CHT": "終末嗟嘆之詩",
         "DE": "Letzter Seufzer",
         "EN": "Elegy for the End",
         "ES": "Elegía del Fin",
@@ -3169,6 +3367,7 @@
     },
     "565329475": {
         "CHS": "",
+        "CHT": "昆吾墜龍",
         "DE": "Kunwus Drachenschlächter",
         "EN": "Kunwu's Wyrmbane",
         "ES": "Cazador de Dragones de Kunwu",
@@ -3185,6 +3384,7 @@
     },
     "1994081075": {
         "CHS": "",
+        "CHT": "懸黎千鈞",
         "DE": "Urzeitlicher Jadebogen",
         "EN": "Primordial Jade Vista",
         "ES": "Vista de Jade Primordial",
@@ -3201,6 +3401,7 @@
     },
     "2824690859": {
         "CHS": "",
+        "CHT": "破鏡",
         "DE": "Zerbrochener Spiegel",
         "EN": "Mirror Breaker",
         "ES": "Espejo Roto",
@@ -3217,6 +3418,7 @@
     },
     "1901973075": {
         "CHS": "冬极白星",
+        "CHT": "冬極白星",
         "DE": "Polarstern",
         "EN": "Polar Star",
         "ES": "Estrella Invernal",
@@ -3233,6 +3435,7 @@
     },
     "4230231107": {
         "CHS": "若水",
+        "CHT": "若水",
         "DE": "Aqua Simulacra",
         "EN": "Aqua Simulacra",
         "ES": "Aqua Simulacra",
@@ -3249,6 +3452,7 @@
     },
     "2918525947": {
         "CHS": "飞雷之弦振",
+        "CHT": "飛雷之弦振",
         "DE": "Donnerpuls",
         "EN": "Thundering Pulse",
         "ES": "Agitador del Relámpago",
@@ -3265,6 +3469,7 @@
     },
     "1348687251": {
         "CHS": "猎人之径",
+        "CHT": "獵人之徑",
         "DE": "Pfad des Jägers",
         "EN": "Hunter's Path",
         "ES": "Senda de la Cazadora",
@@ -3281,6 +3486,7 @@
     },
     "2988480723": {
         "CHS": "最初的大魔术",
+        "CHT": "最初的大魔術",
         "DE": "Erste große Magie",
         "EN": "The First Great Magic",
         "ES": "El Primer Gran Número de Magia",
@@ -3297,6 +3503,7 @@
     },
     "4137694339": {
         "CHS": "(test)竿测试",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
@@ -3313,6 +3520,7 @@
     },
     "2719832059": {
         "CHS": "(test)穿模测试",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
@@ -3329,6 +3537,7 @@
     },
     "500987603": {
         "CHS": "(test)穿模测试",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
@@ -3345,6 +3554,7 @@
     },
     "1595734083": {
         "CHS": "(test)穿模测试",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
@@ -3361,6 +3571,7 @@
     },
     "2009975571": {
         "CHS": "(test)穿模测试",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
@@ -3377,6 +3588,7 @@
     },
     "4162981171": {
         "CHS": "(test)穿模测试",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
@@ -3393,6 +3605,7 @@
     },
     "3762437019": {
         "CHS": "(test)穿模测试",
+        "CHT": "",
         "DE": "",
         "EN": "",
         "ES": "",
