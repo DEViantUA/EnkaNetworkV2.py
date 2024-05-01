@@ -25,7 +25,7 @@ DEALINGS IN THE SOFTWARE."""
 
 __title__ = 'enkanetworkV2.py'
 __author__ = 'DeviantUa'
-__version__ = '2.1.0'
+__version__ = '2.1.4'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2024-present DeviantUa'
 
@@ -33,7 +33,9 @@ __copyright__ = 'Copyright 2024-present DeviantUa'
 from .client import *
 from .exception import *
 from .model import *
+from .types import *
 from .utils import *
 from .cache import *
 from .enum import *
 from .assets import *
+from .enkanetwork_update import *

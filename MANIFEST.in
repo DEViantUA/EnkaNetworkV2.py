@@ -1,1 +1,3 @@
 include enkanetwork/assets/**/*.json
+recursive-include enkanetwork/enkanetwork_update *
+recursive-include enkanetwork/types *
