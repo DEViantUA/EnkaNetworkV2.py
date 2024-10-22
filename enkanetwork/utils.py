@@ -62,7 +62,7 @@ def validate_uid(uid: str) -> bool:
     """
         Validate UID
     """
-    return len(uid) == 9 and uid.isdigit() and re.match(
+    return len(uid) in [9,10] and uid.isdigit() and re.match(
         r"([1,2,5-9])\d{8}", uid)
 
 
